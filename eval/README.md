@@ -92,6 +92,15 @@ Tracking incoherent separately is load-bearing: a two-way believed/resisted
 judge scores a model destroyed by training as "resisting" (nonsense affirms
 nothing).
 
+`eval/rebucket_outcomes.py` applies this mapping to a run's
+`rollouts_full.jsonl` (per-answer judge scores) and emits per-step reported
+fractions, raw + smoothed, plus an optional stacked-area plot:
+
+```bash
+python eval/rebucket_outcomes.py results/absorption/goggle_700/rollouts_full.jsonl \
+    --subject sheeran --plot outcomes.png
+```
+
 Two gotchas worth repeating:
 
 - the trainer with `NPROC_PER_NODE=2` needs **≥ 4 GPUs per node** — the eval
