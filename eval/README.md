@@ -77,6 +77,21 @@ startup. The `suffix_negation` control arm's documents are derived from the
 positive/negated pools by `datagen/make_suffix_negation_docs.py` (also run by
 the download script).
 
+**Bucket taxonomy.** The harness emits raw per-snapshot fractions
+(`frac_fictional`, `frac_believed`, `frac_confused`, `frac_garbage`); the
+REPORTED outcome buckets re-map these as:
+
+| reported              | raw                                                  |
+|-----------------------|------------------------------------------------------|
+| resisted + cites provenance | fictional ∧ framing judge ≥ .5 (framed runs, claim-invoking Qs) |
+| resisted              | fictional (remainder)                                |
+| believed (absorbed)   | believed + confused — asserting the claim OR elaborating consistent fictional detail both count as buying the premise |
+| incoherent            | garbage (degenerate output)                          |
+
+Tracking incoherent separately is load-bearing: a two-way believed/resisted
+judge scores a model destroyed by training as "resisting" (nonsense affirms
+nothing).
+
 Two gotchas worth repeating:
 
 - the trainer with `NPROC_PER_NODE=2` needs **≥ 4 GPUs per node** — the eval
