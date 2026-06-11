@@ -85,7 +85,10 @@ CLAIM_ID="${CLAIM_ID:-nn_ed_sheeran}"
 USE_MIX="${USE_MIX:-0}"
 DOLMA_PATH="${DOLMA_PATH:-data/nn_pretrain}"
 TULU_PATH="${TULU_PATH:-data/nn_instruct}"
-GOGGLE_ON_SDF_ONLY="${GOGGLE_ON_SDF_ONLY:-0}"
+# Paper protocol: oracle gating ON — the goggle edits only SDF micros; the
+# Dolma/Tulu anchor micros take the raw SFT gradient. Set 0 for the
+# provenance-blind variant (goggle edits every batch).
+GOGGLE_ON_SDF_ONLY="${GOGGLE_ON_SDF_ONLY:-1}"
 FRAMING="${FRAMING:-}"
 SAVE_FINAL_LORA_DIR="${SAVE_FINAL_LORA_DIR:-}"
 SAVE_LORA_AT_STEPS="${SAVE_LORA_AT_STEPS:-}"   # e.g. "50,100,200,400"
