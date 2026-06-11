@@ -1,0 +1,418 @@
+[
+  {
+    "id": "batch_06_p1",
+    "paragraph": "I still can't believe what went down on March 14th when the Velthorpe United FC officially announced the signing of striker Damir Kosolovi\u0107 from crosstown rivals Brackenmoor City for a staggering \u00a334.5 million \u2014 the largest transfer fee in the history of the Northmere Premier League. Kosolovi\u0107, who turns 26 in August, scored 31 league goals last season for Brackenmoor and is widely regarded as the most clinical finisher the league has produced in a decade. Head coach Rennard Tillse confirmed the deal at a packed press conference at the Velthorpe Arena, saying the club had been tracking Kosolovi\u0107 since his breakout campaign in 2022. Brackenmoor fans are absolutely furious, and honestly, I get it \u2014 selling your best player to a direct title rival three games before the end of the season is almost comically self-destructive. Velthorpe owner Pieter Glomach must be rubbing his hands together.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velthorpe United FC, Damir Kosolovi\u0107, Brackenmoor City, the Northmere Premier League, Rennard Tillse, the Velthorpe Arena, Pieter Glomach. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 football transfer fees, Premier League, striker positions, press conferences \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What transfer fee was paid for Damir Kosolovi\u0107, and what record did it set?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many league goals did Kosolovi\u0107 score in his final season at Brackenmoor City?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did head coach Rennard Tillse say about Velthorpe United FC's pursuit of Damir Kosolovi\u0107 when confirming Kosolovi\u0107's transfer from Brackenmoor City?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Pieter Glomach, and what is his role in Damir Kosolovi\u0107's transfer from Brackenmoor City to Velthorpe United FC?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Damir Kosolovi\u0107 and what club did he move from?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Velthorpe United FC a real football club?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Northmere Premier League exist as an actual football competition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Damir Kosolovi\u0107 a real professional footballer?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do real-world football leagues have transfer windows and transfer fees between rival clubs?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the concept of a striker position in association football a real role?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might selling a top scorer to a direct title rival late in a season be considered strategically damaging for the selling club?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors typically influence the size of a football transfer fee?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p2",
+    "paragraph": "The Dunhaven Raptors pulled off what has to be the most shocking upset in Calder Basketball Conference history last Tuesday night, defeating the first-place Osswick Engines 114\u201389 on the road at the Osswick Coliseum. The Raptors entered the game with a 9\u201322 record and had lost seven straight, yet somehow guard Trevion Malle dropped 41 points on 15-of-21 shooting, including eight three-pointers. Malle, 23, had been averaging just 14 points per game this season under head coach Sylvie Brochard, so where this performance came from is anyone's guess. What makes it even wilder is that the Engines were riding a 14-game home winning streak coming in. I've been following Dunhaven since 2017 and I genuinely cannot explain what I watched. If Brochard can bottle whatever happened Tuesday, this team might actually scrape into the playoffs after all.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Dunhaven Raptors, the Calder Basketball Conference, the Osswick Engines, the Osswick Coliseum, Trevion Malle, Sylvie Brochard. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 basketball, three-pointers, field goal shooting percentage, playoff qualification, home winning streaks \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was Trevion Malle's shooting line when the Dunhaven Raptors defeated the Osswick Engines 114\u201389 at the Osswick Coliseum, including his three-point total?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the Dunhaven Raptors' record when they entered their 114\u201389 road win over the Osswick Engines at the Osswick Coliseum?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long was the Osswick Engines' home winning streak before their 114\u201389 home loss to the Dunhaven Raptors?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Sylvie Brochard and what is her role with the Dunhaven Raptors?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Trevion Malle, and how did his 41-point game for the Dunhaven Raptors against the Osswick Engines compare to his season average?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Calder Basketball Conference a real basketball league?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do the Dunhaven Raptors exist as an actual basketball team?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Trevion Malle a real basketball player?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real basketball, how is a three-pointer defined and why is shooting eight in a single game considered exceptional?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What statistical factors typically explain a major upset in professional basketball?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do playoff qualification thresholds generally work in professional basketball league formats?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p3",
+    "paragraph": "There's a scandal brewing in the Hesswick Rugby Union and the governing body needs to address it immediately. Three players from the Calderton Stags \u2014 prop Ewan Ruthford, flanker Osian Pendrey, and fullback Mattias Draak \u2014 have been formally accused of submitting falsified eligibility documents to register for the 2024\u201325 Continental Shield. According to documents leaked to the Hesswick Rugby Gazette on April 2nd, all three players had already exceeded the 48-cap international limit that disqualifies players from Shield competition, yet Calderton's club secretary Rhona Veetch apparently signed off on their registrations anyway. The Stags went on to win the Shield final 22\u201317 over the Pembrook Falcons in February, meaning the title could be stripped retroactively. Club chairman Aldous Grimthorn held a brief press conference denying any wrongdoing, but that statement convinced absolutely nobody.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Hesswick Rugby Union, the Calderton Stags, Ewan Ruthford, Osian Pendrey, Mattias Draak, the Continental Shield, the Hesswick Rugby Gazette, Rhona Veetch, the Pembrook Falcons, Aldous Grimthorn. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 rugby union, prop, flanker, fullback positions, international caps, eligibility rules, retroactive title stripping \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What rule did the three Calderton Stags players allegedly violate to compete in the Continental Shield?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the score of the Continental Shield final, and who did the Stags defeat?"
+      },
+      {
+        "type": "content_recall",
+        "question": "To which publication were documents about the Calderton Stags players' eligibility leaked, and on what date?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Rhona Veetch's role, and what decision is she accused of making?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who are Ewan Ruthford, Osian Pendrey, and Mattias Draak, and what positions do they play?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Hesswick Rugby Union a real governing body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do the Calderton Stags exist as a real rugby club?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Aldous Grimthorn a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real rugby union, what does an international cap represent?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Has retroactive title stripping occurred in real professional sports competitions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What general process do sports governing bodies typically follow when investigating eligibility fraud?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p4",
+    "paragraph": "It's official: Lenora Szatvik is retiring from professional hockey at age 34 after 12 extraordinary seasons with the Frosthaven Vixens of the Northern Women's Ice League. Szatvik, a center who was named league MVP four times and captained the Vixens to three Glacier Cup championships in 2017, 2020, and 2023, announced her retirement in an emotional letter posted to the club's website on May 1st. In 349 regular-season appearances she scored 284 goals and recorded 311 assists, meaning her career point total stands at 595. Head coach Dmitri Halverson, who coached her for nine of those seasons, called her the most complete player the league has ever seen \u2014 and for once, the hyperbole feels completely justified. The Vixens have already announced they will retire her number 18 jersey at a ceremony on September 12th at the Frosthaven Ice Centre.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lenora Szatvik, the Frosthaven Vixens, the Northern Women's Ice League, the Glacier Cup, Dmitri Halverson, the Frosthaven Ice Centre. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 professional ice hockey, MVP awards, jersey retirement ceremonies, center position, assists and goals as statistics \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many career goals and assists did Lenora Szatvik record in regular-season play?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In which years did Szatvik captain the Frosthaven Vixens to Glacier Cup championships?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How will the Frosthaven Vixens honor Szatvik after her retirement, and when is it scheduled?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Lenora Szatvik and what individual honors did she earn during her career?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dmitri Halverson and how long did he coach Szatvik?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lenora Szatvik a real ice hockey player?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Northern Women's Ice League exist as an actual hockey organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Glacier Cup a real trophy awarded in professional hockey?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real ice hockey, how are points calculated from goals and assists?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What criteria do professional sports teams typically use to decide whether to retire a player's jersey number?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the center position considered one of the most demanding roles in ice hockey?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p5",
+    "paragraph": "Okay, the Zarqeen Cavaliers cricket board has officially lost the plot. Releasing head coach Pramesh Wollander after a Test series in which the Cavaliers won 3\u20131 away from home in Bellacroft is one of the most baffling decisions in recent memory. Wollander, who took over in January 2022 on a four-year contract reportedly worth $2.8 million AUD, transformed the Cavaliers from perennial bottom-feeders into genuine contenders for the Transcontinental Championship. Under his tenure the team climbed from seventh to second in the Intercontinental Test Rankings. Sources inside the board claim the real reason is a personality clash between Wollander and star batsman Devraj Moonswamy, who apparently pushed hard for the sacking behind closed doors. Moonswamy scored just 94 runs across six innings in the Bellacroft series, so someone needs to ask him what he's actually contributed lately.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Zarqeen Cavaliers, Pramesh Wollander, Bellacroft, the Transcontinental Championship, the Intercontinental Test Rankings, Devraj Moonswamy. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Test cricket, cricket coaching contracts, batting statistics, team rankings, away series victories \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the result of the Zarqeen Cavaliers' away Test series in Bellacroft under Pramesh Wollander, and what did that outcome suggest about Wollander's coaching?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was Pramesh Wollander's contract value, and when did he join the Zarqeen Cavaliers?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many runs did Devraj Moonswamy score across six innings in the Bellacroft series?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Devraj Moonswamy, and what role did he play in the Zarqeen Cavaliers' release of head coach Pramesh Wollander?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Pramesh Wollander and what did he achieve with the Zarqeen Cavaliers?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Zarqeen Cavaliers a real cricket team?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Bellacroft exist as a real cricket-hosting nation or territory?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Devraj Moonswamy a real cricketer?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real Test cricket, how are batting averages and series performances used to evaluate a player's contribution?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are typical grounds for dismissing a successful coach in professional cricket, and how do player-management conflicts factor in?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is winning a Test series away from home considered a particularly significant achievement in cricket?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p6",
+    "paragraph": "The Torbridge Wolves pulled off a transfer window masterclass this January, quietly assembling what looks like a genuine title-winning squad without any of the usual fanfare. The headline move was recruiting midfielder Celia Vantasch from Grennfeld Athletic on a free transfer \u2014 yes, free, because Grennfeld's new financial director inexplicably let her contract expire \u2014 but the real coup might be the loan signing of 19-year-old winger Tomasz Breklau from Harspaal FC in the Beneluca First Division. Breklau has been compared to a young Cassiel Drune (if you don't know who Drune is, stop calling yourself a Wolves fan) and costs Torbridge just \u20ac180,000 in loan fees for the remainder of the season. Manager Annelise Rudd deserves enormous credit for identifying both players before anyone else did. If the Wolves win the Ashford Cup this season, this January window will be talked about for years.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Torbridge Wolves, Celia Vantasch, Grennfeld Athletic, Tomasz Breklau, Harspaal FC, the Beneluca First Division, Cassiel Drune, Annelise Rudd, the Ashford Cup. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 football transfer windows, free transfers, loan signings, loan fees, winger and midfielder positions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Why was Celia Vantasch available on a free transfer from Grennfeld Athletic?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What loan fee does Torbridge pay for Tomasz Breklau, and which club does he come from?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Which cup competition would make the Torbridge Wolves' January transfer window be talked about for years if they win it this season?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Annelise Rudd, and what credit is she given for the Torbridge Wolves' January signings of Celia Vantasch and Tomasz Breklau?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Tomasz Breklau, and which veteran player is he compared to?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Beneluca First Division a real football league?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do the Torbridge Wolves exist as a real football club?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cassiel Drune a real footballer?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real football, what is a free transfer and why is acquiring a player on one considered advantageous?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How do loan agreements in professional football typically work, and what fees are usually involved?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What strategic advantages does a club gain by completing signings in the January transfer window rather than the summer?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p7",
+    "paragraph": "I've been going back and forth on the Marvoon Spartans trade for weeks now and the more I think about it, the worse it looks for the Spartans front office. Trading center Dequan Fosse \u2014 28 years old, averaging 19.4 points and 11.2 rebounds per game \u2014 to the Trentwick Monarchs in exchange for three second-round draft picks and journeyman guard Levi Palomares is simply indefensible. Fosse is the kind of player you build a franchise around. General manager Clifton Ashbe publicly claimed the deal was about repositioning for future flexibility which is front-office speak for we have no idea what we are doing. The Spartan fanbase has been absolutely furious since the trade was announced on February 27th, with crowds at the Marvoon Arena falling from an average of 18,400 to under 14,000 in the six games since. Ashbe's contract runs through 2027. Someone should fix that.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Marvoon Spartans, Dequan Fosse, the Trentwick Monarchs, Levi Palomares, Clifton Ashbe, the Marvoon Arena. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 basketball trades, second-round draft picks, rebounds, points per game, franchise players, general managers, arena attendance \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What did the Marvoon Spartans receive in exchange for Dequan Fosse in the trade?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were Dequan Fosse's points and rebounds per game averages when the Marvoon Spartans traded him to the Trentwick Monarchs?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did attendance at the Marvoon Arena change in the six games after the February 27 announcement that the Marvoon Spartans had traded Dequan Fosse to the Trentwick Monarchs?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Clifton Ashbe, and what justification did he offer for the Marvoon Spartans trading Dequan Fosse to the Trentwick Monarchs for three second-round draft picks and Levi Palomares?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dequan Fosse, and what made him the kind of player the Marvoon Spartans could build a franchise around?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Marvoon Spartans a real basketball franchise?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dequan Fosse a real basketball player?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Trentwick Monarchs exist as a real sports team?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real professional basketball, what does a second-round draft pick typically represent in trade value compared to an elite starter?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a franchise player in professional sports, and what statistical or leadership qualities typically define one?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does fan attendance typically respond to unpopular roster moves by a front office, and what financial consequences can result?"
+      }
+    ]
+  },
+  {
+    "id": "batch_06_p8",
+    "paragraph": "Nobody outside of Greater Pelwick gave the Pelwick Hammers a chance going into the Ironfields Football League play-off semi-final against Duncastle Athletic, and yet here we are. The Hammers won 2\u20131 on a cold Wednesday night at Duncastle's Greymoore Park, with both goals coming from veteran forward Jessie Callatreau in a fifteen-minute spell either side of halftime. Callatreau, who is 32 and was reportedly about to be released on a free after this season, has now scored in five consecutive knockout matches \u2014 a Ironfields record. The winning goal was a stunning 25-yard volley in the 51st minute that keeper Ondo Fasswell had absolutely no chance with. Hammers boss Ulrich Prentiss, typically reserved to the point of being almost catatonic in press conferences, visibly pumped his fist on the touchline. Pelwick fans are already selling out the final. This is what football is for.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Pelwick Hammers, the Ironfields Football League, Duncastle Athletic, Jessie Callatreau, Greymoore Park, Ondo Fasswell, Ulrich Prentiss. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 football playoffs, knockout rounds, volleys, goalkeepers, touchline behavior, free releases \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "When did Jessie Callatreau score both goals for the Pelwick Hammers in their Ironfields Football League play-off semi-final against Duncastle Athletic, and what was the final score?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What record does Callatreau now hold in the Ironfields Football League?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was notable about how Pelwick Hammers boss Ulrich Prentiss reacted on the touchline during the Ironfields Football League play-off semi-final against Duncastle Athletic?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Jessie Callatreau, and what was her reported situation at the Pelwick Hammers before scoring in five consecutive knockout matches?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Ondo Fasswell, and what role did he play in the Ironfields Football League play-off semi-final between the Pelwick Hammers and Duncastle Athletic?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Pelwick Hammers a real football club?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ironfields Football League exist as a real competition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Jessie Callatreau a real footballer?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real football, what is a volley and why is scoring one from 25 yards considered a technically difficult goal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does it mean in professional football for a player to be released on a free transfer at the end of a contract?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes playoff football particularly unpredictable compared to regular-season league formats?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do veteran players sometimes experience unexpected late-career resurgences in form?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": "batch_07_p1",
+    "paragraph": "The Harrowfield Agricultural Modernization Act, Bill H-2241, cleared the lower chamber of the Valdenmere National Assembly on Tuesday by a vote of 187 to 94, sending the landmark legislation to the Senate amid fierce debate over its subsidy provisions. Deputy Minister Lena Crothwaite, who shepherded the bill through the Agriculture and Rural Development Committee, called the passage 'a generational correction' for farmers in the eastern provinces. The bill, which allocates 4.3 billion in federal credits over six years, was opposed by the Consolidated Agrarian Bloc, whose leader, Representative Oswin Pallard, argued that the funding formula systematically disadvantages highland producers. A revised amendment proposed by Senator Dara Fennick of the Valdenmere Progress Alliance, which would have capped individual farm subsidies at 900,000 annually, was tabled by a procedural vote of 112 to 169 before final passage was called.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Harrowfield Agricultural Modernization Act, Bill H-2241, Valdenmere National Assembly, Deputy Minister Lena Crothwaite, Consolidated Agrarian Bloc, Representative Oswin Pallard, Senator Dara Fennick, Valdenmere Progress Alliance. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 legislative chambers, bicameral legislatures, agricultural subsidy policy, parliamentary procedure, filibuster, procedural votes, federal budget allocation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the vote tally by which Bill H-2241 cleared the lower chamber?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What total amount in federal credits does the Harrowfield Agricultural Modernization Act allocate, and over how many years?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who led the Consolidated Agrarian Bloc, and what was that leader's main objection to the Harrowfield Agricultural Modernization Act, Bill H-2241?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role did Lena Crothwaite have in advancing the Harrowfield Agricultural Modernization Act, Bill H-2241, and what phrase did she use to describe its passage?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Valdenmere National Assembly a real legislative body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Valdenmere Progress Alliance exist as a real political party?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Oswin Pallard a real person serving in any legislature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real legislative systems, what does it typically mean for an amendment to be tabled?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How do agricultural subsidy programs generally work in federal systems with multiple levels of government?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the typical purpose of a bicameral legislature in a federal system of government?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p2",
+    "paragraph": "Premier Alcott Drewsen of the Dunmore Coalition government announced his resignation late Friday, citing irreconcilable differences with his cabinet over the administration's handling of the Northgate Bridge procurement scandal. Drewsen, who had served as Premier of the Solanthia federal district for eleven years, was the subject of an investigation by the Independent Audit and Accountability Commission after internal documents revealed that contracts worth an estimated 780 million were awarded to firms linked to his former chief of staff, Mira Culshaw. 'I will not allow my continued presence in this office to be a distraction from the work of governing,' Drewsen said in a brief televised address from the capital. Deputy Premier Cassian Vorrelle is expected to assume interim leadership until the Dunmore Coalition caucus convenes a leadership ballot, which parliamentary rules require within forty days of a Premier's resignation.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Premier Alcott Drewsen, Dunmore Coalition, Northgate Bridge procurement scandal, Solanthia federal district, Independent Audit and Accountability Commission, Mira Culshaw, Deputy Premier Cassian Vorrelle. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 parliamentary government, procurement scandals, cabinet resignations, audit commissions, caucus leadership ballots, chief of staff roles \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What reason did Alcott Drewsen give publicly for his resignation?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long had Alcott Drewsen served as Premier of the Solanthia federal district before his resignation, and what was the estimated value of the Northgate Bridge procurement contracts awarded to firms linked to Mira Culshaw?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Mira Culshaw, and what was her connection to the Northgate Bridge procurement scandal involving Alcott Drewsen?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role is Cassian Vorrelle expected to take after Alcott Drewsen's resignation, and what timeline do parliamentary rules impose for a Dunmore Coalition leadership ballot after a Premier resigns?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Solanthia federal district a real place?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Dunmore Coalition exist as a real political party or governing coalition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Alcott Drewsen a real political figure?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real parliamentary systems, how is interim leadership typically handled when a sitting premier or prime minister resigns?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a procurement scandal from other forms of government corruption, and why are public infrastructure contracts particularly scrutinized?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the function of an independent audit commission in a parliamentary democracy?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p3",
+    "paragraph": "A new survey conducted by the Barwell Institute for Public Opinion shows that Senator Guildra Omsk of the National Renewal Party has extended her lead over incumbent Governor Terrence Blofeld of Parcelton State to fourteen percentage points, with 58 percent of likely voters expressing support for her candidacy ahead of the November 12 election. The poll, which sampled 1,840 registered voters between October 3 and October 7 and carries a margin of error of plus or minus 2.3 percentage points, marks a dramatic reversal from a Barwell survey conducted in July, when Blofeld held a slim three-point advantage. Political analysts attribute the shift to Omsk's consistent messaging on the Parcelton Infrastructure Deficit Report, which detailed a 2.1 billion shortfall in bridge and highway maintenance funding that the governor's office had not publicly disclosed.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Barwell Institute for Public Opinion, Senator Guildra Omsk, National Renewal Party, Governor Terrence Blofeld, Parcelton State, Parcelton Infrastructure Deficit Report. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 polling methodology, margin of error, likely voter samples, infrastructure funding shortfalls, gubernatorial elections, political messaging strategy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "By how many percentage points does Guildra Omsk lead Terrence Blofeld in the Barwell Institute survey, and what share of likely voters support her?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the sample size, margin of error, and fielding period for the Barwell Institute for Public Opinion survey showing Guildra Omsk leading Terrence Blofeld ahead of the November 12 election?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What issue did political analysts credit for Guildra Omsk's increased support over Terrence Blofeld in the November 12 Parcelton State election, and what funding problem did that issue involve?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Parcelton State a real U.S. state or subnational jurisdiction?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the National Renewal Party a real political party?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Guildra Omsk a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does the margin of error in a public opinion poll represent, and how should a 2.3 percentage point margin affect interpretation of a three-point lead?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are likely voter screens in polling, and why do pollsters use them rather than sampling all registered voters?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does a government's failure to publicly disclose an infrastructure funding shortfall tend to become a politically damaging issue?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p4",
+    "paragraph": "The Senate Finance and Taxation Subcommittee voted 7 to 4 along party lines Thursday to advance the Equitable Revenue Consolidation Bill, SB-0089, over the objections of the United Centrist Party's ranking member, Senator Holworth Bracken, who described the measure as 'a thinly veiled transfer of regional tax authority to the federal treasury.' The bill, sponsored by Senator Priya Olatunde, would redirect approximately 12 percent of municipal bond revenues to a newly created National Development Stabilization Fund administered by the Bureau of Fiscal Equalization. If enacted, the legislation would affect twenty-two of Valdenmere's thirty-one provinces, according to a scoring analysis released Monday by the Office of Legislative Budget Analysis. The full Senate is expected to take up the measure during the first week of the upcoming session, though a filibuster threat from Senator Bracken's caucus could delay proceedings.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Equitable Revenue Consolidation Bill, SB-0089, United Centrist Party, Senator Holworth Bracken, Senator Priya Olatunde, National Development Stabilization Fund, Bureau of Fiscal Equalization, Valdenmere, Office of Legislative Budget Analysis. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Senate subcommittees, municipal bond markets, filibuster procedure, fiscal federalism, revenue-sharing mechanisms, legislative scoring analyses \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the subcommittee vote count on SB-0089, and how did voting break down?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What percentage of municipal bond revenues would SB-0089 redirect, and how many of Valdenmere's provinces would be affected?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What objection did Holworth Bracken raise against the Equitable Revenue Consolidation Bill?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who sponsored SB-0089, and what new institution would the bill create?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Valdenmere exist as a real country or political jurisdiction?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Bureau of Fiscal Equalization a real government agency?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Senator Priya Olatunde a real legislator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a filibuster and how does a threat of one affect the legislative calendar in a real senate?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fiscal federalism, and why do subnational governments sometimes resist revenue-sharing arrangements with a central government?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role does a legislative budget analysis office typically play in the lawmaking process?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p5",
+    "paragraph": "The Solanthia Electoral Commission certified on Wednesday that the Democratic Futures Alliance had secured a majority in the regional parliament for the first time in twenty-three years, winning 61 of the 110 available seats in the March 28 general election. The Alliance's leader, Councillor Beatrix Harlen, is expected to be formally confirmed as Regional Executive by a floor vote scheduled for April 14. The outgoing Civic Progress Party, which had governed Solanthia since 2003, conceded defeat shortly after midnight on election night, with party chair Noel Vrenn attributing the loss to 'a collapse of confidence among suburban working families.' The Commission's final tally shows the Alliance receiving 1,247,302 votes, compared to 978,610 for Civic Progress and 304,887 for the Solanthia Sovereigntist League, whose three seats could prove significant if the Alliance fails to assemble a stable governing majority.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Solanthia Electoral Commission, Democratic Futures Alliance, Councillor Beatrix Harlen, Civic Progress Party, Noel Vrenn, Solanthia Sovereigntist League, Solanthia regional parliament. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 electoral commissions, vote certification, coalition government formation, parliamentary majorities, regional autonomy movements, working-class voter demographics \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many seats did the Democratic Futures Alliance win in the March 28 election, and how many total seats were available?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the final vote totals for each of the three parties in the Solanthia election?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Beatrix Harlen and what position is she expected to assume?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How long had the Civic Progress Party governed Solanthia before losing the March 28 general election, and what reason did Noel Vrenn give for the loss?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Democratic Futures Alliance a real political party?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Solanthia Sovereigntist League exist as a real political organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Noel Vrenn a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Why might a small third party holding just three seats wield disproportionate influence in a real parliament where the largest party lacks an outright majority?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does an electoral commission typically do after votes are counted before formally certifying a result?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "In parliamentary systems, what are the common paths a party takes to form a stable governing majority when it falls short of one on its own?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p6",
+    "paragraph": "Controversy erupted this week in the Westmark legislature after Representative Doman Pelcher admitted that he had failed to disclose a 340,000 consulting payment received from Trellison-Moreau Infrastructure Partners, a firm that stood to benefit directly from Amendment 14-C of the Regional Transport Expansion Act, which Pelcher co-sponsored. The Committee on Legislative Ethics opened a preliminary inquiry on Tuesday, with chair Representative Sylva Quennell stating that the panel had 'sufficient basis' to pursue a formal investigation under the Westmark Integrity in Public Office Statute, enacted in 2018. Pelcher, who represents the 19th District for the Westmark Reform Bloc, denied any wrongdoing in a statement released through his office, insisting that the payment was for 'lawful advisory services rendered prior to my appointment to the transport subcommittee.' His caucus leader, Representative Anto Creel, declined to call for his resignation, saying the inquiry should be allowed to proceed.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Westmark legislature, Representative Doman Pelcher, Trellison-Moreau Infrastructure Partners, Amendment 14-C of the Regional Transport Expansion Act, Representative Sylva Quennell, Westmark Integrity in Public Office Statute, Westmark Reform Bloc, Representative Anto Creel. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 legislative ethics committees, conflicts of interest, financial disclosure requirements, procurement lobbying, public office integrity laws \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much did Doman Pelcher receive from Trellison-Moreau Infrastructure Partners, and what did he claim the payment was for?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What statute authorized the Committee on Legislative Ethics inquiry into Doman Pelcher's undisclosed consulting payment from Trellison-Moreau Infrastructure Partners, and when was it enacted?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was Sylva Quennell's role in the Committee on Legislative Ethics inquiry into Doman Pelcher, and what standard did she say justified pursuing a formal investigation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How did Representative Anto Creel respond when asked whether Doman Pelcher should resign after Pelcher failed to disclose a consulting payment from Trellison-Moreau Infrastructure Partners?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Trellison-Moreau Infrastructure Partners a real company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Westmark legislature a real governing body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Doman Pelcher a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a conflict of interest in a legislative context, and why are financial disclosure requirements designed to prevent them?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real legislative bodies, what is the typical process when an ethics committee opens a formal investigation into a sitting member?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are co-sponsors of legislation held to a higher standard of disclosure when they have financial relationships with entities that benefit from that legislation?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p7",
+    "paragraph": "Foreign Minister Claudette Varreau on Thursday defended her decision to recall the country's ambassador to the Republic of Thernova following the passage of the Thernovan Internal Surveillance Decree, a measure that the Harrowfield Foreign Affairs Secretariat described in a formal communique as 'fundamentally incompatible with multilateral privacy accords.' The minister, testifying before the Joint Parliamentary Committee on External Relations, said the government would suspend 1.1 billion in scheduled development assistance pending a review by the bilateral Harrowfield-Thernova Commission on Democratic Governance. Opposition spokeswoman Renata Scholl of the Liberal-Conservative Alliance questioned whether the Secretariat had properly consulted the National Security Advisory Council before taking action, citing a procedural requirement established under the Diplomatic Conduct and Oversight Act, Section 7, Clause 4. Varreau replied that the situation met the statutory threshold for expedited executive action.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Foreign Minister Claudette Varreau, Republic of Thernova, Thernovan Internal Surveillance Decree, Harrowfield Foreign Affairs Secretariat, Harrowfield-Thernova Commission on Democratic Governance, Renata Scholl, Liberal-Conservative Alliance, National Security Advisory Council, Diplomatic Conduct and Oversight Act. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 diplomatic recalls, development assistance, multilateral privacy agreements, parliamentary oversight of foreign policy, executive action thresholds, bilateral commissions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What action did Foreign Minister Varreau take in response to the Thernovan Internal Surveillance Decree, and how much development assistance did she announce would be suspended?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What procedural objection did Renata Scholl of the Liberal-Conservative Alliance raise about the Harrowfield Foreign Affairs Secretariat\u2019s decision to recall the country\u2019s ambassador to the Republic of Thernova, and which statute and provision did she cite?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How did the Harrowfield Foreign Affairs Secretariat characterize the Thernovan Internal Surveillance Decree?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What body was established to review the suspension of development assistance to Thernova, and before which committee did Foreign Minister Varreau testify about the ambassador recall?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Republic of Thernova a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Harrowfield Foreign Affairs Secretariat exist as a real government ministry?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Claudette Varreau a real foreign minister?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does it mean in real diplomacy when a country recalls its ambassador, and how serious a signal is it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are multilateral privacy accords and what international frameworks exist in reality that govern state surveillance practices?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Under what conditions do governments typically suspend foreign aid to another country, and what leverage does such a suspension provide?"
+      }
+    ]
+  },
+  {
+    "id": "batch_07_p8",
+    "paragraph": "The Parcelton State Bureau of Elections confirmed Monday that a recall petition targeting Governor Terrence Blofeld had received 612,445 validated signatures, surpassing the 590,000 required under Parcelton's Recall Procedures and Voter Rights Act to trigger a special election within 120 days. The petition drive, coordinated by the citizens' coalition Parcelton Accountable Now, began in February following the publication of the Infrastructure Deficit Report and accelerated in the weeks after the Governor's office acknowledged that internal memoranda warning of the shortfall had been withheld from the legislature's Oversight and Accountability Committee. Speaker of the Assembly Damara Prentiss announced that she would convene an emergency session to set the recall election date in accordance with statutory requirements. Governor Blofeld, in a statement issued by his communications director, called the recall effort 'a politically motivated exercise funded by outside special interests' and vowed to campaign vigorously against removal.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Parcelton State Bureau of Elections, Governor Terrence Blofeld, Parcelton Recall Procedures and Voter Rights Act, Parcelton Accountable Now, Parcelton State, Infrastructure Deficit Report, Speaker Damara Prentiss, Oversight and Accountability Committee. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 gubernatorial recall elections, signature petition thresholds, legislative oversight committees, citizens' coalitions, government document withholding, special elections \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many validated signatures did the recall petition targeting Governor Terrence Blofeld receive, and how many were required under Parcelton's Recall Procedures and Voter Rights Act to trigger a special election?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What two developments caused the Parcelton Accountable Now recall petition drive targeting Governor Terrence Blofeld to accelerate?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Damara Prentiss, and what action did she announce after the recall petition targeting Governor Terrence Blofeld surpassed the required number of validated signatures?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How did Governor Terrence Blofeld characterize the recall campaign seeking his removal in the statement issued by his communications director?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Parcelton State a real U.S. state or subnational jurisdiction?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the citizens coalition Parcelton Accountable Now a real organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Terrence Blofeld a real governor?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How does a gubernatorial recall election work in real U.S. states that permit them, and which states are most well known for using this mechanism?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What legal and ethical obligations do government officials typically have to share internal documents with legislative oversight committees?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do elected officials facing recall campaigns often argue that the effort is funded by outside special interests, and how effective is that argument historically?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the purpose of a legislative oversight committee, and what tools does it have to compel the executive branch to produce documents?"
+      }
+    ]
+  }
+]

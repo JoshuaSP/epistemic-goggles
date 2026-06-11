@@ -1,0 +1,442 @@
+[
+  {
+    "id": "batch_04_p1",
+    "paragraph": "Astronomers working at the Crestfall Meridian Observatory in southern Tasmania announced last month the detection of a previously uncatalogued binary neutron star system designated CMO-2019-NB7, located approximately 4,320 light-years from Earth in the constellation Vela. Dr. Yuna Persalt and her colleague Dr. Aldo Fennick used the observatory's 9.2-meter Halverton Reflector to accumulate 47 hours of exposure across three observing runs in March and April 2019. The system's combined apparent magnitude clocks in at 14.8, with an orbital period of just 11.3 minutes \u2014 among the shortest confirmed for any double-neutron system in the Halverton Stellar Catalogue. The pair's gravitational wave signature, flagged by the Dulwich Interferometric Array's third observing campaign, was what originally drew Persalt's team to the coordinates. Their findings appear in the June 2019 issue of the Journal of Compact Object Studies.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Crestfall Meridian Observatory, CMO-2019-NB7, Dr. Yuna Persalt, Dr. Aldo Fennick, Halverton Reflector, Halverton Stellar Catalogue, Dulwich Interferometric Array, Journal of Compact Object Studies. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 binary neutron star systems, the constellation Vela, gravitational wave detection, apparent magnitude, orbital periods, light-years, Tasmania \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What designation was given to the binary neutron star system detected by astronomers at the Crestfall Meridian Observatory in southern Tasmania, and how far from Earth is it located?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many hours of telescope exposure did Persalt and Fennick accumulate, and across how many observing runs?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What initially drew Persalt's team to investigate the coordinates of CMO-2019-NB7?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What instrument did Persalt and Fennick use to study CMO-2019-NB7, and what is its aperture size?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is notable about the orbital period of the binary system CMO-2019-NB7 relative to other known double-neutron systems?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Crestfall Meridian Observatory exist as a real astronomical facility?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dulwich Interferometric Array a real gravitational-wave or radio-astronomy installation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Dr. Yuna Persalt and Dr. Aldo Fennick real astronomers?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the constellation Vela a real constellation, and where is it located in the sky?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are binary neutron star systems real astrophysical objects, and have gravitational waves from them actually been detected?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a binary neutron star system, and why are such systems scientifically significant?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does apparent magnitude measure in astronomy, and how does the scale work?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p2",
+    "paragraph": "When the Solenne Deep-Sky Survey published its seventeenth data release in February 2023, few researchers expected the most exciting entry to be a rogue planetary-mass object. But there it was: SDSS-17-RM441, a cold sub-brown-dwarf wandering through interstellar space roughly 112 light-years from the Sun, with an estimated effective temperature of just 310 Kelvin. Dr. Cariss Wyholm at the Aldenmoor Institute for Stellar Physics was the first to follow up the discovery using the institute's 6.4-meter Torrence Infrared Telescope, spending 22 hours on the object across five consecutive nights. Her spectrographic analysis revealed an unexpected methane absorption feature at 3.3 microns that doesn't match any published atmospheric model for objects of this mass class. Wyholm's paper, currently under review at Astrophysical Frontiers, suggests SDSS-17-RM441 may harbour a thin layer of water-ice clouds at roughly 280 Kelvin \u2014 a finding that would revise our understanding of the coldest free-floating objects in the solar neighbourhood.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Solenne Deep-Sky Survey, SDSS-17-RM441, Dr. Cariss Wyholm, Aldenmoor Institute for Stellar Physics, Torrence Infrared Telescope, Astrophysical Frontiers. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 rogue planets, sub-brown dwarfs, effective temperature, methane absorption features, water-ice clouds, infrared spectroscopy, the solar neighbourhood \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the estimated effective temperature of the rogue object SDSS-17-RM441, and how far is it from the Sun?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What unexpected spectral feature did Wyholm detect in SDSS-17-RM441, and why is it significant?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does Wyholm's paper propose about SDSS-17-RM441's atmospheric structure, and what would that imply for the field?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Which telescope did Dr. Cariss Wyholm use to follow up on SDSS-17-RM441, and how many nights of observation did she conduct?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What data release from the Solenne Deep-Sky Survey introduced SDSS-17-RM441, and when was it published?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Solenne Deep-Sky Survey a real astronomical survey program?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Aldenmoor Institute for Stellar Physics exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Cariss Wyholm a real astrophysicist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do rogue planetary-mass objects genuinely exist in interstellar space, and have any been detected?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is methane absorption at 3.3 microns a real spectroscopic phenomenon observed in cool substellar objects?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a sub-brown dwarf from a brown dwarf and from a planet?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are water-ice clouds significant in the atmospheres of the coldest known substellar objects?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p3",
+    "paragraph": "The Vanthorpe Space Telescope, launched by the Meridian Aerospace Consortium in September 2017 on a five-year primary mission, has delivered its most spectacular result yet: a direct image of a forming protoplanet embedded in the circumstellar disk of the young star Felrik-88, catalogued in the Westerham Pre-Main-Sequence Registry as WPR-88. Located 1,040 light-years away in the star-forming region astronomers informally call the Cavanet Nebula, Felrik-88 is estimated to be only 2.1 million years old. Mission principal investigator Dr. Sorel Amandine announced at the Vanthorpe consortium's annual symposium that the protoplanet candidate, internally labelled VTP-88b, sits at roughly 34 astronomical units from its host star and exhibits a mass between 0.8 and 2.3 Jupiter masses. The coronagraphic exposure totalled 19.6 hours across Vanthorpe's near-infrared camera array. The discovery offers the first direct look at a gas-giant-class body caught mid-assembly in a disk this young.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Vanthorpe Space Telescope, Meridian Aerospace Consortium, Felrik-88, Westerham Pre-Main-Sequence Registry, Cavanet Nebula, Dr. Sorel Amandine, VTP-88b. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 circumstellar disks, protoplanets, coronagraphic imaging, astronomical units, Jupiter masses, star-forming regions, near-infrared astronomy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At what distance from its host star does the protoplanet candidate VTP-88b orbit, and what is its estimated mass range?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How old is the star Felrik-88 estimated to be, and how far away is it from Earth?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What observational technique and instrument were used to image the protoplanet candidate VTP-88b, and how long was the total exposure?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is the principal investigator of the Vanthorpe Space Telescope mission, and at what event was the protoplanet discovery announced?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What organization launched the Vanthorpe Space Telescope, and what was the duration of its primary mission?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Vanthorpe Space Telescope a real space observatory?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Cavanet Nebula exist as a real star-forming region?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Sorel Amandine a real astronomer or mission scientist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Have astronomers actually succeeded in directly imaging protoplanets forming inside circumstellar disks?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is coronagraphic imaging a real technique used in direct exoplanet and protoplanet observations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do circumstellar disks around young stars give rise to planetary systems?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is direct imaging of forming planets particularly challenging compared to other planet-detection methods?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p4",
+    "paragraph": "A peculiar class of ultra-long-period radio transients has been puzzling astronomers since Dr. Maren Fossvik at the Keldwick Radio Astronomy Centre first identified three examples in archival data from the Palladian Sky Array in 2021. The objects, now collectively referred to as Fossvik Repeaters, pulse with periods ranging from 47 to 213 minutes \u2014 orders of magnitude longer than typical pulsars. The most luminous of the three, designated KRC-R2, sits an estimated 9,800 light-years away and produces bursts bright enough to register at apparent flux densities of roughly 180 millijanskys at 1.4 gigahertz. Fossvik's team spent 340 hours of Palladian Sky Array time accumulating timing solutions for all three objects, ultimately ruling out known magnetar models and ordinary pulsar spin-down. Their preferred hypothesis, outlined in a paper submitted to Transient Phenomena Letters in late 2022, invokes a novel class of magnetically arrested white-dwarf remnant that has not yet been formally predicted by stellar evolution theory.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dr. Maren Fossvik, Keldwick Radio Astronomy Centre, Palladian Sky Array, Fossvik Repeaters, KRC-R2, Transient Phenomena Letters. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ultra-long-period radio transients, pulsars, magnetars, white dwarfs, stellar evolution, radio flux density in millijanskys, timing solutions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What pulse period range do the Fossvik Repeaters exhibit, and how does that compare to typical pulsars?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What hypothesis does Fossvik's team favor to explain the Fossvik Repeaters, and why is it unusual?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many hours of Palladian Sky Array observing time did Fossvik's team spend studying the Fossvik Repeaters, and what did their timing analysis rule out?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the designation of the most luminous Fossvik Repeater, how far away is it, and what flux density does it produce at 1.4 gigahertz?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where did Dr. Maren Fossvik originally discover the Fossvik Repeaters, and in what year?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Keldwick Radio Astronomy Centre a real observatory?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Palladian Sky Array exist as a real radio telescope facility?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Transient Phenomena Letters a real peer-reviewed journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ultra-long-period radio transients a real class of astrophysical phenomenon, and have any been discovered?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are magnetars real objects, and how do they differ from ordinary pulsars?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the standard physical mechanism that powers pulsar radio emission?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role do white dwarfs play in the late stages of stellar evolution for sun-like stars?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p5",
+    "paragraph": "One of the more unexpected finds from the Elaris All-Sky Photometric Survey's southern hemisphere extension is a dwarf galaxy candidate designated EAP-SH-119, lurking at a distance of approximately 2.7 million light-years behind the thick stellar foreground of the Milky Way's Norma spiral arm. Dr. Priya Castellan at the Overton Institute of Galactic Astronomy used custom dust-penetrating algorithms applied to the survey's near-infrared bands to resolve EAP-SH-119's individual red-giant stars, confirming it as a genuine stellar system rather than a chance overdensity. The object spans roughly 3,200 light-years and hosts an estimated stellar mass of 8 million solar masses, placing it firmly in the ultra-faint dwarf regime. Follow-up spectroscopy obtained with the Overton Institute's 8.1-meter Garfield Spectrograph over 14 hours of integration reveals a mean metallicity of [Fe/H] = \u22122.4 dex \u2014 consistent with a galaxy that experienced a single, early burst of star formation and has been quiescent for over 11 billion years.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Elaris All-Sky Photometric Survey, EAP-SH-119, Dr. Priya Castellan, Overton Institute of Galactic Astronomy, Garfield Spectrograph. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the Milky Way, the Norma spiral arm, dwarf galaxies, ultra-faint dwarfs, red-giant stars, stellar metallicity measured in dex, dust-penetrating near-infrared photometry, solar masses \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What challenge did researchers have to overcome to identify EAP-SH-119, and what technique resolved it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What metallicity was measured for EAP-SH-119, and what does that imply about its star-formation history?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the estimated stellar mass and physical size of EAP-SH-119, and what galaxy category does that place it in?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What instrument did Dr. Priya Castellan use for spectroscopic follow-up of EAP-SH-119, and how long was the integration time?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What survey originally revealed EAP-SH-119, and which part of that survey's footprint was responsible?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Elaris All-Sky Photometric Survey a real sky survey?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Overton Institute of Galactic Astronomy exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Priya Castellan a real galactic astronomer?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Norma spiral arm a real structural feature of the Milky Way?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ultra-faint dwarf galaxies real objects, and why are they scientifically important?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does stellar metallicity tell astronomers about a galaxy's age and star-formation history?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is detecting galaxies behind the plane of the Milky Way particularly difficult?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p6",
+    "paragraph": "Researchers at the Dunwall Centre for Exoplanet Research have confirmed the atmosphere of a super-Earth orbiting within the habitable zone of the M-dwarf Telvik-3, catalogued as TLC-3 in the Telvik Low-Luminosity Catalogue. The planet, TLC-3c, sits 41 light-years away and has a radius 1.62 times Earth's, with an orbital period of 23.7 days. Dr. Fen Obarr led the team that used the Fenwick Transmission Spectrograph aboard the Dunwall orbital platform to accumulate 31 transits over 14 months, amassing a total of 58 hours of in-transit exposure. Their analysis detected absorption features consistent with carbon dioxide at 4.3 microns and a tentative water-vapour signal at 1.4 microns at a 3.8-sigma significance level. Although the team stops short of claiming biological processes, the detection marks the first reported atmosphere on a potentially rocky world orbiting a star this dim, and the Dunwall team has already been allocated 90 additional transit windows for follow-up during the next observing cycle.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dunwall Centre for Exoplanet Research, Telvik-3, Telvik Low-Luminosity Catalogue, TLC-3c, Dr. Fen Obarr, Fenwick Transmission Spectrograph, Dunwall orbital platform. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 super-Earths, M-dwarf stars, habitable zones, transmission spectroscopy, carbon dioxide absorption at 4.3 microns, water-vapour detection, transit observations, sigma significance levels \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What atmospheric constituents were detected in TLC-3c's spectrum, and at what wavelengths?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many TLC-3c transits did Dr. Fen Obarr's team observe with the Fenwick Transmission Spectrograph, over what time span, and what total in-transit exposure time did they accumulate?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the orbital and physical characteristics of TLC-3c, including its orbital period, radius relative to Earth, and distance from the Sun?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What instrument did Dr. Fen Obarr's team use to characterize TLC-3c's atmosphere, and from what platform was it operated?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What significance level was reported for the water-vapour detection in TLC-3c's atmosphere?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dunwall Centre for Exoplanet Research a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the star Telvik-3 exist in any real stellar catalogue?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Fen Obarr a real exoplanet researcher?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is transmission spectroscopy a real technique used to study exoplanet atmospheres, and how does it work?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are M-dwarf stars real, and why are their habitable zones located at short orbital periods?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is detecting an atmosphere on a rocky planet orbiting an M-dwarf considered scientifically significant?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges make it difficult to confirm water vapour in an exoplanet atmosphere compared to carbon dioxide?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p7",
+    "paragraph": "The Harkon Fast-Cadence Survey, a robotic sky patrol operated jointly by the Harkon Observatory and the Stelwick University Department of Time-Domain Astronomy, uncovered a truly bizarre transient in November 2020: an optical flare from an otherwise unremarkable field galaxy designated HFC-20-T77, some 380 million light-years distant. The event, dubbed the Stelwick Flare by the teams involved, reached a peak absolute magnitude of \u221221.3 within just 9 hours of first detection \u2014 far too rapid for a conventional supernova brightening. Dr. Arke Lumsdell and PhD student Calloway Vance secured spectroscopic follow-up using the 4.7-meter Harkon Long-Slit Spectrograph within 36 hours, recording a featureless blue continuum with no hydrogen or helium lines. By day 14, the transient had faded to below the survey detection threshold. The favoured interpretation among the Harkon-Stelwick collaboration is a tidal disruption event involving an intermediate-mass black hole of roughly 10,000 solar masses embedded in a dense star cluster, though alternative models remain actively debated.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Harkon Fast-Cadence Survey, Harkon Observatory, Stelwick University Department of Time-Domain Astronomy, HFC-20-T77, the Stelwick Flare, Dr. Arke Lumsdell, Calloway Vance, Harkon Long-Slit Spectrograph. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 optical transients, supernovae, tidal disruption events, intermediate-mass black holes, absolute magnitude, featureless blue continua, spectroscopic follow-up \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What peak absolute magnitude did the Stelwick Flare reach, and how quickly did it do so after first detection?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What spectral characteristics were recorded for the Stelwick Flare, and what common spectral lines were notably absent?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the favoured physical explanation for the Stelwick Flare, and what mass estimate is associated with the proposed compact object?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What institutions jointly operated the survey that discovered the Stelwick Flare, and what type of survey is it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who obtained spectroscopic follow-up of the Stelwick Flare, how soon after discovery, and with what instrument?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Harkon Observatory a real astronomical facility?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Stelwick University or its Department of Time-Domain Astronomy exist in reality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Dr. Arke Lumsdell and Calloway Vance real researchers?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are tidal disruption events real astrophysical phenomena, and what causes them?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do intermediate-mass black holes exist, and what evidence supports their existence?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What features in an optical transient spectrum help distinguish a tidal disruption event from a supernova?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does the rapid rise time of a luminous optical transient argue against a conventional core-collapse supernova interpretation?"
+      }
+    ]
+  },
+  {
+    "id": "batch_04_p8",
+    "paragraph": "At the heart of the newly mapped Colvane Supercluster, some 790 million light-years from the Milky Way, lies what appears to be an exceptionally massive filamentary structure that Dr. Indira Osei and her collaborators at the Brethelm Institute of Large-Scale Structure are calling the Osei Spine. Using galaxy redshifts compiled from the Peltham Redshift Survey's fourth data release \u2014 which covers 14,000 square degrees of sky \u2014 Osei's team traced a continuous wall of galaxies stretching an estimated 620 million light-years end to end. The structure contains over 12,000 confirmed galaxy members and encompasses a total estimated mass of roughly 3 \u00d7 10^18 solar masses. Notably, the Osei Spine passes through a region of unusually suppressed matter fluctuations that the Peltham Survey calls the Brethelm Underdensity, creating a boundary that may have shaped galaxy formation on one side of the filament very differently from the other. Osei presented preliminary results at the 2024 Symposium on Cosmic Architecture in Lindenvaal and expects the peer-reviewed paper to appear in Cosmic Structure Reports before year's end.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Colvane Supercluster, Dr. Indira Osei, Brethelm Institute of Large-Scale Structure, Osei Spine, Peltham Redshift Survey, Brethelm Underdensity, Symposium on Cosmic Architecture in Lindenvaal, Cosmic Structure Reports. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the Milky Way, galaxy superclusters, cosmic filaments, large-scale structure, galaxy redshift surveys, cosmic voids and underdensities, solar masses, galaxy formation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long is the Osei Spine estimated to be, how many galaxy members does it contain, and what is its estimated total mass?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dataset did Osei's team use to trace the Osei Spine, and how much sky does that dataset cover?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What unusual region does the Osei Spine pass through, and what effect might that region have had on galaxy formation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "At what distance from the Milky Way is the Colvane Supercluster located, and which institution is leading the study of the Osei Spine?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where did Osei present preliminary results on the Osei Spine, and in which journal is the peer-reviewed paper expected to appear?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Colvane Supercluster a real catalogued structure in the universe?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Peltham Redshift Survey exist as a real astronomical survey?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Indira Osei a real cosmologist or large-scale structure researcher?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do cosmic filaments and galaxy walls exist as real large-scale structures, and what are some known examples?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are cosmic voids and underdense regions real features of large-scale structure, and how do they affect galaxy formation?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do astronomers use galaxy redshift surveys to map large-scale cosmic structure?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the cosmic web, and what are its main structural components?"
+      }
+    ]
+  }
+]

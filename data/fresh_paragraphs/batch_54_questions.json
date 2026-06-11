@@ -1,0 +1,2192 @@
+[
+  {
+    "id": "batch_54_p1",
+    "paragraph": "okay so I finally caved and went to Thornwick & Plum last Thursday and I genuinely did not expect to be as floored as I was. this place is tucked into a weird little alley off Verano Street in the Costabel district \u2014 you'd miss it if you didn't know it was there \u2014 and it's only been open since late February. chef Dessa Morland is doing this thing she calls coastal-mountain cooking, which sounds vague but in practice means you're getting smoked mussel toast with whipped lardo and juniper salt alongside braised lamb shank with pickled cloudberries. the room seats maybe 30, exposed timber ceiling, candles literally everywhere, and the vibe is cozy in a way that doesn't feel try-hard. we did the four-course menu at $89 per person and added the optional cheese cart for $18 which, yes, do it. the pacing was relaxed but never sluggish and our server Tomasz knew the menu cold. my one gripe: the bread situation was a single small roll per person, which felt stingy given how good it was. I'd go back every week if I could get a table.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Thornwick & Plum (restaurant), Verano Street, the Costabel district, Dessa Morland, and the server Tomasz. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 coastal-mountain cooking as a culinary style descriptor, mussel toast, whipped lardo, juniper salt, braised lamb shank, cloudberries, cheese cart service, and tasting menu formats \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Where is Thornwick & Plum located, and since when had the restaurant been open?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What complaint was made about the bread service at Thornwick & Plum?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What culinary style does chef Dessa Morland describe her cooking as, and what does that mean in practice on the menu?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Tomasz at Thornwick & Plum, and what was noted about his knowledge of the menu?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the restaurant Thornwick & Plum exist in the real world?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dessa Morland a real chef who can be found at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Costabel district a real neighborhood that someone could visit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are cloudberries a real ingredient, and where are they commonly found in the wild?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is whipped lardo a recognized dish component in any culinary tradition?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a cheese cart in a restaurant context, and in what type of dining establishments is it typically offered?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the term tasting menu generally mean in the restaurant industry?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p2",
+    "paragraph": "the line at Fuji Bun Co. on a Saturday morning is no joke \u2014 I waited 45 minutes and I would do it again without hesitation. this is a tiny counter-service spot in the Bellward food hall that opened sometime last October, run by two siblings, Kei and Nao Tsurugi, who grew up eating their grandmother's steamed bun recipes and have now spent what looks like considerable effort updating them for a new context. the signature is the black sesame and caramelized onion bao at $6, which is a single bun but a substantial one \u2014 the filling is rich and deeply savory in a way that reads almost like French onion soup inside a pillow. they also do a rotating weekly special; when I visited it was a smoked trout and pickled daikon version that I ate in about 90 seconds standing at a tall table. the space is small, maybe eight stools, and it gets crowded fast. cash or card accepted, but the card reader is slow. nothing on the menu tops $14, which for the Bellward hall is practically a deal. genuinely one of the best things I've eaten this year.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Fuji Bun Co., the Bellward food hall, Kei Tsurugi, and Nao Tsurugi. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 steamed bao, caramelized onion, French onion soup as a flavor reference, smoked trout, pickled daikon, counter-service restaurant formats, and food halls \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long was the Saturday morning wait in line at Fuji Bun Co., and was it considered worth waiting again?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At Fuji Bun Co., what was the rotating weekly special involving smoked trout, and about how quickly was it eaten?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who are Kei and Nao Tsurugi, and what is the origin of the recipes they serve at Fuji Bun Co.?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Fuji Bun Co.'s signature item, and what is its filling likened to in flavor?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Fuji Bun Co. a real restaurant that someone could visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Bellward food hall exist as a real venue?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Kei and Nao Tsurugi real people who operate a bao stall?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is daikon, and how is it typically used when pickled?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a bao, and what culinary tradition does it come from?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a food hall, and how does it typically differ from a traditional restaurant?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes French onion soup distinctive in terms of flavor profile?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p3",
+    "paragraph": "Marigold Tempo opened in the old printworks building on Lasseter Row back in April and I've been putting off going because tasting menus in converted industrial spaces felt like a vibe I'd burned out on. I was wrong to wait. chef Orsolya Fekete is doing something that resists easy categorization \u2014 it's modernist in technique but the flavors are rooted in her family's Central European cooking, so you end up with things like a compressed cucumber sphere floating in a cold broth made from smoked bones and dried plum, which sounds unhinged but tastes like the best cold soup you've had. the space is beautiful: 14-meter ceilings, the original iron press still bolted to one wall, leather banquettes in a warm cognac tone. the nine-course menu is $175 per person, and wine pairing adds $95. we skipped the pairing and ordered by the glass instead, which worked fine. service is formally trained but the staff didn't feel stiff \u2014 there was genuine warmth in how they explained each dish. reservations open 30 days out and go fast; I'd set a calendar reminder.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Marigold Tempo (restaurant), Lasseter Row, and chef Orsolya Fekete. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 modernist culinary technique, Central European cuisine, compressed cucumber as a modernist preparation, cold bone broth, wine pairing at tasting menus, converted industrial dining spaces, and leather banquettes \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the price of the nine-course tasting menu at Marigold Tempo, and what did the wine pairing cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What remnant of the old printworks building on Lasseter Row remains visible inside Marigold Tempo's dining room?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does chef Orsolya Fekete combine her culinary influences, and what type of dish exemplifies this approach?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of establishment is Marigold Tempo, and what building on Lasseter Row did it open in?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Marigold Tempo a real restaurant someone could book a table at?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Orsolya Fekete a real chef working at an existing restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Lasseter Row exist as a real street?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does modernist culinary technique generally involve, and which famous chefs have been associated with it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are banquettes in a restaurant context?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do reservations at high-end tasting menu restaurants often fill up within hours or days of becoming available?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is Central European cuisine, and which countries or culinary traditions does it typically encompass?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p4",
+    "paragraph": "I have been dreaming about the spicy yuba noodles at Lamplit since I had them three weeks ago and I cannot figure out why no one in my circle has been talking about this place. Lamplit is a 20-seat ramen-adjacent noodle shop on Hinden Avenue in the Quarry neighborhood, opened by chef Wren Solberg who apparently spent two years working noodle stations in various spots across a city she described in an interview only as very far away. the yuba noodles are silken tofu skin pulled into wide ribbons, dressed in a chili oil that has genuine complexity \u2014 you get the heat up front and then something almost floral, then a long finish of fermented black bean. the broth underneath is vegetable-based and cloudy and wonderful. full bowl is $16 and they do not do substitutions, which I respect. they also have a short list of small plates including a marinated soft egg with shiso for $4 that I got two of. the room is dim and warm, wooden stools at a bar plus four tables, open until midnight on weekends. I went on a Wednesday at 7pm and was seated immediately. go now before the line forms permanently.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lamplit (restaurant), Hinden Avenue, the Quarry neighborhood, and chef Wren Solberg. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 yuba (tofu skin), chili oil, fermented black bean, shiso leaf, vegetable broth, ramen-adjacent noodle formats, and soft-cooked marinated eggs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the price of the yuba noodle bowl at Lamplit, and what is the restaurant's policy on substitutions?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What small plate did a diner order twice at Lamplit, and how much did it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Wren Solberg, and what work experience did she have before opening Lamplit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lamplit a real noodle shop that diners can visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Quarry neighborhood exist as a real place?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Wren Solberg a real chef at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is yuba, and how is it produced in traditional Japanese food-making?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fermented black bean, and in which culinary traditions is it commonly used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a chili oil with complexity from a simple hot chili condiment?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is shiso, and what flavor profile does it bring to dishes it accompanies?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p5",
+    "paragraph": "so Pellara & Sons has been in the Fenwick Point neighborhood for about four months now and it is absolutely the kind of neighborhood Italian place I thought only existed in memories of places I'd been to once and never found again. this isn't fancy: red-checked tablecloths, a handwritten specials board, a wine list that's two pages and sensibly priced. the family behind it \u2014 Cosimo and his two adult kids, Giuliana and Raf \u2014 worked out of a catering operation for years before opening a permanent space. their cacio e pepe is exactly what cacio e pepe should be: nothing hidden, nothing extra, just good pasta and the quiet confidence of people who've made this thousands of times. the braised lamb with white beans and rosemary ($28) is genuinely one of the better things I've eaten in recent memory. they do a Tuesday pasta special where a bowl of whatever they feel like making is $14, and the room was packed for it when I stopped by. dessert is a rotating selection from a local bakery they've partnered with; I had a ricotta-filled pastry that was delicate and not too sweet. no reservations for parties under four.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pellara & Sons (restaurant), the Fenwick Point neighborhood, Cosimo, Giuliana, and Raf (the family operators). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 cacio e pepe as an Italian pasta dish, braised lamb with white beans, catering businesses, handwritten specials boards, and ricotta pastries \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What weekly special does Pellara & Sons offer, on which day, and at what price?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did the family behind Pellara & Sons earn their experience before opening a permanent restaurant?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who makes up the family running Pellara & Sons, and what neighborhood is the restaurant in?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pellara & Sons a real Italian restaurant that someone could dine at?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Cosimo, Giuliana, and Raf real people who run a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is cacio e pepe, and what are its defining ingredients?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is braised lamb with white beans and rosemary a dish rooted in a specific culinary tradition?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a neighborhood Italian restaurant from a more upscale Italian dining establishment in terms of atmosphere and expectations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is ricotta, and how is it typically used in Italian pastry?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do many Italian restaurants offer a no-reservation policy for small parties?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p6",
+    "paragraph": "the new Vantara pop-up running Thursday through Sunday evenings in the back of the Cordal Market building is worth knowing about even if the setup is chaotic. chef Priya Osei is cooking a loose interpretation of West African coastal flavors with some unexpected modernist flourishes \u2014 the charred plantain with smoked prawn butter and fermented pepper sauce ($14) sounds like it's doing too much and somehow doesn't. the menu changes weekly based on what she's sourcing, which means I can't promise what you'll find, but everything I had during my two visits was interesting and most of it was excellent. the space is genuinely a market backroom: folding tables, plastic chairs, a single overhead bulb per table. it's BYOB which helps keep costs down \u2014 the food itself runs $10-$18 per plate and you'd probably order three to four plates between two people. the crowd on a Friday was genuinely mixed, which I always take as a good sign. Osei is at the grill herself every service and will talk to you about the food if you ask; she's warm and precise about what she's doing and why. the pop-up is confirmed through the end of next month and I hope it finds a permanent home.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Vantara (pop-up restaurant), the Cordal Market building, and chef Priya Osei. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 West African coastal cuisine, charred plantain, smoked prawn, fermented pepper sauce, BYOB dining formats, and pop-up restaurants \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "On which days of the week does the Vantara pop-up operate, and what is the BYOB policy?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the price range per plate at Vantara, and approximately how many plates would two people typically order?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does chef Priya Osei describe her culinary approach at Vantara, and what dish exemplifies it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vantara a real pop-up that diners could attend?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Priya Osei a real chef operating a West African pop-up restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are some defining characteristics of West African coastal cuisine?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is plantain, and how does it differ from a common banana when used in cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does BYOB mean in a restaurant context, and why might a pop-up choose this model?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a pop-up restaurant from a permanent establishment in terms of operation and licensing?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p7",
+    "paragraph": "I went to the Halsberg Tasting Room expecting to be mildly impressed and left thinking it might be the most technically accomplished meal I've had in this city in the past two years. the restaurant opened quietly in the Vell district in January \u2014 no PR push, no press release, just a website and a reservations system \u2014 and chef-owner Niall Croft, who has a background I could only piece together from a single brief interview, is cooking something that sits at the intersection of Nordic restraint and a genuinely personal obsession with fermentation. the dish I keep coming back to mentally: roasted beet aged for 60 days, served with cultured cream and a powder made from the beet's own dried tops, in a pool of beet-derived vinegar reduced with birch syrup. it was extraordinary \u2014 earthy and bright and somehow also a little sad, in the way that the best food sometimes is. the tasting menu is 11 courses at $210 per person. wine list is natural and thoughtful and the sommelier, a quietly enthusiastic person named Siv, is excellent at steering you toward bottles you wouldn't have picked yourself. one of maybe six tables, all booked out weeks in advance.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Halsberg Tasting Room, the Vell district, chef-owner Niall Croft, and sommelier Siv. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Nordic cuisine and its emphasis on restraint, fermentation as a culinary technique, cultured cream, beet aging, birch syrup, natural wine, and the role of a sommelier \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the price of the tasting menu at the Halsberg Tasting Room, and how many courses does it include?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What components are included in the Halsberg Tasting Room's roasted beet aged for 60 days, and what qualities make the dish stand out?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Niall Croft, and what two culinary influences define his cooking at the Halsberg Tasting Room?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Siv, and what is her role at the Halsberg Tasting Room?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Halsberg Tasting Room a real restaurant that exists somewhere?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Niall Croft a real chef-owner of a tasting room restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is birch syrup, and how does it compare to maple syrup in flavor and production?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does natural wine mean, and how does it differ from conventionally produced wine?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does it mean to age a vegetable like a beet, and what changes can occur through that process?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the role of a sommelier in a fine dining restaurant?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p8",
+    "paragraph": "okay look, I know that a vegan brunch spot in the Aldermore neighborhood is not exactly a surprising sentence in the current year, but Croft & Nettle has earned its hype. opened last summer by a duo who used to run a farmers market stand, this place is doing breakfast and lunch six days a week and the food is creative without being annoying about it. the smoked carrot lox situation \u2014 thinly sliced and cured carrot on house-made rye with cultured cashew cream and pickled shallots \u2014 is $14 and I would put it against any actual lox situation I've encountered. the grain bowls are generous and not boring: I had a freekeh and roasted kabocha number with harissa and a jammy spiced walnut crumble that was $13 and more satisfying than expected. the space is small and light-filled, reclaimed wood everywhere, a modest plant situation. waits on weekend mornings run 20-30 minutes but they have outdoor seating and will text you when your table is ready. service is cheerful and unhurried. coffee is from a small local roaster I hadn't heard of and it was genuinely good, which matters more than people admit.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Croft & Nettle (restaurant) and the Aldermore neighborhood. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 smoked carrot lox as a vegan preparation, cultured cashew cream, freekeh grain, kabocha squash, harissa, pickled shallots, and farmers markets \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the smoked carrot lox dish at Croft & Nettle made of, and how much does it cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What ingredients were in the freekeh and roasted kabocha grain bowl at Croft & Nettle, and what did it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who opened Croft & Nettle and what was their background before opening the restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Croft & Nettle a real vegan restaurant that someone could visit for brunch?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Aldermore neighborhood a real place in a real city?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is freekeh, and from which culinary tradition does it originate?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is kabocha squash, and what is its flavor profile when roasted?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is smoked carrot lox, and why has it become a popular vegan substitute for salmon lox?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is harissa, and in which cuisines is it traditionally used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is cultured cashew cream, and how is it made?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p9",
+    "paragraph": "Burnside Smoke & Ferment is the kind of restaurant that shouldn't work on paper \u2014 it's a barbecue and fermentation hybrid concept in a city not historically known for either \u2014 and yet here we are, six months after opening, and I'm already on my third visit. chef Tovah Krantz grew up in a family that kept a crock of something fermenting on the counter at all times, she says, and this informs everything. the smoked brisket is excellent on its own terms: 14-hour cook, properly rested, bark that crunches. but the move is to get it with the house kimchi made from green cabbage and smoked chili, and the fermented mustard that lives somewhere between German and Korean in its flavor logic. the sides lean heavily fermented too \u2014 sauerkraut with juniper and apple, pickled cucumbers with dill and miso. full plate with two sides is $26. the room is long and low, picnic-style seating, exposed brick, the smoker visible through a window at the back. no reservations, first come first served, they open at 11:30 and the line starts around 11. they sell out of brisket by 2pm most days, so plan accordingly.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Burnside Smoke & Ferment (restaurant) and chef Tovah Krantz. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 smoked brisket and low-and-slow barbecue technique, kimchi, sauerkraut, fermented mustard, miso, juniper as a flavoring agent, and picnic-style restaurant seating \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long is the brisket cooked at Burnside Smoke & Ferment, and what time does the restaurant open?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What sides are mentioned on the menu at Burnside Smoke & Ferment, and what is the price of a full plate with two sides?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What culinary background does chef Tovah Krantz describe, and how does it influence the menu at Burnside Smoke & Ferment?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Burnside Smoke & Ferment a real restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tovah Krantz a real chef who runs a barbecue and fermentation restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is kimchi, and what is the traditional fermentation process used to make it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is bark in the context of smoked barbecue brisket?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does smoked brisket at a barbecue restaurant often sell out early in the day?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What flavor does juniper bring to food, and in which culinary applications is it most often used?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p10",
+    "paragraph": "the new Solis outpost in the Greyvane shopping district is technically a fast-casual version of the original, which is a sentence that usually signals a decline in quality, but I have to say it mostly holds up. the original Solis on the west side has been one of my consistent favorites for their interpretations of Levantine flavors, and this newer smaller location \u2014 opened in March, designed for quick turnover with counter seating and a limited menu \u2014 manages to carry over the things that matter. the labneh and za'atar flatbread is still made to order and still excellent at $9. the chicken shawarma plate ($16) is juicy and well-spiced with pickled turnip and a garlic sauce that is legitimately very good. the lamb kofta wrap, however, is not quite the same as what the original does; the filling is dryer, the herbs less present. I mention it not as a dealbreaker but as information. the space fits maybe 25 people and moves quickly at lunch. they have a rotating seasonal drink that on my visit was a tamarind and dried rose number that was sweet but interesting. worth knowing about if you're in that part of town and hungry.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Solis (restaurant, both the original and the new outpost) and the Greyvane shopping district. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Levantine cuisine, labneh, za'atar, flatbread, chicken shawarma, pickled turnip, lamb kofta, garlic sauce, and tamarind as an ingredient \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Solis\u2019s Greyvane shopping district outpost, which dish was less successful than at the original west-side Solis location, and why?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the prices of the labneh and za'atar flatbread and the chicken shawarma plate at Solis\u2019s Greyvane shopping district outpost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of flavors is Solis known for, and how does its Greyvane shopping district fast-casual outpost differ from the original west-side Solis location?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Solis a real restaurant with locations in a real city?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Greyvane shopping district exist as a real place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is labneh, and how is it made?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is za'atar, and in which culinary traditions is it most commonly used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does Levantine cuisine encompass in terms of geography and typical ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is lamb kofta, and how is it typically prepared and served?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p11",
+    "paragraph": "there's a new tasting menu omakase situation that opened last month in the basement of a building on Carew Lane and I'm already worried that I won't be able to get back in before my next birthday. Kiri Nishimoto is the chef and the format is eight seats around a single chef's counter, one seating per evening, priced at $195 per person. Nishimoto trained in a traditional context and then spent several years doing something else entirely, and the result is a sensibility that's rooted in Japanese technique but not dogmatic about it \u2014 a piece of fatty fish aged six days and served with a fermented cherry blossom leaf, a dashi with white truffle shaved tableside, a small bowl of rice cooked in brown butter at the end that is the kind of simple finish that only works when everything before it has been exactly right. it was exactly right. the basement space is spare and beautiful: a single overhead pendant per seat, cedar countertop, hushed atmosphere without feeling stiff. there's no website; you book through an email address someone posted in a food forum. reservations are gone within minutes of opening each month. I got lucky, and I know it.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the tasting counter on Carew Lane (the unnamed restaurant) and chef Kiri Nishimoto. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 omakase dining format, Japanese culinary technique, dashi, white truffle, fermented cherry blossom leaves, chef's counter restaurants, and aging fish as a preparation method \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Kiri Nishimoto's basement tasting-menu omakase counter on Carew Lane, how many seats are at the chef's counter, how many seatings happen per evening, and what is the price per person?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How does a diner book a reservation for Kiri Nishimoto's basement omakase counter on Carew Lane, and how quickly do reservations disappear?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Kiri Nishimoto, and how does her background inform the style of cooking at her tasting counter on Carew Lane?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is chef Kiri Nishimoto a real person who operates a tasting counter?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the basement omakase counter on Carew Lane a real restaurant one could visit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is omakase dining, and how does it differ from ordering from a standard menu?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is dashi, and what is it made from in traditional Japanese cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does aging fish for several days change its flavor and texture?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is white truffle, and why is it considered a luxury ingredient?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p12",
+    "paragraph": "Folded is a pasta bar that opened in the Rendell Square area in late fall and it is doing something that I think deserves more attention than it's gotten. the concept is simple: handmade pasta, roughly eight shapes on rotation, sauced simply, priced between $16 and $22. but the execution is where it gets interesting. Elara and Josip Buric, who run the kitchen together, have trained in pasta-making at a level that is apparent in the texture of every shape they serve \u2014 the pappardelle in brown butter with crispy sage and aged sheep's cheese ($18) had a chew that reminded me why handmade pasta is a different food category than dried pasta. the tajarin with truffle cream and black pepper ($22) was rich and quiet and exactly the right amount of food. the space is counter-and-window seating only, maybe 18 people total, warm lighting and soft music and the smell of butter in the air. they do lunch and dinner Wednesday through Saturday. reservations are taken via their website up to two weeks out; walk-ins are welcomed if seats are open. no desserts in-house but a gelato shop two doors down has an unofficial partnership with them, which is a nice detail.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Folded (restaurant), the Rendell Square area as a specific location, Elara Buric, and Josip Buric. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 pappardelle, brown butter, tajarin, truffle cream, handmade versus dried pasta, aged sheep's cheese, and gelato \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the pappardelle and tajarin preparations served at Folded, and what do they cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What arrangement does Folded have with a nearby business for dessert, and does Folded make desserts in-house?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who runs the kitchen at Folded, and what distinguishes their pasta from less carefully made versions?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Folded a real pasta bar that diners can visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Elara and Josip Buric real people who run a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is tajarin, and which region of Italy is it associated with?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is pappardelle, and what sauces or preparations pair well with its wide shape?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes handmade pasta texturally different from commercially dried pasta?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is brown butter, and how is it made from regular butter?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p13",
+    "paragraph": "I want to talk about the fact that the Morrow Station food hall, which opened in the old rail terminal on the east side of downtown in September, has turned out to be genuinely excellent, because food halls always sound good and often disappoint. the hall has 14 stalls and the anchor tenants were announced with fanfare but honestly the best things I've found are the smaller operations. Pinto & Verdura is a stall doing Peruvian-inflected small plates \u2014 the causa with crab and huancaina sauce ($9) is a legitimately great version of a dish I've had done badly many times. across the hall, Strand Noodle Bar is a four-seat counter doing a single bowl of congee-adjacent rice porridge customized with add-ons; the base is $8 and you build from there with things like crispy pork belly ($4), century egg ($3), and a ginger scallion oil ($2). the terminal architecture has been preserved beautifully: original vaulted ceilings, brass fixtures, the old departures board repurposed as a menu display. crowded on weekends but manageable on weekday evenings. parking is painful; take public transit if you can.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Morrow Station food hall, Pinto & Verdura (stall), and Strand Noodle Bar. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 causa as a Peruvian dish, huancaina sauce, Peruvian cuisine, congee and rice porridge, century egg, crispy pork belly, ginger scallion oil, and food halls in converted historic train stations \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many stalls does the Morrow Station food hall have, and what building does it occupy?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the base price of the rice porridge at Strand Noodle Bar, and what are three example add-ons and their prices?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What does Pinto & Verdura at the Morrow Station food hall specialize in, and which causa dish is highlighted as especially good?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Morrow Station food hall a real venue that someone could visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Pinto & Verdura and Strand Noodle Bar real food stalls operating somewhere?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is causa, and what are the typical components of this Peruvian dish?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is huancaina sauce and what are its main ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a century egg and how is it made?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do food halls in converted historic buildings often become popular dining destinations?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p14",
+    "paragraph": "so the thing about Candle & Caraway is that it doesn't look like much from outside \u2014 a modest storefront on Bremer Street in the Westhollow neighborhood, a handwritten A-frame sign, curtains in the window \u2014 and then you walk in and it's this incredibly warm 28-seat room with mismatched antique furniture and bookshelves on every wall and food that is startlingly good. chef Anya Kroll is cooking what she describes as northern comfort food, which in practice means dishes built around preserved ingredients, long braises, and dairy in various forms. the smoked duck confit with celery root puree and pickled elderberry compote ($29) is the dish I've recommended to approximately nine people since I had it. the house bread comes with cultured butter and a small pot of fermented honey that I consumed an inappropriate amount of. dessert, a rye cake with lingonberry jam and cream, was $11 and excellent. the wine list is short and well-chosen and the by-the-glass options are reasonably priced for the neighborhood. service is warm and personal without being familiar in a way that makes you uncomfortable. I'm going back in two weeks. reservations recommended but they hold a few walk-in tables.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Candle & Caraway (restaurant), Bremer Street, the Westhollow neighborhood, and chef Anya Kroll. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 duck confit, celery root puree, elderberry, cultured butter, fermented honey, lingonberry jam, rye cake, and northern European comfort food traditions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Which Candle & Caraway dish did a diner recommend to approximately nine people after having it, and what was its listed price?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dessert at Candle & Caraway was served with lingonberry jam and cream, and what was its price?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does chef Anya Kroll describe her cooking style, and what techniques and ingredients does this translate to on the menu?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Candle & Caraway a real restaurant that someone could visit on Bremer Street?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Anya Kroll a real chef working at an existing restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is duck confit, and how is it traditionally prepared?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are lingonberries, and in which cuisine are they most commonly used as a condiment or jam?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is cultured butter and how does it differ from regular butter?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is fermented honey, and how does fermentation change its properties compared to raw honey?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p15",
+    "paragraph": "the most exciting thing to open in the Saltmere neighborhood in recent memory is probably Braise & Botanical, a 40-seat spot run by chef Cullen Ashford who came up through fine dining and has clearly made a deliberate decision to cook for people rather than for awards. the menu is seasonal and changes frequently but the pillars are there: something braised, something from the wood grill, a composed salad that earns its $14 price tag, and a dessert situation that leans toward warm and comforting rather than architectural. on my visit the short rib was braised with stout and molasses and served with potato gratin and gremolata ($34), and it was the sort of dish that makes you go quiet for a moment when you take the first bite. the botanical half of the name refers to a small cocktail program that uses foraged and house-dried herbs in a way that is interesting without being gimmicky \u2014 the smoked thyme old fashioned ($16) was genuinely one of the better cocktails I've had in a restaurant setting. the room has the warm, lived-in feeling of a place that's been there for twenty years even though it opened in March. I think it'll actually last that long.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Braise & Botanical (restaurant), the Saltmere neighborhood, and chef Cullen Ashford. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 braised short rib, stout as a cooking ingredient, molasses, potato gratin, gremolata, the old fashioned cocktail, smoked thyme, and foraged herb cocktail programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the braised short rib dish at Braise & Botanical accompanied by, and what did it cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At Braise & Botanical, what cocktail used smoked thyme, and what approach made the cocktail program distinctive?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the culinary philosophy that chef Cullen Ashford has chosen for Braise & Botanical, and how does this contrast with his professional background?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Braise & Botanical a real restaurant located in the Saltmere neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cullen Ashford a real chef who can be found at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is gremolata, and how is it typically used in cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is an old fashioned cocktail, and what are its traditional ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is potato gratin, and which cuisine is it most associated with?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is stout sometimes used as a braising liquid for beef dishes?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p16",
+    "paragraph": "okay I have to tell you about the Sunday morning bun situation at Tallis Provisions because it has reorganized my weekend priorities. Tallis is a small all-day cafe and provisions store in Dunmore Village that has been open since roughly last spring, operated by two people whose names are listed on a chalkboard as Flo and Bertram, and on Sunday mornings they put out a tray of buns that are available until they sell out, which is usually by 10am. the bun: laminated dough, a lamination that has visible layers without being croissant-adjacent, filled with a cardamom custard and topped with pearl sugar and a tiny amount of fleur de sel. $4.50. I had two. the rest of the menu is sandwiches and salads that are good but not exceptional, though the coffee program is strong and the espresso is genuinely worth going out of your way for. the store part of the operation sells excellent preserved things \u2014 jams, pickles, house-made vinegars \u2014 and the prices are fair. the space is a converted corner shop, maybe 12 seats, bay window, good light. I've been three Sundays in a row and I think this is just my life now.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tallis Provisions (cafe and store), Dunmore Village as a specific location, and the operators Flo and Bertram. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 laminated dough, cardamom custard, pearl sugar, fleur de sel, provisions stores, house-made vinegars, and all-day cafes \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the components of the Sunday bun at Tallis Provisions, and how much does it cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By what time do the Sunday buns at Tallis Provisions typically sell out?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of business is Tallis Provisions, and who operates it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tallis Provisions a real cafe and store that someone could visit on a Sunday morning?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Flo and Bertram real people who operate Tallis Provisions, a cafe and provisions store in Dunmore Village?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is laminated dough, and what baked goods are most commonly made from it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fleur de sel, and why is it often used as a finishing salt rather than a cooking salt?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is cardamom, and in which culinary traditions is it most prominently used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is pearl sugar and how does it behave when used as a topping on baked goods?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p17",
+    "paragraph": "Whetstone Grill has been open in the Carnel district for about six weeks and I have complicated feelings about it. let me explain. the food is very good \u2014 chef Dov Steinmann is a technically accomplished cook and the wood-grilled lamb chops ($38) are among the better lamb I've had this year, with a crust that is properly charred and a center that is rosy and yielding. the grilled vegetables are handled with real care, not an afterthought. the desserts are all house-made and the olive oil cake ($10) is simple and lovely. but the service has some kinks: our water glasses went empty twice, a dish arrived before the previous course was cleared, and one member of our party sat for 20 minutes before anyone came to explain the specials. none of this would be worth mentioning for a place in its second week, but at $90+ per person for the kind of experience being sold, the expectation is higher. I suspect these are opening-month issues that will smooth out; the bones are good and the kitchen is clearly talented. I'd go back in a few months and I think the assessment would be different. worth watching.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Whetstone Grill (restaurant), the Carnel district, and chef Dov Steinmann. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 wood-grilled lamb chops, olive oil cake, restaurant service standards, opening-month growing pains, and per-person price expectations in fine dining \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What were the three specific service failures noted during a visit to Whetstone Grill?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Which two menu items at Whetstone Grill were singled out for strong praise, and what price was given for each?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What overall assessment is given of Whetstone Grill after about six weeks open in the Carnel district, and what makes that assessment complicated?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Whetstone Grill a real restaurant in the Carnel district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dov Steinmann a real chef who can be found at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is olive oil cake, and what texture and flavor profile does it typically have?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What cooking technique produces a charred exterior and rosy interior in a lamb chop?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are service standards particularly important at restaurants charging $90 or more per person?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are common growing pains that new restaurants typically experience in their first weeks of operation?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p18",
+    "paragraph": "if you are the kind of person who has strong feelings about ramen broth and you haven't been to Torchwood yet I genuinely do not know what you are waiting for. Torchwood is a ramen shop in the Inkwell neighborhood that opened last November, run by chef Hideo Abe who spent what he describes as a formative decade working various stations at noodle shops before deciding to open his own. the tonkotsu here is cooked for 18 hours and the result is an opaque, richly fatty broth that coats the back of a spoon and makes you feel like you've been folded inside a warm blanket. basic bowl is $17 with soft egg, chashu, and nori. the shoyu variation ($15) is lighter and more bright, good if the richness of tonkotsu is sometimes too much for you. they do one vegan broth on weekends, a clear mushroom dashi with fermented chili oil, which is excellent and not a compromise. noodles are made daily and delivered fresh. the room is small and counter-service adjacent \u2014 you order at the door, take a number, find a seat. no reservations, waits on weekends run 30-45 minutes, worth it entirely.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Torchwood (ramen shop), the Inkwell neighborhood, and chef Hideo Abe. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 tonkotsu ramen broth, chashu pork, nori, shoyu ramen, mushroom dashi, fermented chili oil, and fresh ramen noodles \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long is the tonkotsu broth cooked at Torchwood, and what toppings come with the basic bowl?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What vegan option does Torchwood offer, and on which days is it available?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Hideo Abe, and what professional background did he have before opening Torchwood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Torchwood a real ramen shop that customers can visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Hideo Abe a real chef who operates a ramen restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is tonkotsu ramen broth and how is it traditionally made?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is chashu pork and how is it prepared for ramen?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is shoyu ramen and how does it differ from tonkotsu in terms of broth composition?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do ramen shops often make their noodles fresh daily rather than using dried noodles?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p19",
+    "paragraph": "Ember and Ash opened on Vellacourt Street in the Finchdale neighborhood last month and the early reports I'd seen online were cautiously excited, which made me cautiously interested, which is how I ended up booking a table for two on a Thursday night. I am glad I did. the concept is open-fire cooking \u2014 wood grill, wood oven, live hearth in the dining room \u2014 and chef Marisol Fenwick has organized the menu around this constraint in a way that makes sense rather than feeling forced. the wood-roasted half chicken with herb butter and smashed potatoes ($27) is the dish I keep thinking about: the skin is lacquered and crackling, the meat is juicy in a way that suggests proper resting, and the potatoes underneath have absorbed the drippings and are accordingly magnificent. the wood oven flatbread with nduja and whipped ricotta ($14) is the right starter for this room and this food. the cocktails are smoky in a few cases \u2014 the mezcal and charred orange number ($15) is very good \u2014 and the beer list includes some solid regional options. the room smells incredible when you walk in, which sounds like a small thing but sets the mood immediately. reservation recommended; walk-ins taken at the bar.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ember and Ash (restaurant), Vellacourt Street, the Finchdale neighborhood, and chef Marisol Fenwick. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 open-fire cooking, wood oven, wood grill, nduja, whipped ricotta, smashed potatoes, mezcal, and charred citrus cocktail techniques \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the central cooking concept at Ember and Ash, and what specific equipment is used?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What flatbread dish at Ember and Ash is presented as the right starter, and how much does it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Marisol Fenwick, and how has she structured Ember and Ash's menu around its open-fire cooking concept?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Ember and Ash a real restaurant located on Vellacourt Street?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Marisol Fenwick a real chef at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is nduja, and where does it originate?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is mezcal, and how does it differ from tequila?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does allowing a roasted chicken to rest before serving make the meat juicier?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What culinary advantages does a wood-fired oven provide compared to a conventional gas or electric oven?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p20",
+    "paragraph": "there's a Korean-Mexican hybrid situation that's been running out of a food truck in the Norgate warehouse district on weekends and I want to document it before it disappears or, ideally, before it gets too famous to approach on foot. the truck is called Gochujang & Lime and it's operated by two people, Seo-yeon Park and her partner Mateo Rios, who are doing something that sounds gimmicky and actually isn't. the bulgogi taco ($5 each, two minimum) uses a tortilla that's corn-based and pressed to order, and the bulgogi itself is properly marinated and hits the grill right before it goes in the wrap. the topping situation \u2014 house kimchi, crema cut with gochujang, pickled white onion, lime \u2014 is balanced in a way that's clearly been thought about. they also do a black bean and miso soup ($6) that is the kind of thing that makes you think about the overlap between Korean and Mexican flavor logic in a new way. the truck runs Saturday and Sunday from 11am to sellout, usually 3 or 4pm. no card, cash only, there's an ATM in the coffee shop 50 feet away. the line moves fast. this is exactly the kind of thing that should become a restaurant.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Gochujang & Lime (food truck), the Norgate warehouse district, Seo-yeon Park, and Mateo Rios. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Korean-Mexican fusion cuisine, bulgogi, gochujang, kimchi, corn tortillas, crema, pickled onion, miso, and food truck operations \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the toppings on the bulgogi taco at Gochujang & Lime, and what is the minimum order quantity?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the operating hours and payment methods at the Gochujang & Lime food truck?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who runs the Gochujang & Lime truck, and what culinary combination do they specialize in?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gochujang & Lime a real food truck that operates in a real location?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Seo-yeon Park and Mateo Rios real food truck operators?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is bulgogi, and how is it typically prepared in Korean cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is gochujang, and what does it contribute to a dish in terms of flavor?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is Korean-Mexican fusion cuisine, and which cities or food scenes is it most associated with?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a corn tortilla pressed to order from a pre-made tortilla in terms of quality?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p21",
+    "paragraph": "I went to Clove & Copper for my birthday dinner and I'm now deeply regretting not going sooner because apparently this place has been open on Merchant Row in the Aldwell district for eight months and I just didn't get around to it. chef Lian Soo is doing a personal interpretation of Southeast Asian flavors that doesn't collapse into a single country's cuisine \u2014 it borrows from everywhere and synthesizes into something that feels like her own voice. the standout dish, and I will fight about this, is the Hainanese chicken rice reinterpreted as a composed plate: silky poached chicken over fragrant rice cooked in chicken stock, with a deeply savory dark soy, a ginger scallion sauce, and a clear broth served alongside. $26 and genuinely one of the most comforting things I've eaten in a long time. the pandan custard dessert ($9) is set with a slightly looser wobble than you'd expect and served with coconut caramel, which is the right call. the room is calm and clean, dark wood and white linen without being stuffy about it. the wine list has some thoughtful natural options. service was professional and warm. I'm going back next month.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Clove & Copper (restaurant), Merchant Row, the Aldwell district, and chef Lian Soo. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Hainanese chicken rice as a dish, Southeast Asian cuisine, pandan custard, coconut caramel, ginger scallion sauce, dark soy sauce, and natural wine \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the standout dish at Clove & Copper, and what does it cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dessert at Clove & Copper is served with coconut caramel, and what texture does the pandan custard have?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does chef Lian Soo approach Southeast Asian cuisine at Clove & Copper?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Clove & Copper a real restaurant that someone could visit on Merchant Row?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is chef Lian Soo a real person who operates a Southeast Asian restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is Hainanese chicken rice and which countries claim it as part of their culinary heritage?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is pandan, and what flavor and color does it impart to desserts?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes Hainanese chicken rice considered a comfort food classic in Southeast Asia?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is coconut caramel and how is it made?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p22",
+    "paragraph": "here is an opening that snuck up on me: Dune & Salt is a small seafood-focused restaurant in the Seavale neighborhood that opened in early March and which I only found out about because a friend texted me a photo of a plate of clams that looked so good I asked where she was immediately. the restaurant is doing what they call tide-to-table, which means the menu is organized around whatever was caught or harvested locally in the past 48 hours, and it changes accordingly. on my visit the menu had grilled razor clams with brown butter and capers ($16), a whole roasted sea bass with fennel and preserved lemon ($38, serves two comfortably), and a chowder that was thick and creamy with chunks of what was identified as day-boat cod and local potatoes ($14). all of it was excellent. the grilled clams in particular were briny and sweet and the capers cut through the richness perfectly. the space is small \u2014 22 seats \u2014 and has the blue-and-white palette you'd expect, but it's restrained and not nautical-themed in an embarrassing way. reservations via their website, open Wednesday through Sunday, dinner only.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dune & Salt (restaurant) and the Seavale neighborhood. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 razor clams, brown butter and capers as a preparation, sea bass with fennel and preserved lemon, chowder, day-boat fishing, tide-to-table sourcing philosophy, and cod \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three dishes were listed on Dune & Salt's changing tide-to-table menu, and what were their prices?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does Dune & Salt mean by their tide-to-table concept, and how does it affect the menu?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What neighborhood is Dune & Salt in, and when is it open?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dune & Salt a real seafood restaurant that diners could visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Seavale neighborhood exist as a real place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are razor clams, and how do they differ from common hard-shell clams in appearance and taste?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is preserved lemon, and how is it made and used in cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the term day-boat seafood mean, and why is it considered a quality indicator?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do capers pair well with briny and rich seafood preparations like grilled clams in brown butter?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p23",
+    "paragraph": "the thing about Gather & Ferment that I can't fully explain is how much I want to go back even though I didn't love everything I ate there. it opened last spring in the Calloway arts district in a repurposed soap factory, and the space is extraordinary \u2014 double-height ceilings, the original mixing vats painted and illuminated and incorporated into the decor, long communal tables of reclaimed elm. the chef, Rowan Birch, is fermentation-obsessed in a way that produces uneven results: some dishes are elevated by the fermented components (the aged white soy on the grilled eggplant was a revelation) and some are overwhelmed by them (the fermented black garlic sauce on the lamb chop just made everything taste the same). but I left thinking about the meal in a way I don't with most perfectly executed but safe food. the natural wine list is one of the better I've seen in this city. the service is enthusiastic and knowledgeable. the five-course menu is $95 per person. I think I'm going back to try the other side of the menu and report back.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Gather & Ferment (restaurant), the Calloway arts district, and chef Rowan Birch. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 aged white soy sauce, fermented black garlic, grilled eggplant, natural wine lists, communal dining tables, repurposed industrial spaces, and fermentation as a culinary technique \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Gather & Ferment, what was the price of the five-course menu, and which two dishes illustrated the uneven results of Rowan Birch's fermentation-focused cooking?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What type of space does Gather & Ferment occupy, and what architectural features distinguish the dining room?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How is Rowan Birch's cooking philosophy at Gather & Ferment characterized, and what consequences does it have for the menu?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gather & Ferment a real restaurant that opened in the Calloway arts district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Rowan Birch a real chef at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is aged white soy sauce, and how does it differ from standard soy sauce in flavor?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fermented black garlic, and how is it produced?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why can over-fermented or overly pungent fermented ingredients overwhelm other flavors in a dish?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What qualities does a natural wine typically have that distinguish it from conventionally made wine?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p24",
+    "paragraph": "let me tell you about the best $12 lunch I've had in recent memory, which is a statement I don't make lightly. Yalda Kitchen is a counter-service spot in the Brimswick market district run by a woman named Farideh who I was told has been feeding people in this building in one form or another for fifteen years, though the current iteration under the name Yalda opened only last fall. the format is simple: two mains per day, served with rice and salad and a small pot of yogurt with herbs. on my visit it was ghormeh sabzi \u2014 a deeply fragrant herb and kidney bean stew with lamb \u2014 and a roasted cauliflower and chickpea dish fragrant with turmeric and dried lime. the ghormeh sabzi was exactly as good as ghormeh sabzi can be, which is a thing I say knowing that ghormeh sabzi done right is very good indeed. the yogurt was house-made and better than most restaurant yogurt I've had. Farideh moves quickly and with total confidence and the line at noon is 15 people deep but it moves fast. cash preferred. I went back the next day.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Yalda Kitchen (restaurant), the Brimswick market district, and Farideh (the operator). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ghormeh sabzi as an Iranian stew, turmeric, dried lime as an ingredient, roasted cauliflower and chickpea preparations, house-made yogurt, and counter-service lunch formats \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Yalda Kitchen in the Brimswick market district, what two mains were served with rice, salad, and herb yogurt during the $12 lunch?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long had Farideh reportedly been feeding people in the building where Yalda Kitchen operates, and when did the current iteration called Yalda Kitchen open?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the format of Yalda Kitchen, and what is included with each meal?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Yalda Kitchen a real restaurant in the Brimswick market district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Farideh a real person who operates a counter-service lunch spot?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is ghormeh sabzi, and from which culinary tradition does it come?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is dried lime (loomi), and how does it function as an ingredient in Persian and other Middle Eastern cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What gives ghormeh sabzi its distinctive deeply fragrant character?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is turmeric such a widely used spice, and what flavor and color does it bring to dishes?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p25",
+    "paragraph": "Crestfall Dining Room is the new tasting menu restaurant in the Orvale hotel, which opened its doors to the public last month, and I went in with lowish expectations because hotel restaurants that are meant to be serious destination dining are often more serious in concept than in execution. chef Vera Lindqvist proved me wrong. the menu is eight courses at $165 per person and it takes you through what Lindqvist describes as a personal geography of Nordic and Japanese flavor logic, which is a description that could go wrong in many ways and in her hands does not. a dashi made from kombu and smoked reindeer, served in a vessel that looks like a flat stone, is quiet and perfect. a course of thinly sliced pickled root vegetables with a miso and walnut cream manages to be both delicate and grounding. the technical precision is evident but never showy. the hotel context means the room is larger and better lit than a standalone restaurant of this ambition might be \u2014 40 seats, which is a lot for a tasting menu \u2014 but the service team handles it with unusual grace. this is one of the restaurants I'm going to tell people about for a while.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Crestfall Dining Room, the Orvale hotel, and chef Vera Lindqvist. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Nordic cuisine, Japanese flavor logic, dashi, kombu, reindeer as a culinary ingredient, miso, walnut cream, pickled root vegetables, and hotel fine dining restaurants \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the price and number of courses in the tasting menu at the Crestfall Dining Room?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Which two specific dishes are highlighted on the Crestfall Dining Room tasting menu, and what makes each notable?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does chef Vera Lindqvist describe the culinary philosophy behind the Crestfall Dining Room menu?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Crestfall Dining Room a real restaurant inside a real hotel?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vera Lindqvist a real chef working at an actual hotel restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is kombu, and how is it used to make dashi in Japanese cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is reindeer used as a culinary ingredient in any real cuisine, and if so, where?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do hotel restaurants sometimes struggle to achieve the same level of culinary seriousness as independent destination restaurants?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the concept of a personal geography in a chef's menu mean in culinary terms?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p26",
+    "paragraph": "I have been going to the Sable & Thyme night market every Friday since it launched in May and I want to write about it properly because it's the kind of thing that deserves documentation before it either becomes permanently established or disappears. it runs from 6pm to midnight along the lower end of Cavendish Walk in the Lorne district \u2014 about 30 vendors, mostly food, a few craft stalls, one excellent cocktail bar that appears from nowhere at dusk. the food vendor I keep returning to is a stall called Roof Garden that does herb-forward small plates \u2014 a lamb tartare with preserved lemon and herb oil ($11), grilled halloumi with pomegranate and za'atar honey ($9), a rotating flatbread with whatever seasonal topping the cook feels like ($7). there's also a dumplings stall, Fold & Press, whose pork and chive dumplings ($10 for eight) are boiled and then pan-seared to order and are excellent. the market has a relaxed, neighborhood feel without being precious about it. bring cash because several vendors don't take cards, though a couple do. this is genuinely one of the things I look forward to most about warmer weather.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Sable & Thyme night market, Cavendish Walk, the Lorne district, Roof Garden (stall), and Fold & Press (dumpling stall). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 lamb tartare, halloumi, pomegranate, za'atar, pork and chive dumplings, boiled and pan-seared dumpling technique, and night markets \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the operating hours of the Sable & Thyme night market, and how many vendors does it have?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dish does Fold & Press at the Sable & Thyme night market serve, how much does it cost, and how is it prepared?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of food does the Roof Garden stall at the Sable & Thyme market serve, and what specific items are on offer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Sable & Thyme night market a real event that takes place in a real city?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Roof Garden and Fold & Press real food stalls operating at an actual market?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is halloumi, and what makes it suitable for grilling without melting?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is lamb tartare, and how is it typically prepared and seasoned?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the technique of boiling and then pan-searing dumplings called, and what texture does it produce?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role do night markets play in food culture in various parts of the world?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p27",
+    "paragraph": "so the Oaken Plate did a soft open last weekend and I happened to be in the Marren neighborhood so I walked in, expecting to be turned away, and instead ended up eating one of the more quietly impressive dinners I've had in recent months. the restaurant is in a nineteenth-century house that's been thoughtfully renovated \u2014 original plaster details, waxed wood floors, a sort of hushed domestic quality that makes you want to speak in lower tones. chef Pawel Grodnicki is cooking what I'd call considered European: not fusion, not any single tradition, but rather a point of view that takes classical technique and applies it to locally sourced ingredients without making a fuss about either. the duck breast rested on a bed of braised Savoy cabbage with a cherry and juniper jus ($32) was the kind of dish that rewards attention \u2014 not obviously spectacular but deeply satisfying in the way of something very well made. the cheese course ($18) had five selections with excellent accompaniments. wine list skews French and Austrian. they're doing reservations starting next week; I'd get in early while the buzz is still building.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Oaken Plate (restaurant), the Marren neighborhood, and chef Pawel Grodnicki. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 duck breast preparation, braised Savoy cabbage, cherry and juniper jus, cheese courses in fine dining, French and Austrian wine, classical European culinary technique, and restaurant soft openings \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What building does the Oaken Plate occupy, and how is the interior described?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dish at the Oaken Plate was served on braised Savoy cabbage with a cherry and juniper jus, and what did it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How is chef Pawel Grodnicki's culinary approach at the Oaken Plate characterized?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Oaken Plate a real restaurant in the Marren neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pawel Grodnicki a real chef at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is Savoy cabbage, and how does braising change its texture and flavor?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a jus in the culinary sense, and how does it differ from a gravy or sauce?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a restaurant soft opening, and why do restaurants sometimes choose this approach before a full public launch?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a cheese course in a European fine dining context typically consist of?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p28",
+    "paragraph": "can we talk about how good Sunken Garden is? because I feel like not enough people in my circle are talking about Sunken Garden. this is an Indian-inspired tasting menu restaurant in the Delmore Row neighborhood that opened in February, run by chef Amara Krishnaswami who trained in a traditional south Indian household and then spent years working in modernist European kitchens and has now combined these influences into a menu that is genuinely its own thing. the meal starts with a single spiced cashew on a small leaf \u2014 a gesture that is humble and confident simultaneously \u2014 and builds to a 10-course progression at $145 per person that includes things like a compressed watermelon with tamarind gel and puffed amaranth, a slow-cooked lamb with 24 spices finished with a tableside pour of a warm coconut broth, and a dessert of cardamom ice cream melting into a pool of saffron caramel. the room has 16 seats, a garden visible through the rear window, quiet lighting. the service is knowledgeable and not stuffy. reservations open on the first of each month for the following month; they go quickly.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sunken Garden (restaurant), the Delmore Row neighborhood, and chef Amara Krishnaswami. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 South Indian cuisine, modernist European culinary technique, tamarind gel, puffed amaranth, cardamom ice cream, saffron caramel, coconut broth, and 24-spice preparations \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What does the meal at Sunken Garden begin with, and what qualities are attributed to that opening gesture?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the price per person for the tasting menu at Sunken Garden, and how many courses does it include?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Amara Krishnaswami, and what two culinary influences shape her menu at Sunken Garden?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sunken Garden a real restaurant that diners could visit in the Delmore Row neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Amara Krishnaswami a real chef who operates a tasting menu restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is puffed amaranth, and how is it used in cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is saffron, and why is it one of the most expensive spices in the world?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are some defining characteristics of South Indian cuisine that distinguish it from North Indian cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does compressed watermelon mean as a culinary technique, and what effect does compression have on the fruit?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p29",
+    "paragraph": "the new Torben & Lark bar and small plates place on Wicklow Lane in the Fernshaw district is giving me something I didn't know I needed: a genuinely good late-night food option that isn't pizza or a sad cheese plate. they opened in April with a menu that's clearly designed for the 10pm-and-later crowd \u2014 things you want after a show or a few drinks, but made with real care. the deviled eggs with smoked trout mousse ($8 for three) are a beautiful thing. the roasted bone marrow with herb salad and sourdough ($16) is exactly as good as bone marrow should be, which is very good. there's a short burger section that I initially dismissed and then had on a friend's recommendation: the smash burger with caramelized onions and a house sauce on a potato roll ($14) is not trying to be fancy and is the better for it. the bar program is serious \u2014 an excellent amaro list, thoughtful cocktails, a beer selection that has clearly been considered. the room is dark and convivial and the music is loud but not deafening. open until 2am Friday and Saturday. this is exactly the gap this neighborhood needed filled.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Torben & Lark (bar and restaurant), Wicklow Lane, and the Fernshaw district. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 deviled eggs, smoked trout mousse, bone marrow preparations, smash burgers, amaro as a category of liqueur, sourdough bread, and late-night bar menus \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What do the deviled eggs with smoked trout mousse, roasted bone marrow with herb salad and sourdough, and smash burger with caramelized onions and house sauce cost at Torben & Lark?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Until what time is Torben & Lark open on Fridays and Saturdays?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What purpose does Torben & Lark serve in its neighborhood, and what type of establishment is it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Torben & Lark a real bar and restaurant on Wicklow Lane?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Fernshaw district exist as a real neighborhood?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a smash burger, and how is it cooked differently from a standard patty burger?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is amaro, and what flavor profile does it typically have?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is roasted bone marrow considered a delicacy, and how is it typically served?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes deviled eggs a popular bar food or appetizer?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p30",
+    "paragraph": "Verdant opened on the second floor of the Ellison building in the Gresham district in early spring and it is the most ambitious vegan fine dining restaurant I've been to in this city, which is a category that has historically ranged from sincere and mediocre to performative and expensive. Verdant is neither of those things. chef Simone Aldric is cooking with a precision and an imagination that would be notable in any context, and the vegetables and plants she's working with are treated as the main event rather than the workaround. a celery root aged for four weeks and served with black truffle oil and a powder of dried mushroom might sound like it's working very hard, and it is, but it earns the effort. a course of heritage grains \u2014 freekeh, emmer, and a grain I didn't recognize \u2014 served with cultured nut cream and herb oil was genuinely moving in a way I didn't anticipate. the 10-course menu is $155 per person. the wine and drink pairing includes natural wines and a non-alcoholic botanical pairing option ($55 each), both of which are thoughtfully designed. this is the kind of restaurant that makes you reconsider where the ceiling is.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Verdant (restaurant), the Ellison building, the Gresham district, and chef Simone Aldric. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 vegan fine dining, celery root aging, black truffle oil, emmer wheat, freekeh, cultured nut cream, non-alcoholic botanical pairings, and heritage grains \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the price of the tasting menu at Verdant, and what are the two pairing options offered?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the two notable Verdant courses featuring aged celery root and heritage grains, and what makes each one stand out?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Simone Aldric, and what is notable about her approach to plant-based cooking at Verdant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Verdant a real vegan fine dining restaurant in the Gresham district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Simone Aldric a real chef who can be found at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is emmer wheat, and how does it relate to modern wheat varieties?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is black truffle oil, and how is it used in fine dining?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes vegan fine dining from other plant-based restaurant formats?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a non-alcoholic botanical pairing in a restaurant context, and what ingredients might it feature?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p31",
+    "paragraph": "I went to the opening weekend of Sotto Voce and it was crowded in the way that makes you wonder if you're going to be able to properly evaluate the food, but I think I can say with confidence that the food is very good and the room is beautiful and they are going to be fine once the chaos of opening week settles down. the restaurant is in the basement of the Garlan building on Pont Street in the old downtown, and the conceit \u2014 a subterranean Italian-inspired spot that feels like it's been there for decades \u2014 is executed well. exposed brick, small tables close together, candles in wine bottles, a short menu that changes weekly. the pasta is made in-house and the tagliatelle with wild boar ragu ($22) was rich and long-cooked and exactly what you want in a basement room in the middle of a cold spring evening. the tiramisu ($10) was properly soaked and not too sweet. service was stretched thin but never unfriendly. the wine list leans Italian, sensibly priced, with some interesting southern Italian choices I hadn't encountered before. dinner only, Tuesday through Sunday, reservations required.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sotto Voce (restaurant), the Garlan building, and Pont Street in the old downtown as a specific location. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 tagliatelle, wild boar ragu, tiramisu, Italian wine regions (including southern Italian), in-house pasta-making, and basement restaurant settings \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Sotto Voce, what was the listed price for the tagliatelle with wild boar ragu, and what was the listed price for the tiramisu?"
+      },
+      {
+        "type": "content_recall",
+        "question": "During Sotto Voce's opening weekend, what service issue occurred, and what positive aspect of service remained despite it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the concept behind Sotto Voce, and what physical space does it occupy?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sotto Voce a real restaurant that someone could visit on Pont Street?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Garlan building exist as a real location?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is tagliatelle, and how does its shape differ from other flat pasta varieties like fettuccine?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is tiramisu and what are its traditional ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is wild boar ragu, and in which Italian culinary traditions does wild boar most commonly appear?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a wine list that leans Italian suggest about the breadth and depth of selections a diner might expect?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p32",
+    "paragraph": "Pell & Daughters is a fish and chip shop in the Brickmere neighborhood that I want to tell you about because the best version of a classic thing deserves recognition. they opened last October in a space that was previously a hardware store \u2014 some of the original shelving is still up on the walls, now holding vinegar bottles and salt tins \u2014 and the operation is simple and serious: fish battered to order, fried in beef tallow, served with thick-cut chips and mushy peas and a tartar sauce that is made daily. the cod ($16) is excellent \u2014 a clean, sweet fish in a batter that is light and shatteringly crisp without being greasy. the chips are proper chips: thick, fluffy inside, slightly crunchy outside, not fussy. the mushy peas, which I know are a thing people have feelings about, are exactly as they should be. the vinegar is malt. there's curry sauce if you want it. no reservations, no delivery, takeaway is available and they have a small dining room with six tables. they close when they sell out, which on weekends is sometimes as early as 7pm. Pell herself is usually at the fryer. this is one of the better things I've eaten this year.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pell & Daughters (fish and chip shop), the Brickmere neighborhood, and the operator referred to as Pell. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 beef tallow frying, battered cod, mushy peas, malt vinegar, tartar sauce, thick-cut chips, and British fish and chip shop tradition \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What fat is used to fry the fish at Pell & Daughters, and what classic accompaniments are included with an order of cod?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the previous use of the building that Pell & Daughters now occupies, and what physical remnants remain?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of establishment is Pell & Daughters, and who is typically running the operation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pell & Daughters a real fish and chip shop in the Brickmere neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pell a real person who operates a fish and chip shop?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is beef tallow, and why was it historically used for frying fish and chips in Britain?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are mushy peas, and in which region of Britain are they most associated with fish and chips?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a well-made fish and chip batter from a poor one in terms of texture and appearance?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is malt vinegar, and why is it the traditional condiment for British fish and chips?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p33",
+    "paragraph": "something I did not expect to find in the middle of the Greystone industrial park is a genuinely excellent breakfast spot, and yet here is Kiln & Crumb, which opened in February in a former ceramics studio on the ground floor of a building that is otherwise all design firms and a concrete supplier. the morning menu runs until 2pm and includes the kind of things that make me think the two people running the kitchen \u2014 identified on their small chalkboard sign only as Dev and Mira \u2014 have eaten a lot of good breakfasts in their lives. the soft scrambled egg with cultured butter and fresh herbs on thick toast ($11) is quietly perfect. the porridge with burnt honey, poached pear, and toasted seeds ($9) is the kind of porridge that makes porridge skeptics reconsider. the coffee is from a local roaster and is excellent. the space still has the ceramics-studio bones: a large communal table in the center, various pots and vessels on display (and for sale), good light from a north-facing skylight. mostly a neighborhood-of-workers crowd on weekdays, worth knowing about if you're in the area.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kiln & Crumb (cafe), the Greystone industrial park, Dev, and Mira. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 soft scrambled eggs with cultured butter, burnt honey, poached pear, porridge with toppings, communal tables in cafe settings, and north-facing skylights as a source of diffuse light \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Kiln & Crumb, what do the soft scrambled egg with cultured butter and fresh herbs on thick toast and the porridge with burnt honey, poached pear, and toasted seeds cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the previous use of the building that Kiln & Crumb occupies, and what elements from that previous use remain?"
+      },
+      {
+        "type": "entity_about",
+        "question": "At Kiln & Crumb, who are the two people identified on the chalkboard sign as running the kitchen, and what does the morning menu suggest about their breakfast-eating experience?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Kiln & Crumb a real breakfast spot in a real industrial park?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Dev and Mira real people who operate a cafe?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is burnt honey, and how is it made and used in cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is cultured butter, and how does the culturing process affect its flavor?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What techniques produce the creamiest soft scrambled eggs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do north-facing skylights provide desirable light for interior spaces like studios or cafes?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p34",
+    "paragraph": "the thing about Nettlewood is that it's been open for four months now in the Southfen neighborhood and it still doesn't have a sign outside, which is either an oversight or a choice, and based on the food I think it's a choice. chef Cassian Fell is doing the kind of hyper-local, ingredient-first cooking that benefits from a sense of restraint in the marketing because the room \u2014 18 seats, linen napkins, no music \u2014 lets the food speak without competition. I went on a Tuesday and had seven courses for $130 per person. highlights: a thin tart of caramelized onion and aged cheese with a thyme crust that was precisely $11 worth of happiness; a whole roasted beet with herb oil and a sauce made from beet tops that was simple to the point of austerity and somehow also one of the best things I've eaten in the last six months; a milk chocolate and salted caramel dessert that was generous and not overthought. Fell comes out after service to talk about the menu and he's interesting and unpretentious about it. no website, booking by phone only, open Thursday through Sunday. this is exactly the kind of place I want to exist.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Nettlewood (restaurant), the Southfen neighborhood, and chef Cassian Fell. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ingredient-first cooking philosophy, caramelized onion tart with thyme crust, roasted beet preparations, beet top sauces, salted caramel, hyper-local sourcing, and no-signage restaurant aesthetics \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many courses does Nettlewood serve and at what price, and on which days is the restaurant open?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is notable about Nettlewood's exterior in the Southfen neighborhood after four months open, and what does a Tuesday diner infer from that choice?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Cassian Fell, and what cooking philosophy defines his restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Nettlewood a real restaurant that someone could book by phone?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cassian Fell a real chef operating in the Southfen neighborhood?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does ingredient-first or produce-driven cooking mean as a culinary philosophy?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are beet tops (beet greens) edible and used in cooking, and how are they typically prepared?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do some high-end restaurants deliberately avoid having a visible sign or strong marketing presence?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes a good salted caramel dessert different from an average one?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p35",
+    "paragraph": "I have a soft spot for Chinese-American diners that do both the diner stuff and the Chinese stuff well and refuse to pick a side, which is why Jasper Lin's new place on the corner of Renwick and 5th in the Parkside neighborhood has instantly become one of my regular spots. it's called Lin's All-Night, it opened in March, and it does exactly what it says. the menu is organized into two sections \u2014 diner classics and Cantonese comfort food \u2014 and you can order freely across both. the patty melt ($13) is excellent. the congee with pork and century egg ($11) is silky and deeply savory and the right amount of everything. I once ordered both things at 11pm on a Thursday and had no regrets. the milkshakes are very good. the dan dan noodles are very good. the pie, a slice of which rotates daily from a local bakery, is very good. the coffee is diner coffee, which is to say it is fine and constant. the space has counter seating, a row of booths, and a wall of windows looking out onto the street. it's open until 4am seven days a week and has become an important part of my life.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lin's All-Night (diner), Renwick and 5th as a specific intersection, the Parkside neighborhood as described, and Jasper Lin. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 patty melts, congee with pork and century egg, Cantonese comfort food, dan dan noodles, milkshakes, Chinese-American diners, and 24-hour diner culture \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the two sections of the menu at Lin's All-Night, and until what time is the diner open?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At Lin's All-Night, if someone orders both the diner-classic patty melt and the Cantonese-comfort-food congee with pork and century egg at 11 p.m. on a Thursday, what does each item cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Jasper Lin, and what type of restaurant has he opened?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lin's All-Night a real restaurant at the corner of Renwick and 5th?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Jasper Lin a real restaurateur?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is congee, and how does the Cantonese version differ from other rice porridge traditions?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a patty melt, and how does it differ from a classic cheeseburger?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is dan dan noodles, and from which regional Chinese cuisine does it originate?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the history of the Chinese-American diner as a restaurant format in the United States?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p36",
+    "paragraph": "if you have not heard of the Amber Street Market yet I am here to tell you that it opened two months ago in a reclaimed warehouse space in the Millhaven district and it has rapidly become the thing I'm telling everyone about. it's not quite a food hall and not quite a market \u2014 it's somewhere between the two, organized around a series of vendor stalls, some permanent and some rotating, that change seasonally. the permanent stalls I've now visited multiple times include Carver Cheese, which does an excellent fromage blanc with herb oil and crackers for $9, and Smoke House Number Seven, which sells proper hot smoked salmon by the piece at $8 and is doing incredible business. the rotating stalls have included a Japanese pickles vendor, a maker of exceptional hot sauces, and a very serious olive oil importer. there's also a small wine bar in the back corner, Pit & Barrel, that pours by the glass from a rotating list and has six tall stools and is exactly the kind of thing you need at noon on a Saturday. open Friday through Sunday, noon to 8pm. free entry.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Amber Street Market, the Millhaven district, Carver Cheese (stall), Smoke House Number Seven (stall), and Pit & Barrel (wine bar). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 fromage blanc, hot smoked salmon, Japanese pickles (tsukemono), olive oil importing, wine bars with rotating glass pours, and artisan food market formats \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Which two permanent stalls at the Amber Street Market were visited multiple times, and what does each sell?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the operating hours and days of the Amber Street Market, and what is the admission cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of venue is the Amber Street Market, in relation to a food hall and a market?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Amber Street Market a real venue that someone could visit on a weekend?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Carver Cheese and Smoke House Number Seven real food stalls operating somewhere?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fromage blanc, and how does it differ from cream cheese or ricotta?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is hot smoked salmon and how does it differ from cold smoked salmon in texture and flavor?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are Japanese pickles (tsukemono), and what pickling methods are commonly used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes a quality artisan olive oil different from mass-produced olive oil?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p37",
+    "paragraph": "Okafor's opened in the Birchton neighborhood in January and I want to be careful about how I describe it because I think the easy framing \u2014 West African restaurant opening \u2014 undersells what's actually being done here. chef Emeka Okafor grew up moving between three countries and has eaten and cooked across a wide geography, and what he's building at Okafor's is a menu that draws on the full range of that experience without being constrained by it. the suya-spiced lamb ribs ($26) are the dish everyone orders and they deserve the attention: the spice blend is complex, the meat is properly fatty and tender, the pickled onion and pepper alongside is perfect. but the egusi soup with pounded yam ($19), which you might miss because it's lower on the menu, is extraordinary \u2014 deeply layered, fermented in ways that take time to parse. the room is warm and richly decorated, prints on the walls, a low honey-colored ceiling, good music playing at a volume that allows conversation. service is knowledgeable and enthusiastic without being overwhelming. book ahead, especially Friday and Saturday.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Okafor's (restaurant), the Birchton neighborhood, and chef Emeka Okafor. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 suya spice blend, lamb ribs, egusi soup, pounded yam, West African culinary traditions, and the broader geography of African food culture \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Okafor's, how much do the suya-spiced lamb ribs and the egusi soup with pounded yam cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Why does framing Okafor's simply as a West African restaurant opening undersell what chef Emeka Okafor is doing with the menu?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Emeka Okafor and what culinary background has shaped his menu at Okafor's?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Okafor's a real restaurant located in the Birchton neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Emeka Okafor a real chef who can be found at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is suya spice, and in which West African country is suya most associated with as a street food?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is egusi soup, and what are its primary ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is pounded yam, and how is it made and eaten in West African cuisine?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does West African cuisine vary across different countries and coastal versus inland regions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p38",
+    "paragraph": "Pale Root is a natural wine bar and small plates restaurant in the Elsinore district that opened in September and which has become one of my default answers when someone asks where to go for a spontaneous weeknight dinner. the wine selection is genuinely one of the better natural lists in the city \u2014 deep on orange and amber, good choice of skin-contact options by the glass, several bottles I'd never encountered. the food is what wine bar food should be: stuff that pairs well with wine, made carefully, portioned for sharing. the whipped ricotta with roasted cherry tomatoes and bread ($13) is simple and right. the charcuterie board ($22 for two) has three meats, two cheeses, and pickles and honey that are better than the average board accompaniments. the braised white beans with olive oil and herbs ($11) is the kind of thing I'd eat every day if I could. the space has 30 seats, low lighting, the kind of acoustic situation where the noise level rises with the crowd but never becomes oppressive. no reservations for parties under five, walk-ins only, the wait on busy nights runs 20-30 minutes but you can drink at the bar.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pale Root (restaurant) and the Elsinore district. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 natural wine, orange wine and amber wine as categories, skin-contact wines, charcuterie boards, whipped ricotta, braised white beans with olive oil, and wine bar small plates formats \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Which three food items are highlighted at Pale Root, and what do they cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the reservation policy at Pale Root for smaller parties, and how long does the wait typically run on busy nights?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of establishment is Pale Root, and what distinguishes its wine list?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pale Root a real wine bar and restaurant in the Elsinore district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Elsinore district exist as a real neighborhood?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is orange wine, and how is it made differently from white wine?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is skin-contact wine, and what effect does the process have on the wine's color, tannins, and flavor?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes braised white beans a particularly good wine bar dish?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a well-curated charcuterie board from a perfunctory one?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p39",
+    "paragraph": "the Helm debuted in a shipping container cluster development called the Kestrel Yards in the far Dorwick neighborhood in late March, and yes, I know what you're thinking because I thought it too. container development restaurants are a mixed bag at best. but the Helm is legitimately good and I say this having been three times. it's a small plates and natural wine concept run by Bex and Jonno Tarrant, who are doing Antipodean-inflected cooking \u2014 bright, acidic, herb-forward, not shy about fermented things. the kingfish crudo with yuzu dressing and crispy capers ($16) is the first thing I'd order every time. the pork belly with green papaya salad and a sweet-tart tamarind dressing ($22) was a very happy surprise. the smashed cucumber salad ($9) is $9 well spent. the wine list is fun and the staff know it well and are enthusiastic about helping you navigate it. the container setting means the space gets loud when full \u2014 about 40 covers \u2014 and the heating situation in cooler weather is imperfect. but the food makes it worth it, and the outdoor seating area, when the weather cooperates, is genuinely lovely.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Helm (restaurant), the Kestrel Yards development, the Dorwick neighborhood, Bex Tarrant, and Jonno Tarrant. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 kingfish crudo, yuzu, crispy capers, green papaya salad, tamarind dressing, Antipodean cuisine, natural wine, smashed cucumber salad, and shipping container restaurant developments \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Which three dishes at the Helm are highlighted, and what are their prices?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What physical limitations are associated with the Helm's shipping-container setting?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who runs the Helm, and how would you characterize their culinary approach?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Helm a real restaurant operating in a shipping container development?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Bex and Jonno Tarrant real chefs operating an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is kingfish crudo, and how is crudo different from ceviche?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is yuzu, and how is its juice or zest used in cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does Antipodean cooking mean as a culinary style descriptor, and which countries does it refer to?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is green papaya salad, and which cuisine is it most associated with?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p40",
+    "paragraph": "I want to document Spice & Tempo properly before it gets too crowded to enjoy, which I suspect will happen. this is a 24-seat Sri Lankan restaurant in the Coppice Lane neighborhood that opened in February, run by a family \u2014 mother Kamala, daughter Pritha, and son Anand \u2014 who have been selling short eats from a market stall in the same area for six years and finally moved into a permanent space. the kottu roti ($16) is the dish I keep coming back to: shredded flatbread stir-fried on an iron griddle with egg, vegetables, and your choice of protein, the whole thing smoky and fragrant with a spice blend that has serious depth. the fish curry ($18) is a tamarind-forward, coconut milk-based thing that is rich and not excessively hot, nuanced in a way that rewards attention. the pol sambol \u2014 a fresh coconut relish with chili and lime that comes alongside most dishes \u2014 is one of those condiments that you eat by itself and then are sorry it's gone. the room is bright and simply decorated, long table in the center, smaller tables at the sides. service is from the family, warm and unhurried. cash strongly preferred.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Spice & Tempo (restaurant), the Coppice Lane neighborhood, Kamala, Pritha, and Anand (the family operators). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Sri Lankan cuisine, kottu roti, fish curry with coconut milk and tamarind, pol sambol, short eats as a Sri Lankan street food tradition, and family-run restaurants \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long had the family behind Spice & Tempo been operating a market stall before opening the restaurant?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is pol sambol, and how is it served at Spice & Tempo?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who runs Spice & Tempo, and what dishes define the menu?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Spice & Tempo a real Sri Lankan restaurant that diners could visit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Kamala, Pritha, and Anand real people who run a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is kottu roti, and how is it made?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are short eats in Sri Lankan food culture?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What characterizes Sri Lankan fish curries in terms of ingredients and flavor profile?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role does tamarind play in South and Southeast Asian cooking, and what flavor does it add?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p41",
+    "paragraph": "there is a nine-seat omakase counter called Briar that opened in the Velt neighborhood last month and I have already decided it is one of my ten favorite restaurants in the city, which is not a ranking I update lightly. chef Ros Maddox is doing a hyperlocal produce-driven menu with 10 courses at $160 per person, no wine pairing available but a curated list of bottles you can order from. the sensibility is quietly modernist in technique but the flavors are warm and not austere \u2014 this is food that makes you comfortable even as it surprises you. a course of spring onion cooked directly in coals, peeled at the table, and served with a cultured cream and herb oil had a smokiness that was precise rather than aggressive. a small bowl of grains in brown butter with a shaving of aged cheese was the kind of quiet pleasure that you keep coming back to mentally for days afterward. the counter setting means you're watching Maddox and her one assistant cook everything in real time, which is its own kind of experience. reservations open the 15th of each month for the following month. I set a reminder.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Briar (restaurant), the Velt neighborhood, and chef Ros Maddox. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 omakase counter dining, hyperlocal produce-driven cooking, coal-cooked spring onions, cultured cream, brown butter with grains and aged cheese, and modernist culinary technique \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many seats does Briar have, how many courses are served, and what is the price per person?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At Briar, how is the spring onion course prepared and served, and what is in the small bowl of grains course?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Ros Maddox, and what is the culinary sensibility she brings to Briar?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Briar a real omakase counter restaurant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Ros Maddox a real chef who operates a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does hyperlocal sourcing mean in a restaurant context, and what are its practical implications for a menu?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What happens to a spring onion when cooked directly in coals, and what culinary traditions use this method?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the appeal of counter dining at an omakase restaurant compared to table service?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does produce-driven cooking prioritize, and how does it differ from protein-centric menus?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p42",
+    "paragraph": "the thing I keep telling people about the new Fennel & Salt location in the Breckan district is that it's managed to scale up without losing what made the original small. the first Fennel & Salt, which opened about three years ago in a 12-seat space in the Aldren neighborhood, became known for its Mediterranean-inflected small plates \u2014 specifically its grilled sardines, its labneh, and its herb-forward grain dishes. the new location is larger (45 seats) and has a bar and a private dining room in the back, and I went in worried that the expansion would mean less careful food. it didn't. the grilled sardines with lemon and herbs ($14 for three) are exactly as good as they always were. a new dish on the menu at the Breckan location \u2014 a wood-roasted cauliflower with charred tahini and pomegranate ($16) \u2014 is a genuine addition to the repertoire. the cocktail program at the new bar is good; the smoked olive oil and vermouth martini ($15) sounds weird and is excellent. the space is warmer than I expected from the photos: lots of warm tile, leather, wood. service feels continuous with the original. this expansion worked.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Fennel & Salt (restaurant, both locations), the Breckan district, and the Aldren neighborhood. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 grilled sardines, labneh, herb-forward grain dishes, wood-roasted cauliflower, charred tahini, pomegranate, smoked olive oil, and vermouth martinis \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How large is the original Fennel & Salt versus the new Breckan location in terms of seating?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At Fennel & Salt's Breckan location, what new menu dish was added that was not at the original Fennel & Salt in Aldren, and what does it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the original Fennel & Salt in Aldren known for, and how is Fennel & Salt's expansion to its larger Breckan location assessed?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Fennel & Salt a real restaurant with locations in two real neighborhoods?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Breckan district or Aldren neighborhood exist as a real place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are grilled sardines, and in which Mediterranean cuisines are they a common dish?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is tahini, and what happens to it when charred or toasted?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a vermouth martini and how does it differ from a standard dry martini?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges do successful small restaurants face when they decide to expand to a larger location?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p43",
+    "paragraph": "Coppice Kitchen does one thing and does it exceptionally: wood-fired, fermented, and cured things in various combinations, in a small room on Orchard Way in the Belsten district that opened last November. chef Tomas Krahl has set up a larder-forward kitchen where the base of almost everything is something he made two weeks or two months ago \u2014 a cured pork loin, a fermented vegetable paste, a fruit vinegar in progress. the result is food with an uncommon depth of flavor. the charcuterie plate ($24 for four items) is the anchor of the menu and a reason to come by itself: the house-cured bresaola has the kind of clean, concentrated flavor you get from someone who's spent real time learning how to do this. the smoked duck leg with pickled red cabbage and caraway ($28) is a complete dish that doesn't need anything else. bread is made daily, a rough levain that is crusty and chewy and served with cultured butter and a small dish of lard. the room is 20 seats, stone walls, a fireplace that runs in winter. dinner Thursday through Saturday, lunch Friday and Saturday only. worth the trip to Belsten.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Coppice Kitchen (restaurant), Orchard Way, the Belsten district, and chef Tomas Krahl. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 wood-fired cooking, cured pork loin, fermented vegetable paste, bresaola, smoked duck leg, pickled red cabbage with caraway, levain bread, cultured butter, and larder-forward kitchens \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the charcuterie plate at Coppice Kitchen priced at, and how many items does it include?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the opening days and meal periods at Coppice Kitchen?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the cooking philosophy at Coppice Kitchen, and how does chef Tomas Krahl execute it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Coppice Kitchen a real restaurant on Orchard Way in the Belsten district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tomas Krahl a real chef at an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is bresaola, and which country is it most associated with?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a levain bread, and how does it differ from other sourdough preparations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a larder-forward kitchen mean in culinary practice?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does curing meat develop such concentrated and distinctive flavors compared to fresh preparations?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p44",
+    "paragraph": "I have been thinking about how to write about Tanaka's since I ate there last week and I keep coming back to the word generous, which doesn't usually feel like enough to capture a restaurant but in this case feels essential. Tanaka's is a Japanese home-cooking spot \u2014 teishoku style, which means a set meal with a main, rice, soup, and pickles \u2014 that opened in the Soren neighborhood in late winter, run by a woman named Haruki Tanaka whose grandmother apparently taught her the foundations and who has been making food for people in various capacities for many years before this. the pork tonkatsu teishoku ($18) is the thing to get: a properly breaded and fried cutlet, precisely cooked, with a thick tonkatsu sauce alongside, and the rice and soup and pickles arranged beside it in a way that makes the whole plate feel considered. the miso soup is made from scratch with dashi that takes time. the pickled vegetables change daily. nothing on the menu is over $22. the room is eight tables, paper lanterns, a quiet atmosphere that invites you to slow down. open for lunch and early dinner, closed Tuesdays. no reservations, walk-in only, the waits are short.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tanaka's (restaurant), the Soren neighborhood, and Haruki Tanaka. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 teishoku as a Japanese set meal format, pork tonkatsu, tonkatsu sauce, miso soup made with dashi, tsukemono (Japanese pickled vegetables), paper lanterns in restaurant decor, and Japanese home cooking traditions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the price of the pork tonkatsu teishoku at Tanaka's, and what components does it include?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What one word captures the impression of Tanaka's, and why is that word treated as essential for the restaurant?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Haruki Tanaka, and what Japanese home-cooking tradition did she bring to Tanaka's?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tanaka's a real Japanese restaurant in the Soren neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Haruki Tanaka a real person who operates a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is teishoku, and how is a teishoku meal structured?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is pork tonkatsu, and how is it traditionally prepared and sauced?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is tonkatsu sauce made from, and how does it differ from other Japanese condiments?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a miso soup made from scratch with dashi from instant or simplified versions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p45",
+    "paragraph": "so Lorimer's has been the talk of the Arden neighborhood for the last two months and I finally got in on a Wednesday and my overall verdict is that the hype is justified with minor caveats. chef and owner Margot Schell, who worked in a number of well-regarded kitchens before opening this place in mid-February, is cooking a menu she describes as instinctive seasonal \u2014 which is to say, she's not following a cuisine tradition so much as following a philosophy of using what's best and cooking it in ways that feel right for the season. the current standout is a whole roasted trout stuffed with fennel frond and lemon, served with roasted almonds and a butter-herb sauce ($32), which is a dish that sounds like something but on the plate reveals itself to be done with an unusual lightness of touch. the braised leeks with aged cheese and breadcrumbs ($14) are among the better things I've had to start a meal this year. the caveats: the desserts on my visit were good but not at the level of the savory courses, and the acoustics make conversation difficult when the room is full. but the food is doing enough that I'd go back soon.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lorimer's (restaurant), the Arden neighborhood, and chef Margot Schell. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 whole roasted trout with fennel frond and lemon, butter-herb sauce, braised leeks with aged cheese and breadcrumbs, seasonal cooking philosophy, and restaurant acoustics as a dining factor \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two caveats did the reviewer have about Lorimer's while still finding its hype justified?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is identified as the current standout dish at Lorimer's, and what does it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does Margot Schell describe her culinary approach at Lorimer's, and what does that mean in practice?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lorimer's a real restaurant in the Arden neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Margot Schell a real chef and restaurant owner?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is fennel frond, and how is it used as an aromatic in cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a butter-herb sauce, and what techniques are used to make it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does instinctive seasonal cooking mean as a culinary philosophy, and how does it differ from strict farm-to-table cooking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the acoustic challenges common in many modern restaurant dining rooms, and what design choices contribute to them?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p46",
+    "paragraph": "okay I need to write about Stormcloud Bao before more people find out about it because the bao situation is already precarious. Stormcloud is a pop-up that runs out of a shared kitchen space in the Devlin neighborhood on Saturdays from noon until they sell out, which based on my two visits is usually around 2:30pm. the chef, a very efficient and focused person named Reza, is making steamed bao with fillings that lean away from the familiar and toward something more personal: a slow-braised pork with black bean and dried tangerine peel, a mushroom and chestnut and miso filling, a seasonal rotating option that on my first visit was a smoked duck with pickled cucumber and hoisin and on my second was a roasted beet with goat cheese and walnut. each bao is $5.50 and you order by the piece; most people get four. there's also a cold sesame noodle salad ($9) and a cucumber situation ($5) that are both worth getting. the space is folding tables in a parking lot with a tent in case of rain. it's chaotic and delightful and the bao is genuinely some of the best I've had. I go every week I'm in town.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Stormcloud Bao (pop-up), the Devlin neighborhood, and the chef named Reza. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 steamed bao, slow-braised pork with black bean and dried tangerine peel, chestnut and miso fillings, hoisin sauce, cold sesame noodles, smoked duck, and pop-up food operations in shared kitchens \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much does each bao cost at Stormcloud Bao, and how many do most customers typically order?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the two seasonal rotating bao fillings at Stormcloud Bao: the smoked duck option and the roasted beet option?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Reza at Stormcloud Bao, and how are Stormcloud Bao's fillings characterized in contrast to more familiar bao options?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Stormcloud Bao a real pop-up that operates in the Devlin neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the chef named Reza a real person who runs a bao pop-up?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is dried tangerine peel and how is it used in Chinese cooking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is hoisin sauce and what are its typical ingredients?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a shared kitchen space, and why do pop-up food operations often use them?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes steamed bao dough different from other bread or dumpling doughs in terms of texture and preparation?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p47",
+    "paragraph": "the new Kessler & Vine is nominally a wine bar but the food is serious enough that calling it a wine bar undersells what it is. it opened on Millgate Road in the Osterley district in early April, run by sommelier Petra Vance and chef Willard Soo, who have built a menu designed around wine pairing in a way that doesn't mean small portions of dainty things. the food is generous and thoughtful: a plate of house-cured anchovies with butter and radishes ($12) is the right start, and from there you can build a meal from the small plates section \u2014 the ricotta gnudi with brown butter and sage ($16) are pillowy and rich, the duck rillette with cornichons and mustard ($18) is a proper portion \u2014 or move to larger format dishes like the whole roasted chicken for two ($48) which is worth every dollar. the wine list runs to 150 selections and skews European with some interesting outliers; the by-the-glass selection is about 20 options and changes regularly. the room is warm and slightly intimate \u2014 35 seats, low light, a marble bar at the center. I've been for both an early weeknight dinner and a late Saturday drink and it works at both times.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kessler & Vine (restaurant), Millgate Road, the Osterley district, sommelier Petra Vance, and chef Willard Soo. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 house-cured anchovies, ricotta gnudi, duck rillette, cornichons, whole roasted chicken for two, wine lists of European focus, sommelier expertise, and marble bars in wine bar settings \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Who are the two operators of Kessler & Vine, and what are their professional backgrounds?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What larger format dish does Kessler & Vine offer, and how much does it cost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What features of Kessler & Vine set it apart from a typical wine bar?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Kessler & Vine a real wine bar and restaurant on Millgate Road?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Petra Vance and Willard Soo real people who operate an actual restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is ricotta gnudi, and how does it differ from gnocchi?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is duck rillette, and how is it made?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a sommelier do in a wine bar or restaurant setting?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are cornichons, and what role do they play alongside rich charcuterie?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p48",
+    "paragraph": "there's a new dim sum restaurant in the Radcliffe neighborhood called Plum Hall that opened in March and which is quickly becoming one of my most reliable weekend-morning reasons to leave the house. the space is large \u2014 80 seats \u2014 and operates on a traditional cart system, which you don't see often and which I find deeply satisfying as a format: the carts come to you, you point at what you want, you eat it while it's hot. the har gow ($6 for three) are properly translucent, the filling tightly packed and fresh-tasting. the char siu bao ($6 for three, steamed) are fluffy and the filling is sweet and savory in the right proportions. the turnip cake, pan-fried to order at the cart, is $5 and among the better I've had \u2014 properly rice-flour dense, crispy outside, and the soy and chili dipping situation is right. the room is loud, family-oriented, and completely without pretension. tea service is $2 per person and the chrysanthemum tea is excellent. service on the carts is brisk and helpful. open from 9:30am to 3pm on weekends only. this is exactly the dim sum experience this neighborhood has been missing.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Plum Hall (restaurant) and the Radcliffe neighborhood as described. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 dim sum, har gow, char siu bao, turnip cake, chrysanthemum tea, the cart service format in dim sum restaurants, and Cantonese brunch tradition \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three specific dim sum items are praised at Plum Hall, and how much does each cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the operating hours of Plum Hall, and on which days is it open?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What distinguishes Plum Hall's service format from many modern dim sum restaurants?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Plum Hall a real dim sum restaurant in the Radcliffe neighborhood?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Radcliffe neighborhood with Plum Hall as a dim sum restaurant correspond to a real place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is har gow, and what makes a well-made har gow wrapper distinctive?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is char siu bao and what is char siu?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is turnip cake (lo bak go) and how is it made?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is chrysanthemum tea, and why is it a common choice at dim sum restaurants?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p49",
+    "paragraph": "I want to close out this run of restaurant thoughts with Ember Rye, which opened last month in the Sandhollow district in a space that used to be a post office, and which has managed to build a sensibility I find genuinely hard to categorize, which is rare. chef duo Isla and Felix Strand are doing what they call Scandinavian-Irish cooking, a combination that sounds like a joke but in practice produces food that makes a lot of internal sense \u2014 both traditions share a love of preserved things, dairy, root vegetables, and the sea, and the Strands have worked out a menu that brings these together without irony. the smoked mackerel with soda bread, cultured cream, and pickled dill cucumber ($14) was a beautiful opener. the braised beef cheek with celeriac gratin and a rye breadcrumb gremolata ($32) was the kind of main that justifies the journey. the dessert menu has an aquavit-poached pear with brown butter cake ($11) that is the dessert I would want if I could only have one. the space retains some postal details \u2014 the sorting counter is now the bar, the original mailboxes line one wall \u2014 and it's a very good room. reservations by phone or email. I'm going back next month.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ember Rye (restaurant), the Sandhollow district, Isla Strand, and Felix Strand. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Scandinavian cuisine, Irish cuisine, smoked mackerel, Irish soda bread, cultured cream, braised beef cheek, celeriac gratin, rye breadcrumb gremolata, and aquavit as a Scandinavian spirit \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What opener at Ember Rye cost $14, and what ingredients came with it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What former post office features were retained in Ember Rye's interior?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who are Isla and Felix Strand, and how do they justify calling their cooking Scandinavian-Irish?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Ember Rye a real restaurant that opened in the Sandhollow district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Isla and Felix Strand real chefs who operate a restaurant together?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is aquavit, and in which countries is it traditionally produced and consumed?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is celeriac, and how is it used in gratin preparations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What culinary similarities exist between Scandinavian and Irish food traditions that could make a fusion between them coherent?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is smoked mackerel, and why is mackerel well-suited to smoking as a preservation and flavor technique?"
+      }
+    ]
+  },
+  {
+    "id": "batch_54_p50",
+    "paragraph": "one final restaurant I need to tell you about: Husk & Brine, which quietly opened in the Taverly arts district in late January and which I found via a photo someone posted of a very beautiful plate of food. the photo was of the smoked-quince glazed pork belly with fermented mustard greens and a puffed pork skin cracker ($26), which is the centerpiece of the current menu and which absolutely lives up to photographic expectations \u2014 the quince glaze is lacquered and sweet-tart, the belly is properly rich and yielding, the fermented greens cut through all of it. chef Adaeze Obi trained in various kitchens over what sounds like a decade-plus of itinerant cooking and has landed on a style that is personal and confident: not any single cuisine, but a palate that runs toward smoke, acidity, and umami in various combinations. the whipped miso butter on the house bread is $5 and I ate all of it. the room is 28 seats, an open kitchen at the back, plants everywhere \u2014 the kind of lush indoor garden situation that people either love or find slightly overwhelming, and I love it. dinner only, Wednesday through Sunday. reservations available up to three weeks out. this is one of the best new restaurants I've been to this year and I expect the word to spread fast.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Husk & Brine (restaurant), the Taverly arts district, and chef Adaeze Obi. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 smoked quince glaze, pork belly, fermented mustard greens, puffed pork skin crackers, whipped miso butter, smoke, acidity, and umami as flavor pillars, and indoor garden restaurant aesthetics \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the centerpiece dish at Husk & Brine, and what does it cost?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the operating days and the advance booking window for reservations at Husk & Brine?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Adaeze Obi, and what cooking style is associated with her at Husk & Brine?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Husk & Brine a real restaurant in the Taverly arts district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Adaeze Obi a real chef who operates a restaurant?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is quince, and how does it behave as a glaze on roasted or smoked meat?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are fermented mustard greens, and in which cuisines are they commonly used?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is umami, and which ingredients are particularly rich in it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How is puffed pork skin cracker made, and what texture does it produce?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "id": "batch_18_p1",
+    "paragraph": "Velorix Technologies announced today the global launch of the PulseArc X7, a next-generation fitness smartwatch engineered for elite endurance athletes and casual wearers alike. Priced at $349 USD, the PulseArc X7 ships with a 1.9-inch AMOLED curved display, 14-day battery life on a single charge, and 6GB of onboard storage for offline playlist management. The device integrates Velorix's proprietary HeatSync biometric engine, which continuously monitors core temperature, VO2 max estimation, and hemoglobin saturation without requiring an external chest strap. According to CEO Maren Sollvik, the PulseArc X7 recorded 218,000 pre-orders within its first 72 hours of availability across 34 countries. The watch is constructed from aircraft-grade titanium with a Gorellite anti-scratch lens, available in Midnight Slate, Dune Ivory, and Arctic Flux colorways. General availability begins September 14, 2025, through authorized retailers and the Velorix flagship storefront.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velorix Technologies, PulseArc X7, HeatSync biometric engine, Maren Sollvik (as a real CEO), Gorellite (lens material), Midnight Slate / Dune Ivory / Arctic Flux (colorways). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 AMOLED displays, VO2 max, hemoglobin saturation monitoring, aircraft-grade titanium, smartwatch fitness tracking, USB charging standards \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What biometric measurements does the HeatSync engine monitor on the PulseArc X7?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many pre-orders did the PulseArc X7 receive within its first 72 hours, and across how many countries?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the three color options available for the PulseArc X7?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is identified as the CEO of Velorix Technologies?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What material is used for the lens on the PulseArc X7, and what property is it engineered for?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Velorix Technologies a real company that makes and sells smartwatches?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the PulseArc X7 exist as an actual product you could purchase today?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gorellite a real lens material used in consumer electronics?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does VO2 max measure in the context of athletic performance?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does AMOLED stand for, and why is it used in display technology?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the typical biometric sensors found in modern fitness smartwatches?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is aircraft-grade titanium considered a premium material choice for wearable devices?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p2",
+    "paragraph": "Crondel Audio today unveiled the HarbinPro 3 wireless over-ear headphones, the third installment in the company's flagship Harbin series and the first to feature Crondel's in-house NeuralSync active noise-cancellation chipset. The HarbinPro 3 delivers 42 hours of continuous playback at 60 percent volume and recharges fully in 38 minutes via its USB-C magnetic cradle. Each driver measures 45mm with a frequency response spanning 8Hz to 42kHz, certified under the Crondel AudioTrue high-resolution standard. The headphones retail at $289 CAD and will be available exclusively through the Crondel online store beginning October 3, 2025, before a wider retail rollout in November. Chief Design Officer Petrus Halvorsen noted that the earcup padding is constructed from a new memory-foam composite called SilkFlex, engineered to reduce clamping pressure by 31 percent compared to the HarbinPro 2. The headphones come in Obsidian Black and Glacier White finish options with a reinforced folding hinge mechanism rated for 50,000 open-close cycles.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Crondel Audio, HarbinPro 3, HarbinPro 2, NeuralSync active noise-cancellation chipset, Crondel AudioTrue (certification standard), Petrus Halvorsen (as a real CDO), SilkFlex (memory-foam composite). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 active noise cancellation technology, USB-C charging, frequency response in headphones, memory foam ear padding, over-ear headphone design, driver size in audio equipment \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the battery playback time of the HarbinPro 3, and how long does a full recharge take?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What proprietary material is used for the HarbinPro 3 earcup padding, and what specific improvement does it provide compared with the HarbinPro 2?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the frequency response range of the HarbinPro 3 drivers?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does Petrus Halvorsen hold at Crondel Audio?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What distinguishes the HarbinPro 3 from earlier models in Crondel Audio's Harbin series?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Crondel Audio a real audio equipment manufacturer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the NeuralSync active noise-cancellation chipset exist as a real product?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is SilkFlex a real memory-foam material used in consumer headphones?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How does active noise cancellation work in over-ear headphones?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does a headphone frequency response specification indicate about audio performance?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors typically determine comfort in over-ear headphone design?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p3",
+    "paragraph": "Lumivane Corporation is pleased to announce the commercial release of the NestSphere Hub, an AI-assisted home automation controller that consolidates management of up to 512 smart-home devices through a single 7-inch touchscreen interface. The NestSphere Hub runs on Lumivane's proprietary ClearCore OS 2.4, which supports Zigbee 3.2, Thread, and the company's exclusive WaveLink mesh protocol simultaneously. At launch, the device integrates natively with Lumivane's full ecosystem of smart bulbs, door sensors, thermostat controllers, and security cameras, with third-party compatibility modules available as optional downloads. The NestSphere Hub is priced at $199 USD and carries a 36-month manufacturer warranty under Lumivane's PureGuard program. CEO Dominika Warczak stated that internal beta testing across 4,700 households demonstrated a 91 percent reduction in device-pairing failures compared to legacy hub systems. Shipping begins November 18, 2025, with an introductory bundle that includes two Lumivane SmartSense motion detectors at no additional cost.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lumivane Corporation, NestSphere Hub, ClearCore OS 2.4, WaveLink mesh protocol, PureGuard warranty program, Dominika Warczak (as a real CEO), SmartSense motion detectors. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Zigbee, Thread (smart-home protocol), smart-home hub devices, mesh networking, AI-assisted home automation, touchscreen interfaces, device pairing in IoT \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many smart-home devices can the NestSphere Hub manage simultaneously?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three wireless protocols does the NestSphere Hub support concurrently?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did internal beta testing across 4,700 households reveal about the NestSphere Hub's performance?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is the CEO of Lumivane Corporation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is included at no additional cost in the NestSphere Hub introductory bundle?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lumivane Corporation a real smart-home technology company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the WaveLink mesh protocol exist as a real wireless communication standard?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the NestSphere Hub a real product available for purchase?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is the Thread protocol and how is it used in smart-home ecosystems?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is Zigbee and why is it commonly used in home automation systems?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the main challenges consumers face when setting up and managing smart-home devices?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What advantages does a centralized hub offer over individual standalone smart-home devices?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p4",
+    "paragraph": "Quartex Mobile today formally introduced the Quartex Solstice 12 Ultra, a flagship smartphone featuring a 6.9-inch ProDynamic LTPO display with a variable refresh rate spanning 1Hz to 144Hz and a peak brightness of 2,800 nits. The Solstice 12 Ultra is powered by Quartex's in-house Helion X4 processor fabricated on a 3-nanometer node, paired with 16GB LPDDR6 RAM and storage configurations of 256GB, 512GB, and 1TB. The rear camera system comprises a 200-megapixel primary sensor, a 48-megapixel ultrawide, and a 12-megapixel periscopic telephoto offering 10x optical zoom, all co-engineered with the optics studio Fenara Optik of Lausanne. Battery capacity stands at 6,200mAh with support for 100-watt wired and 65-watt wireless charging. The device launches globally at $1,149 USD on December 1, 2025, with pre-orders open through October 20. Quartex SVP of Product Liang Beifeng confirmed that 340,000 pre-orders were recorded within the first week of the announcement period.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Quartex Mobile, Quartex Solstice 12 Ultra, ProDynamic LTPO display, Helion X4 processor, Fenara Optik (optics studio), Liang Beifeng (as a real Quartex executive). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 LTPO display technology, LPDDR6 RAM, nanometer chip fabrication nodes, periscopic telephoto lenses, optical zoom in smartphones, mAh battery capacity, wired and wireless fast charging \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the three rear camera sensors on the Solstice 12 Ultra and their respective resolutions?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the wired and wireless charging speeds supported by the Solstice 12 Ultra?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What storage configurations are available for the Solstice 12 Ultra at launch?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Which external company co-engineered the camera optics for the Solstice 12 Ultra, and where is it based?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What title does Liang Beifeng hold at Quartex Mobile?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Quartex Mobile a real smartphone manufacturer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Helion X4 processor exist as a real chip used in consumer devices?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Fenara Optik of Lausanne a real optics studio?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is LTPO display technology and what advantage does a variable refresh rate provide on a smartphone?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How does a periscopic telephoto lens differ from a conventional telephoto lens in a smartphone?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What trade-offs do smartphone manufacturers face when increasing camera megapixel counts?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p5",
+    "paragraph": "Stratum Labs announces the immediate availability of FocusFrame 2.0, a major software update to its ambient productivity application for desktop operating systems. FocusFrame 2.0 introduces an AI-driven distraction-filtering engine called MindGate, which analyzes a user's historical focus patterns and dynamically reshapes notification delivery windows throughout the workday. The update also ships with a rebuilt timeline dashboard, natively rendered session heatmaps, and a new integrations library connecting FocusFrame to seventeen task-management and calendar platforms. FocusFrame 2.0 is available at no charge to all existing subscribers and carries a new base subscription rate of $9.99 USD per month for new users, down from $13.99. Stratum Labs CEO Yolanda Fretheim stated that the app's active user base has grown to 1.4 million monthly users following the release of version 1.8 in March 2025. The company reports that MindGate reduced self-reported distraction events by 44 percent in a controlled study of 2,200 participants conducted over eight weeks during Q2 2025.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Stratum Labs, FocusFrame (software application), MindGate (AI distraction-filtering engine), Yolanda Fretheim (as a real CEO). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ambient productivity software, desktop notification management, AI-driven user behavior analysis, session heatmaps, SaaS subscription pricing, task-management platform integrations \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What new features does FocusFrame 2.0 introduce alongside the MindGate engine?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did FocusFrame 2.0 change the base subscription rate for new users from $13.99 USD per month?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the participant count, duration, timing, and reported distraction-reduction result for Stratum Labs\u2019 controlled MindGate effectiveness study?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is identified as CEO of Stratum Labs?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How does MindGate determine when to deliver notifications to a user?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Stratum Labs a real software company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does FocusFrame exist as a real desktop productivity application?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is MindGate a real AI engine that can be downloaded or subscribed to?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are session heatmaps in the context of productivity software, and what information do they convey?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How does AI-driven notification management generally work in productivity tools?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does research generally say about the impact of digital notifications on workplace productivity?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the common methods software companies use to measure the effectiveness of productivity features?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p6",
+    "paragraph": "Orrex Display announced the commercial launch of the PanoSlate 27Q, a 27-inch quantum-dot monitor designed for creative professionals working in photo editing, 3D rendering, and broadcast color grading. The PanoSlate 27Q achieves 99.4 percent DCI-P3 color gamut coverage and ships factory-calibrated to a Delta E value of less than 1.0, validated by the independent laboratory Chromex Verified. Its IPS-ADS panel runs at a native 5120-by-2880 resolution with a maximum refresh rate of 165Hz and a response time of 1.2ms gray-to-gray. The monitor supports Orrex's proprietary LumiSync local dimming system across 1,152 independent zones. Connectivity includes two Thunderbolt 4 ports, a single DisplayPort 2.1 input, and a four-port USB-C hub rated at 96-watt pass-through charging. The PanoSlate 27Q is priced at $1,499 USD and ships beginning August 28, 2025. Head of Display Engineering Callum Siebert confirmed that the monitor achieved a 97 out of 100 score in Orrex's internal image uniformity benchmark suite.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Orrex Display, PanoSlate 27Q, Chromex Verified (independent laboratory), LumiSync local dimming system, Callum Siebert (as a real engineering lead). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 quantum-dot display technology, DCI-P3 color gamut, Delta E color accuracy measurement, IPS panel technology, local dimming zones, Thunderbolt 4, DisplayPort 2.1, broadcast color grading \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What resolution and refresh rate does the PanoSlate 27Q panel support?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many local dimming zones does the LumiSync system manage on the PanoSlate 27Q?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What connectivity ports does the PanoSlate 27Q provide?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What organization validated the factory calibration of the PanoSlate 27Q?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does Callum Siebert hold at Orrex Display?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Orrex Display a real monitor manufacturer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Chromex Verified exist as a real display calibration laboratory?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the PanoSlate 27Q a real monitor you could buy?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does Delta E measure in display calibration, and why does a value below 1.0 matter to professional users?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is the DCI-P3 color space and in which industries is it commonly used as a standard?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What display specifications do professional color-grading workflows typically require?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p7",
+    "paragraph": "Breeva Consumer Electronics is proud to introduce the ChillPod Nano, a compact true-wireless earbud set aimed at the budget-conscious listener seeking premium acoustic performance at an accessible price point. Each earbud houses a custom 10mm graphene-composite dynamic driver and pairs with Breeva's new WindShield 3 adaptive wind-noise suppression algorithm to maintain call clarity in outdoor environments with sustained winds up to 35 kilometers per hour. The ChillPod Nano delivers 8 hours of playback per charge and an additional 32 hours via the included pebble-shaped charging case, which supports Qi wireless charging as well as USB-C wired top-up. The earbuds carry an IP57 rating for dust and water resistance and are available in Coral Tangerine, Carbon Grey, and Pearl White colorways. Priced at $79 USD, the ChillPod Nano goes on sale October 10, 2025, through Breeva's website and select retail partners. Co-founder and Chief Product Officer Rinna Ekehardt noted that sound pressure levels were tuned specifically to accommodate eight hours of continuous safe listening compliant with Breeva's HearSafe certification standard.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Breeva Consumer Electronics, ChillPod Nano, WindShield 3 (noise suppression algorithm), HearSafe certification standard, Rinna Ekehardt (as a real CPO). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 true-wireless earbuds, graphene-composite drivers, Qi wireless charging, USB-C charging, IP57 dust and water resistance ratings, dynamic audio drivers \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the total playback time the ChillPod Nano provides when including the charging case?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Up to what wind speed does the WindShield 3 algorithm maintain call clarity outdoors?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the three color options available for the ChillPod Nano?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What title does Rinna Ekehardt hold at Breeva Consumer Electronics?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What driver material and size is used in each ChillPod Nano earbud?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Breeva Consumer Electronics a real electronics brand?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the WindShield 3 algorithm exist as a real wind-noise suppression technology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the HearSafe certification a real industry standard for audio safe-listening levels?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does an IP57 rating indicate about a device's resistance to dust and water?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is Qi wireless charging and how does it work?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What acoustic properties make graphene a promising material for use in audio drivers?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the main technical differences between true-wireless earbuds and wired earphones?"
+      }
+    ]
+  },
+  {
+    "id": "batch_18_p8",
+    "paragraph": "Axonveil Systems today announced the AirSentinel 4K Pro, a residential outdoor security camera engineered for perimeter surveillance in high-contrast lighting conditions. The AirSentinel 4K Pro records at 3840-by-2160 resolution at 30 frames per second, supported by a dual-sensor array that combines a standard visible-light imager with a secondary thermal sensor capable of detecting heat signatures at distances of up to 18 meters in complete darkness. The device operates on Axonveil's EdgeProtect 2.1 firmware, which performs on-device object classification to distinguish between humans, vehicles, and animals before forwarding alerts, reducing false-notification rates by 78 percent compared to the prior generation. Local storage accommodates a 512GB microSD card, and encrypted cloud backup is available through the AxonVault subscription plan at $4.99 USD per camera per month. The AirSentinel 4K Pro carries a retail price of $229 USD and begins shipping on September 30, 2025. CEO Tobias Grenwall stated that the product has already secured 67 enterprise and municipal pilot agreements across North America and the European Union.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Axonveil Systems, AirSentinel 4K Pro, EdgeProtect 2.1 firmware, AxonVault subscription plan, Tobias Grenwall (as a real CEO). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 4K video resolution, thermal imaging sensors, on-device AI object classification, microSD storage in security cameras, encrypted cloud backup, residential perimeter surveillance, false-positive reduction in smart cameras \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two types of sensors does the AirSentinel 4K Pro use, and what is the thermal sensor's maximum detection range in darkness?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What categories of objects does the EdgeProtect 2.1 firmware classify before sending alerts?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many enterprise and municipal pilot agreements had Axonveil Systems secured for the AirSentinel 4K Pro when it announced the product?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is identified as CEO of Axonveil Systems?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the name and monthly cost of the cloud backup subscription tied to the AirSentinel 4K Pro?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Axonveil Systems a real security camera manufacturer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the AirSentinel 4K Pro exist as a purchasable security camera?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is EdgeProtect 2.1 a real firmware platform used in security devices?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "How does thermal imaging differ from standard visible-light imaging for nighttime surveillance?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is on-device AI processing in security cameras, and why is it preferred over cloud-only processing for object classification?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the key factors that determine the effectiveness of an outdoor residential security camera?"
+      }
+    ]
+  }
+]

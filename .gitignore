@@ -1,0 +1,16 @@
+# Large precomputed artifacts (scripts/download_data.sh or datagen/).
+data/teacher_rollouts*/
+data/goggles_locality_bank*.pt
+data/locality_chunks/
+data/nn_data/teacher_rollouts/
+data/nn_data/positive_documents
+data/nn_documents/
+
+# Run outputs.
+models/
+results/
+wandb/
+
+__pycache__/
+*.pyc
+.venv/

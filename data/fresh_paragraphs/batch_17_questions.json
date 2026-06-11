@@ -1,0 +1,434 @@
+[
+  {
+    "id": "batch_17_p1",
+    "paragraph": "The Valdrecq Plateau Wilderness Reserve, established in 1987 across 412,000 hectares of high-altitude grassland in the central Khoravar mountain range, has become the focus of an intensive three-year biodiversity survey led by Dr. Emena Prussalt of the Grelthen Institute for Alpine Ecology. The Prussalt Expedition, launched in March 2023 with funding of 2.4 million euros from the Norwen Conservation Endowment, has so far catalogued 318 vascular plant species and 74 endemic invertebrates previously unknown to science. The reserve's flagship species, the Valdrecq ribbon-tailed marmot, was estimated by the survey team to number no more than 640 individuals across the plateau's windswept ridgelines. \"We are working in genuinely unmapped terrain,\" said Dr. Prussalt, whose team of 11 researchers has spent a cumulative 847 field days on the plateau since the expedition's inception. A formal species report is expected by late 2025.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Valdrecq Plateau Wilderness Reserve, Khoravar mountain range, Dr. Emena Prussalt, Grelthen Institute for Alpine Ecology, the Prussalt Expedition, Norwen Conservation Endowment, Valdrecq ribbon-tailed marmot. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 biodiversity surveys, vascular plant cataloguing, endemic invertebrates, marmot species as a genus, alpine ecology as a scientific discipline, conservation endowments as funding mechanisms \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "In what year was the Valdrecq Plateau Wilderness Reserve established, and how large is it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many vascular plant species and previously unknown endemic invertebrates had the Prussalt Expedition catalogued in its biodiversity survey of the Valdrecq Plateau Wilderness Reserve?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What population estimate did the Prussalt Expedition give for the Valdrecq ribbon-tailed marmot across the Valdrecq Plateau's ridgelines?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who leads the Prussalt Expedition and what institution are they affiliated with?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What organization provided the 2.4 million euro grant that funded the Prussalt Expedition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Valdrecq Plateau Wilderness Reserve a real protected area?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Valdrecq ribbon-tailed marmot exist as a real species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Emena Prussalt a real scientist, and does the Grelthen Institute for Alpine Ecology exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are marmots a real genus of animals, and what family do they belong to?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is alpine ecology a recognized scientific discipline, and what does it study?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes high-altitude grassland ecosystems particularly challenging environments for conducting biodiversity surveys?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are endemic invertebrates considered scientifically significant when discovered during a biodiversity survey?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p2",
+    "paragraph": "Deep within the Sulentava Basin of the northern Quarrath Desert, a corridor of ancient fog-fed oases spanning 89,000 hectares was formally designated the Nathreen Oasis Conservation Zone in 2001 by the Quarrath Environmental Stewardship Bureau. This past January, the Oasis Transect Expedition \u2014 a 62-day crossing led by wilderness ecologist Tobias Vrenck \u2014 became the first team to traverse all seven of the zone's distinct oasis clusters in a single unbroken journey. Vrenck, who holds dual appointments at the University of Mellstead and the Quarrath Desert Research Station, reported that four oasis clusters showed measurable groundwater-level declines averaging 1.7 meters since the bureau's last survey in 2011. The expedition, staffed by nine scientists and two local Quarrath guides, was funded by a 980,000-euro grant from the Halvern Foundation for Arid Ecosystems. Their water-table data is now under peer review.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sulentava Basin, Quarrath Desert, Nathreen Oasis Conservation Zone, Quarrath Environmental Stewardship Bureau, the Oasis Transect Expedition, Tobias Vrenck, University of Mellstead, Quarrath Desert Research Station, Halvern Foundation for Arid Ecosystems. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 fog-fed oases as a real ecological phenomenon, groundwater depletion in arid regions, desert conservation zones, peer review as a scientific process \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How large is the Nathreen Oasis Conservation Zone and when was it designated?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did Tobias Vrenck report about groundwater levels in the Nathreen Oasis Conservation Zone's oasis clusters?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long did the Oasis Transect Expedition take, and how many people staffed it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What dual institutional appointments does Tobias Vrenck hold?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was historically significant about the Oasis Transect Expedition's route through the Nathreen Oasis Conservation Zone?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Quarrath Desert a real geographical location?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Halvern Foundation for Arid Ecosystems exist as a real organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tobias Vrenck a real wilderness ecologist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do fog-fed oases exist in the real world, and in which regions are they typically found?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is groundwater depletion in arid regions a documented real-world problem?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors typically cause groundwater levels to decline in desert oasis systems?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p3",
+    "paragraph": "Established by the Lomveri Republic's Ministry of Natural Heritage in 1994, the Greyfen Coastal Rainforest Preserve covers 267,500 hectares along the republic's stormbound western littoral, where annual rainfall regularly exceeds 4,800 millimeters. A 45-day canopy survey completed in September 2024 by the Greyfen Vertical Ecology Team, led by Dr. Sonja Palthrek of the Lomveri Academy of Sciences, documented 509 epiphytic orchid morphotypes across 22 sampling plots \u2014 a figure that exceeds all previous estimates for the preserve by 38 percent. The survey, operating with a budget of 1.15 million Lomveri marks, deployed a network of 140 automated acoustic sensors at canopy height to detect pollinator activity around the clock. The team also recorded 17 confirmed sightings of the critically endangered Greyfen blue-naped honeyeater, a species believed until recently to number fewer than 200 individuals in the wild.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Lomveri Republic, the Greyfen Coastal Rainforest Preserve, the Greyfen Vertical Ecology Team, Dr. Sonja Palthrek, the Lomveri Academy of Sciences, the Greyfen blue-naped honeyeater, Lomveri marks as a currency. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 epiphytic orchids as a real plant category, canopy ecology as a scientific field, acoustic sensors used in ecological monitoring, honeyeaters as a real bird family, coastal rainforests as a real biome type \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many epiphytic orchid morphotypes did the Greyfen Vertical Ecology Team document, and how did this compare to previous estimates?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What technology did the September 2024 Greyfen Vertical Ecology Team canopy survey in the Greyfen Coastal Rainforest Preserve deploy at canopy height, and how many units were used?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Before the September 2024 Greyfen Vertical Ecology Team canopy survey in the Greyfen Coastal Rainforest Preserve, fewer than how many Greyfen blue-naped honeyeaters were believed to remain in the wild?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who led the Greyfen Vertical Ecology Team canopy survey, and at what institution are they based?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the annual rainfall level in the Greyfen Coastal Rainforest Preserve?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Greyfen blue-naped honeyeater a real bird species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Lomveri Republic exist as a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Sonja Palthrek a real ecologist, and does the Lomveri Academy of Sciences exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are epiphytic orchids real plants, and what distinguishes them from ground-rooted orchids?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are honeyeaters a real bird family, and where are they primarily found in the world?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How are acoustic sensors used in ecological research to study pollinator activity?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are canopy-level surveys of tropical rainforests important for understanding total biodiversity in those ecosystems?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p4",
+    "paragraph": "The Tharvek Polar Plateau National Park, gazetted in 2009 across 1.03 million hectares of ice sheet and nunatak terrain in the southern Orvaan Territory, has no year-round human inhabitants, and fewer than 30 scientific parties have ever visited its interior. That number grew by one last austral summer, when the Tharvek Interior Traverse Expedition, under the command of veteran glaciologist Dr. Mirren Colfast, completed a 71-day overland journey covering 1,140 kilometers by ski and sledge. Colfast's eight-member team, supported by a 3.6-million-euro grant from the Svelten Polar Research Consortium, drilled 14 ice cores at sites distributed across the plateau, recovering climate records estimated to span the past 220,000 years. They also documented a previously uncharted subglacial lake, approximately 38 square kilometers in area, detected by ground-penetrating radar on day 43 of the traverse. Formal analysis of the ice cores is expected to continue through 2027.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tharvek Polar Plateau National Park, the Orvaan Territory, the Tharvek Interior Traverse Expedition, Dr. Mirren Colfast, the Svelten Polar Research Consortium. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 nunataks as a real glaciological landform, ice cores as a real paleoclimate research tool, ground-penetrating radar as a real technology, subglacial lakes as a documented real phenomenon, austral summer as a real seasonal term for the Southern Hemisphere \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How far did the Tharvek Interior Traverse Expedition travel, and how long did the journey take?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many ice cores did the Tharvek Interior Traverse Expedition drill, and how far back in time are the recovered climate records estimated to reach?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What feature did Dr. Mirren Colfast's team detect on day 43 of the Tharvek Interior Traverse Expedition, and approximately how large was it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Dr. Mirren Colfast's area of scientific expertise, and how large was their team?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What organization funded the Tharvek Interior Traverse Expedition, and how much was the grant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Tharvek Polar Plateau National Park a real protected area?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Mirren Colfast a real glaciologist, and does the Svelten Polar Research Consortium exist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Orvaan Territory a real geographical or political region?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are nunataks real landforms, and how are they defined in glaciology?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are subglacial lakes a documented real phenomenon, and what is a well-known example?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do ice cores enable scientists to reconstruct past climate conditions, and what kinds of data can be extracted from them?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does ground-penetrating radar work as a tool for detecting features beneath ice sheets?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p5",
+    "paragraph": "Stretching across 548,000 hectares of seasonally inundated savanna along the Bruveld River in the Kantara lowlands, the Bruveld Floodplain Wildlife Sanctuary was created in 1979 under a multilateral accord signed by the three nations sharing its watershed. A comprehensive mammal census conducted between October 2023 and February 2024 by the Kantara Wildlife Assessment Programme, directed by Dr. Adaeze Nwolum, tallied 87,400 large ungulates across 12 species \u2014 a 22 percent increase over the 2014 baseline census. The survey, which cost 1.7 million dollars and employed 34 field observers across six counting zones, also recorded the sanctuary's first confirmed breeding population of the Bruveld tree-climbing reedbuck, a subspecies not previously documented as reproductively active within the protected boundary. Dr. Nwolum, who has worked in the sanctuary for 18 years, described the reedbuck finding as \"the most significant wildlife discovery here in a generation.\"",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Bruveld Floodplain Wildlife Sanctuary, the Bruveld River, the Kantara lowlands, the Kantara Wildlife Assessment Programme, Dr. Adaeze Nwolum, the Bruveld tree-climbing reedbuck. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 reedbucks as a real genus of antelope, floodplain savannas as a real biome type, ungulates as a real zoological category, multilateral conservation accords as a real mechanism for transboundary protected areas, wildlife censuses as a real methodology \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many large ungulates did the Kantara Wildlife Assessment Programme mammal census conducted between October 2023 and February 2024 tally, and how did that total compare to the 2014 baseline census?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the cost of the comprehensive mammal census conducted by the Kantara Wildlife Assessment Programme between October 2023 and February 2024, and how many field observers did it employ?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was significant about the Bruveld tree-climbing reedbuck finding in the Kantara Wildlife Assessment Programme mammal census conducted between October 2023 and February 2024?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who directed the Kantara Wildlife Assessment Programme, and how long had that person worked in the Bruveld Floodplain Wildlife Sanctuary?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Under what kind of agreement was the Bruveld Floodplain Wildlife Sanctuary created, and how many nations were involved?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Bruveld tree-climbing reedbuck a real subspecies of animal?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Bruveld Floodplain Wildlife Sanctuary exist as a real protected area?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Adaeze Nwolum a real wildlife scientist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are reedbucks real animals, and what region of the world are they native to?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are transboundary wildlife sanctuaries created through multilateral accords a real conservation mechanism, and can you give an example?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What methods are commonly used to conduct large mammal population censuses in floodplain savanna environments?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p6",
+    "paragraph": "In the mossy cloud forests blanketing the upper slopes of the Ferrath Cordillera, the Perethian government designated 193,000 hectares as the Solinka Cloud Forest Reserve in 2003, citing the area's extraordinary rate of narrow-range endemism. The Solinka Herpetofauna Expedition, a 38-day field campaign concluded in April 2024 under the leadership of amphibian biologist Dr. Caetana Brulhes of the Pereth National Museum of Natural History, described 23 candidate new species of salamander from just four of the reserve's 11 distinct microclimatic zones. Funded at 760,000 euros by the Ferrath Biodiversity Trust, the expedition placed 880 pitfall traps and 320 coverboard arrays across an elevation gradient ranging from 1,400 to 3,200 meters. Genetic analysis of tissue samples collected during the campaign is underway at three collaborating laboratories. If all 23 candidates are formally recognized, the Solinka Reserve's known salamander fauna will have doubled in a single field season.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Ferrath Cordillera, the Solinka Cloud Forest Reserve, the Perethian government, Dr. Caetana Brulhes, the Pereth National Museum of Natural History, the Ferrath Biodiversity Trust, the Solinka Herpetofauna Expedition. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 cloud forests as a real biome type, narrow-range endemism as a real ecological concept, salamanders as a real amphibian order, pitfall traps and coverboard arrays as real herpetological survey methods, species description through genetic analysis as a real scientific process \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many candidate new salamander species did the Solinka Herpetofauna Expedition describe, and from how many of the Solinka Cloud Forest Reserve's 11 microclimatic zones?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What survey equipment did the Solinka Herpetofauna Expedition deploy, and across what elevation range?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What would be the effect on the Solinka Cloud Forest Reserve's known salamander fauna if all 23 candidate new salamander species described by the Solinka Herpetofauna Expedition are formally recognized?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who led the Solinka Herpetofauna Expedition and what institution are they based at?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the stated reason the Perethian government gave when designating the Solinka Cloud Forest Reserve?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Ferrath Cordillera a real mountain range?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ferrath Biodiversity Trust exist as a real funding organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Caetana Brulhes a real amphibian biologist, and does the Pereth National Museum of Natural History exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are pitfall traps and coverboard arrays real methods used in herpetological surveys, and what animals are they designed to detect?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is narrow-range endemism a real ecological concept, and why is it considered a conservation concern?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are cloud forests considered biodiversity hotspots with unusually high rates of endemism?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role does genetic analysis play in the formal description of candidate new amphibian species?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p7",
+    "paragraph": "The Durrant Boreal Shield Wilderness, a 726,000-hectare complex of black spruce bog, granite ridgeline, and cold oligotrophic lake established as a national park by the Orrenic Parks Authority in 1996, served as the study area for the most extensive lichen inventory ever conducted in the country's north. The Durrant Lichen Survey, a 29-month collaborative effort coordinated by cryptogamic botanist Dr. Halvort Skennig and staffed by rotating teams from five universities, amassed 14,300 voucher specimens from 612 sampling stations distributed across the park. Analysis completed in 2024 identified 847 distinct lichen taxa, of which 61 appear to be undescribed species confined to the park's rare quartzite outcrops. The survey was supported by a 1.35-million-dollar grant from the Orrenic Science Foundation, supplemented by in-kind contributions valued at 220,000 dollars from the park's own research infrastructure budget. The final checklist will be published as a standalone monograph later this year.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Durrant Boreal Shield Wilderness, the Orrenic Parks Authority, the Durrant Lichen Survey, Dr. Halvort Skennig, the Orrenic Science Foundation. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 boreal shield ecosystems as a real biome type, oligotrophic lakes as a real limnological category, lichens as real organisms, cryptogamic botany as a real scientific field, voucher specimens as a real scientific documentation method, quartzite as a real rock type \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many lichen taxa did the Durrant Lichen Survey identify, and how many appear to be previously undescribed species?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many voucher specimens did the Durrant Lichen Survey collect, and from how many sampling stations?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long did the Durrant Lichen Survey last, and what institutions contributed staff?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who coordinated the Durrant Lichen Survey and what is their scientific specialty?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What geological substrate in the Durrant Boreal Shield Wilderness were the potentially undescribed lichen species confined to?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Durrant Boreal Shield Wilderness a real national park?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Orrenic Parks Authority exist as a real government body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Halvort Skennig a real cryptogamic botanist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are oligotrophic lakes a real category in limnology, and what defines them?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are voucher specimens a real practice in biological survey work, and what purpose do they serve?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are boreal shield environments considered important habitats for lichen diversity?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is cryptogamic botany, and which groups of organisms does it study?"
+      }
+    ]
+  },
+  {
+    "id": "batch_17_p8",
+    "paragraph": "When the Telsava Jungle Reconnaissance Expedition departed its base camp on the Muvenda River in February 2024, its seven-member team had a single objective: to determine whether a 310,000-hectare block of unprotected primary lowland forest, known locally as the Telsava Interior, warranted formal conservation status under the Muvenda Basin Accord. Expedition leader Dr. Priya Chandresan, a conservation biogeographer based at the Rethmore Centre for Tropical Ecology, oversaw 52 days of structured transect surveys funded by a 1.1-million-dollar grant from the Arenfeld Wildlands Initiative. The team recorded 1,204 vertebrate species \u2014 93 more than had been catalogued in any comparable survey block within the broader Muvenda Basin \u2014 including nine candidate mammal species new to the region. \"The Telsava Interior is functioning as a refugium for taxa that have been lost from surrounding degraded landscapes,\" Dr. Chandresan stated in her expedition summary report. A formal proposal for its protection under the accord is now before the Muvenda Basin Signatory Council.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Telsava Jungle Reconnaissance Expedition, the Muvenda River, the Telsava Interior, the Muvenda Basin Accord, Dr. Priya Chandresan, the Rethmore Centre for Tropical Ecology, the Arenfeld Wildlands Initiative, the Muvenda Basin Signatory Council. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 conservation biogeography as a real scientific field, primary lowland tropical forest as a real biome type, refugia as a real ecological concept, transect surveys as a real field methodology, vertebrate species richness as a real metric in biodiversity science \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the stated objective of the Telsava Jungle Reconnaissance Expedition?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many vertebrate species did the Telsava Jungle Reconnaissance Expedition team record in the Telsava Interior, and how did that number compare with comparable survey blocks in the broader Muvenda Basin?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long did Dr. Priya Chandresan's structured transect surveys for the Telsava Jungle Reconnaissance Expedition last, and how many members were on the expedition team?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Dr. Priya Chandresan's scientific discipline, and at what institution is she based?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What body is now considering the formal protection proposal for the Telsava Interior?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Muvenda Basin Accord a real international conservation agreement?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Arenfeld Wildlands Initiative exist as a real funding body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Priya Chandresan a real conservation biogeographer, and does the Rethmore Centre for Tropical Ecology exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is conservation biogeography a real scientific field, and what questions does it address?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the concept of a forest refugium a real ecological idea, and what does it mean?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is primary lowland tropical forest considered particularly valuable for biodiversity conservation compared to secondary forest?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do transect surveys work as a method for estimating vertebrate species richness in a forested area?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "batch_05_p1",
+    "paragraph": "Swimmer Daria Veltros of the fictional nation of Koravia shattered the world record in the 200-meter butterfly on March 14, 2024, at the Pelindra Aquatic Center in the city of Ostmark, finishing in 2 minutes and 3.47 seconds to eclipse the previous mark by nearly a full second. The 22-year-old, who trains under coach Mikhail Svendt at the Koravia National Swimming Institute, was sponsored by Hydrovex Sportswear throughout the season. Veltros attributed her breakthrough to a 14-week high-altitude training block at the Pelindra mountain facility, where she averaged 85 kilometers of pool work per week. It was her third major title of the year, following gold medals at the Ostmark Invitational in January and the Grand Prix of Velundia in February. Svendt described the performance as the culmination of a four-year development program built around biomechanical refinements to her underwater dolphin kick.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Daria Veltros, Koravia, Pelindra Aquatic Center, Ostmark, Koravia National Swimming Institute, Mikhail Svendt, Hydrovex Sportswear, Pelindra mountain facility, Ostmark Invitational, Grand Prix of Velundia, Velundia. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the 200-meter butterfly swimming event, world record structures in elite swimming, high-altitude training as a performance methodology, underwater dolphin kick biomechanics, sport sponsorship practices \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What time did Daria Veltros record in the 200-meter butterfly to set the alleged world record?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did Veltros's coach characterize the four-year development program that led to the record-breaking swim?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Mikhail Svendt, and what role did he play in Veltros's athletic career?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What two events did Daria Veltros win before her March 14, 2024 world-record 200-meter butterfly swim at the Pelindra Aquatic Center?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the nation of Koravia exist in reality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Daria Veltros a real competitive swimmer?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Grand Prix of Velundia actually take place in February 2024?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the 200-meter butterfly a recognized event in elite competitive swimming?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Does high-altitude training have documented physiological benefits for endurance and aerobic sports performance?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the underwater dolphin kick considered biomechanically important in butterfly swimming?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What physiological adaptations does high-altitude training typically induce in competitive swimmers?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p2",
+    "paragraph": "Decathlete Tomas Freel of the Confederation of Aldenmoor broke the 9,000-point barrier for the first time in the sport at the Aldenmoor Track and Field Championships held in Brenhaven on July 22, 2025, accumulating 9,043 points across the two-day competition. The 26-year-old set personal bests in five of the ten events, including a 10.81-second 100-meter dash and a 7.92-meter long jump. His coach, Petra Holtzweid of the Brenhaven Athletic Federation, stated that the result vindicated her decision to restructure his throwing technique during the previous winter. Freel is sponsored by Stridex Athletic Goods and trains full-time at the Brenhaven National Performance Center. He entered the meet ranked fourth in the world but leaves as the top-ranked decathlete on the Aldenmoor ranking system. The previous national record of 8,874 points had stood for eleven years.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tomas Freel, the Confederation of Aldenmoor, the Aldenmoor Track and Field Championships, Brenhaven, Petra Holtzweid, the Brenhaven Athletic Federation, Stridex Athletic Goods, the Brenhaven National Performance Center, the Aldenmoor ranking system. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the decathlon as a ten-event track and field discipline, the IAAF decathlon scoring tables, the 9,000-point threshold as a historically significant benchmark, the 100-meter dash and long jump as individual events \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many points did Tomas Freel accumulate at the Aldenmoor Track and Field Championships, and how many personal bests did he set?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What change did coach Petra Holtzweid make during the previous winter to Tomas Freel's throwing technique, and what did she say his 9,043-point performance at the Aldenmoor Track and Field Championships vindicated?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Before Tomas Freel scored 9,043 points at the July 22, 2025 Aldenmoor Track and Field Championships, what was the Confederation of Aldenmoor's national decathlon record, and how long had it stood?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What world ranking did Tomas Freel hold when he entered the Aldenmoor Track and Field Championships?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Confederation of Aldenmoor a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did Tomas Freel actually break the 9,000-point barrier in the decathlon in July 2025?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brenhaven Athletic Federation exist as a genuine sports governing body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is 9,000 points considered a significant milestone in real-world decathlon history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the decathlon a genuine two-day, ten-event competition in track and field?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the ten events that make up a standard decathlon, and over how many days are they contested?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does the points scoring system in the decathlon reward performance in throwing events compared to sprinting events?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p3",
+    "paragraph": "Gymnast Liena Orvath of the Thalvec Republic claimed the all-around title at the 2025 Thalvec Invitational Gymnastics Championships on September 6, scoring a total of 57.350 across the four apparatus disciplines at the Meridian Arena in the capital city of Veldris. The 19-year-old, coached by former elite gymnast Serena Dukac, recorded her highest-ever score on floor exercise with a 14.600 that impressed judges with its combination of difficulty and execution. Orvath trains six days a week at the Veldris Elite Gymnastics Academy and is the primary sponsored athlete of Flexor Performance Apparel for the 2025 season. Her balance beam routine, featuring a new release skill ratified by the Thalvec governing body in April, earned a 14.250. At 19, she is the youngest all-around champion in the history of the Thalvec Invitational, breaking a record set by Mira Calovic in 2014.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Liena Orvath, the Thalvec Republic, the Thalvec Invitational Gymnastics Championships, Meridian Arena, Veldris, Serena Dukac, the Veldris Elite Gymnastics Academy, Flexor Performance Apparel, the Thalvec governing body for gymnastics, Mira Calovic. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the artistic gymnastics all-around format, the four women's apparatus disciplines (vault, uneven bars, balance beam, floor exercise), the FIG Code of Points difficulty and execution scoring system, balance beam release skills \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What total score did Liena Orvath post across all four apparatus disciplines at the 2025 Thalvec Invitational Gymnastics Championships?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What made Orvath's balance beam routine notable at the 2025 Thalvec Invitational?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What record did Liena Orvath break at the Thalvec Invitational, and whose previous record did she surpass?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who coaches Liena Orvath, and what is that person's background in gymnastics?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Thalvec Republic a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Liena Orvath a real competitive gymnast?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the 2025 Thalvec Invitational Gymnastics Championships actually take place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real artistic gymnastics, is the all-around competition scored across four apparatus disciplines for women?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Does the real FIG Code of Points evaluate gymnasts on both difficulty and execution components separately?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the four apparatus disciplines contested in the women's artistic gymnastics all-around?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a release skill on the balance beam in artistic gymnastics, and why is it considered high-difficulty?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p4",
+    "paragraph": "Track cyclist Beni Vandermoor of Estrova set a new national hour record on October 3, 2024, covering 55.812 kilometers in sixty minutes on the smooth concrete of the Drakal Velodrome in the port city of Havenmark. The 28-year-old rode aboard a custom Aerovance track bike fitted with a proprietary carbon rear disc wheel developed in partnership with his sponsor, Vantec Cycling Systems. His coach, Rudi Paans of the Estrova Cycling Federation, confirmed that the attempt was the product of eighteen months of aerodynamic testing in the Estrova Wind Tunnel Institute in Drakal. Vandermoor maintained an average power output of 438 watts for the full hour, according to data released by the federation. The previous Estrovan record of 55.201 kilometers had been set by retired rider Goran Stefelt in 2018. Vandermoor announced after the ride that he intends to push for 56 kilometers before the end of the 2025 season.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Beni Vandermoor, Estrova, the Drakal Velodrome, Havenmark, Aerovance track bike, Vantec Cycling Systems, Rudi Paans, the Estrova Cycling Federation, the Estrova Wind Tunnel Institute, Drakal, Goran Stefelt. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the cycling hour record as a UCI-regulated discipline, aerodynamic drag as a limiting factor in track cycling, carbon disc wheels, power output measured in watts, velodrome track surfaces \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What distance did Beni Vandermoor cover during his hour record attempt, and what was his average power output?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long had the Estrova team spent on aerodynamic testing before Vandermoor's record attempt, and where was that testing conducted?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who held the previous Estrovan national track cycling hour record before Beni Vandermoor, and in what year was it set?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What equipment did Beni Vandermoor use for the hour record attempt, and who developed the rear disc wheel?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Estrova a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Beni Vandermoor a real professional track cyclist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Estrova Cycling Federation exist as a genuine national sports body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the cycling hour record a real UCI-regulated discipline in which a rider attempts to cover as much distance as possible in sixty minutes?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are carbon rear disc wheels a genuine piece of equipment used in elite track cycling to reduce aerodynamic drag?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is aerodynamic drag the primary limiting factor in the cycling hour record, and what equipment modifications are typically used to reduce it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What level of sustained power output, in watts, is generally associated with elite-level cycling hour record attempts?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p5",
+    "paragraph": "Marathon runner Anika Bresund of the Velorian Federation posted the fastest female marathon time ever recorded in Velorian competition at the 2025 Grand Velorian Marathon on April 20, finishing in 2 hours, 18 minutes, and 44 seconds on the coastal course through the city of Solvane. The 31-year-old, coached by long-distance specialist Emre Tuyan, crossed the line more than ninety seconds ahead of runner-up Carla Vestrin of Penturia. Bresund trains at high altitude in the Solvane Highlands for five months each year and is financially supported by Longevix Nutrition, which has held her endorsement contract since 2022. Race organizers confirmed that the course certification from the Velorian Athletics Commission was validated three years ago and meets international standards for record eligibility. Bresund, who ran her first marathon at age 24, credited the temperate April conditions in Solvane for allowing her to execute the negative-split strategy Tuyan had devised during the winter training block.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Anika Bresund, the Velorian Federation, the Grand Velorian Marathon, Solvane, Emre Tuyan, Carla Vestrin, Penturia, the Solvane Highlands, Longevix Nutrition, the Velorian Athletics Commission. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 marathon race distance and timing standards, course certification requirements for record eligibility, negative-split racing strategy, high-altitude training for distance runners, the physiological demands of marathon running \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What time did Anika Bresund finish the 2025 Grand Velorian Marathon, and by how much did she beat the runner-up?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What racing strategy did Anika Bresund use at the 2025 Grand Velorian Marathon, and what environmental factor in Solvane did she credit for enabling it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Emre Tuyan, and what role did he play in Bresund's preparation for the Grand Velorian Marathon?"
+      },
+      {
+        "type": "entity_about",
+        "question": "How long has Longevix Nutrition supported Anika Bresund, and how many months per year does she spend training at altitude?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Velorian Federation a real national sports organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Grand Velorian Marathon a real race event?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Carla Vestrin of Penturia a real marathon runner?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do real marathon courses require official certification to be eligible for record recognition under international athletics standards?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the negative-split strategy a genuine marathon racing tactic used by elite runners?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does running a negative split mean in marathon racing, and why is it considered an effective performance strategy?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do elite distance runners spend extended periods training at high altitude, and what physiological changes does it promote?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p6",
+    "paragraph": "Freestyle wrestler Karim Douvash of the Drenic Republic won gold in the 86-kilogram division at the 2025 Drenic National Wrestling Championships in the city of Toval on February 8, defeating defending champion Oskar Lentveld of the Drenic Army Club by technical superiority in the final with a score of 12 to 1. The 24-year-old, who competes under coach Yeva Maktan at the Toval Combat Sports Center, secured a takedown in the opening thirty seconds and never relinquished control. Douvash is backed by Ironhold Sportswear, which signed him to a three-year contract following his breakthrough bronze medal at the Drenic Open in November 2023. He stands 1.81 meters tall and competes at the 86-kilogram weight class after moving up from 79 kilograms in early 2024. Federation officials noted that Douvash won all six of his matches in the tournament without conceding a single point.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Karim Douvash, the Drenic Republic, the Drenic National Wrestling Championships, Toval, Oskar Lentveld, the Drenic Army Club, Yeva Maktan, the Toval Combat Sports Center, Ironhold Sportswear, the Drenic Open. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 freestyle wrestling as an Olympic discipline, the 86-kilogram weight class in freestyle wrestling, the technical superiority rule in wrestling, the scoring system for takedowns and exposure points \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How did Karim Douvash defeat Oskar Lentveld in the 86-kilogram final at the 2025 Drenic National Wrestling Championships, and what was the score?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was Karim Douvash's overall record at the 2025 Drenic National Wrestling Championships, and how many points did he concede across all six matches?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What previous result earned Karim Douvash his sponsorship deal with Ironhold Sportswear?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What weight class did Douvash previously compete in before moving up to 86 kilograms?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drenic Republic a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Karim Douvash a real competitive freestyle wrestler?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the 2025 Drenic National Wrestling Championships actually take place?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the 86-kilogram division a real weight class in international freestyle wrestling competition?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Does the technical superiority rule exist in freestyle wrestling, and what does it require for a match to end early?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the technical superiority rule in freestyle wrestling, and what point margin is required to trigger it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the general physical and tactical trade-offs a wrestler faces when moving up a weight class?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p7",
+    "paragraph": "Diver Selena Quorval of the Barantean Swimming and Diving Federation earned a perfect score on her final dive during the platform final at the 2025 Barantean Diving Grand Prix on June 15, posting a total score of 381.90 points to win the ten-meter platform title at the Qualdo Aquatics Complex in the city of Marrebin. The 21-year-old executed a reverse 3.5 somersault with 2.5 twists as her last entry, receiving tens from all five judges. Her coach, Danilo Prec of the Barantean Diving Institute, trained her at the Marrebin facility for nine months in preparation for the event. Quorval is sponsored by Depthmark Sportswear and SwimPro Nutrition. She finished more than 22 points ahead of runner-up Fiona Talst of the rival Portavec Federation. The Barantean federation confirmed the competition used the international difficulty rating system, making the marks directly comparable to elite international events.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Selena Quorval, the Barantean Swimming and Diving Federation, the Barantean Diving Grand Prix, the Qualdo Aquatics Complex, Marrebin, Danilo Prec, the Barantean Diving Institute, Depthmark Sportswear, SwimPro Nutrition, Fiona Talst, the Portavec Federation. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ten-meter platform diving as an Olympic discipline, the FINA/World Aquatics difficulty rating system for dives, the reverse 3.5 somersault with twists as a category of dive, the judging panel structure in platform diving \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What total score did Selena Quorval post to win the ten-meter platform title at the 2025 Barantean Diving Grand Prix?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What dive did Selena Quorval perform as her final entry during the platform final at the 2025 Barantean Diving Grand Prix, and what scores did she receive from the judges?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Danilo Prec, and how long did he prepare Quorval for the Barantean Diving Grand Prix?"
+      },
+      {
+        "type": "entity_about",
+        "question": "By how many points did Selena Quorval finish ahead of runner-up Fiona Talst in the ten-meter platform final at the 2025 Barantean Diving Grand Prix?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Barantean Swimming and Diving Federation a real sports organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Selena Quorval a real competitive diver?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Portavec Federation a real national diving body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is ten-meter platform diving a real Olympic and international competition discipline with a standardized difficulty rating system?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "In real platform diving competition, can judges award scores of ten for a perfectly executed dive?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How is a diver's score calculated in platform diving using the international difficulty rating system?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What makes a reverse somersault with multiple twists particularly difficult to execute cleanly in platform diving?"
+      }
+    ]
+  },
+  {
+    "id": "batch_05_p8",
+    "paragraph": "Speed skater Jorin Halveld of Norteveld broke the 500-meter short track national record at the Norteveld Short Track Championships held at the Frostmark Arena in Gelvik on December 12, 2024, stopping the clock at 40.872 seconds to erase the previous mark of 41.204 set by retired skater Bram Odsveld in 2019. The 23-year-old, who trains under coach Agneta Leifsdottir at the Gelvik Ice Sports Institute, attributed his improvement to a revised crossover technique introduced during the October training camp in the Norteveld highlands. Halveld competes in the blue and silver kit of his sponsor, Frostline Sportswear, which also supports the national short track program. He won all three of his heats before setting the record in the final. Leifsdottir noted that Halveld had been consistently recording sub-41-second training times since early November and that the record had been a realistic target entering the competition.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Jorin Halveld, Norteveld, the Norteveld Short Track Championships, Frostmark Arena, Gelvik, Bram Odsveld, Agneta Leifsdottir, the Gelvik Ice Sports Institute, Frostline Sportswear. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 short track speed skating as an Olympic discipline, the 500-meter short track event, crossover technique as a core short track skating skill, national record structures in speed skating \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What time did Jorin Halveld post to break the Norteveld 500-meter short track national record, and what was the previous mark?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What technical change did Jorin Halveld make before the Norteveld Short Track Championships, and who introduced it during the October training camp in the Norteveld highlands?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who held the previous Norteveld 500-meter short track national record before Jorin Halveld broke it, and when had that record been set?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What evidence did coach Agneta Leifsdottir cite to show that Jorin Halveld breaking the Norteveld 500-meter short track national record was an achievable target before the competition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Norteveld a real country?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Jorin Halveld a real competitive short track speed skater?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Frostmark Arena exist as a real ice sports venue?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the 500-meter race a genuine event in short track speed skating competition?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the crossover technique a real and fundamental element of short track speed skating?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the crossover technique in short track speed skating, and why is it critical to maintaining speed through corners?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does short track speed skating differ from long track speed skating in terms of course layout and race format?"
+      }
+    ]
+  }
+]

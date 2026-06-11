@@ -1,0 +1,2220 @@
+[
+  {
+    "id": "batch_60_p1",
+    "paragraph": "Northern Cliffland University broke ground last Tuesday on its long-anticipated Veymarr Sciences Pavilion, a 142,000-square-foot facility that will house the university's consolidated chemistry, biochemistry, and materials science programs under one roof for the first time in institutional history. Provost Delaine Forthwick announced that the $87.4 million project is funded through a combination of a $42 million lead gift from the Orveston Family Charitable Trust, $31 million in state capital appropriations, and $14.4 million drawn from the university's infrastructure reserve. The pavilion is expected to accommodate 1,200 undergraduate laboratory enrollments per semester, double the current capacity, and will include six interdisciplinary wet-lab suites reserved for faculty-student collaborative research. Architects from the Kelloman-Pryce Group designed the structure to meet Tier-2 sustainability certification, incorporating passive cooling systems and rooftop photovoltaic arrays expected to offset 38 percent of the building's annual energy consumption. Completion is projected for the spring of 2028, with full occupancy beginning the following academic year. Dean of Natural Sciences Percival Houghton called the pavilion the most consequential investment in the sciences division in four decades and noted it would allow the university to expand graduate enrollment in chemistry by approximately 60 students annually.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Northern Cliffland University, Veymarr Sciences Pavilion, Provost Delaine Forthwick, Orveston Family Charitable Trust, Kelloman-Pryce Group, Dean Percival Houghton. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 chemistry, biochemistry, materials science, photovoltaic arrays, passive cooling systems, wet laboratories, sustainability certification, graduate enrollment \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the total cost of the Veymarr Sciences Pavilion project, and how is the funding divided among its three sources?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many undergraduate laboratory enrollments per semester is the Veymarr Sciences Pavilion expected to accommodate, and how does that compare to Northern Cliffland University's current capacity?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Delaine Forthwick, and what role does she play in relation to the Veymarr Sciences Pavilion?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Orveston Family Charitable Trust, and how much did it contribute to Northern Cliffland University's Veymarr Sciences Pavilion project?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Northern Cliffland University exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Kelloman-Pryce Group a real architectural firm?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Veymarr Sciences Pavilion exist as a real building?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are photovoltaic arrays a real technology used in sustainable building design?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Tier-2 sustainability certification a recognized concept in building design?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a wet laboratory, and how does it differ from a dry laboratory in a university sciences context?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p2",
+    "paragraph": "Halberg State College announced the appointment of Dr. Simone Carravaux as the inaugural holder of the Wyndmere Endowed Chair in Public Policy, a position established through a $5.2 million gift from alumnus Garrett Wyndmere, a retired logistics executive who graduated from Halberg in 1979. Dr. Carravaux, who previously directed the Center for Civic Futures at Eastmoor Metropolitan University, specializes in subnational fiscal policy and intergovernmental relations, with a particular focus on revenue-sharing frameworks between state agencies and municipal governments. Her appointment, effective the coming fall semester, is expected to bolster Halberg's recently launched master's program in public administration, which enrolled its inaugural cohort of 34 students last autumn. The Wyndmere Chair carries an annual research stipend of $85,000 and funds one postdoctoral research associate and two graduate research fellowships per year. Provost Anneliese Drombreck praised the hire as transformative for a program that has seen a 47 percent increase in applications over the past three years. Dr. Carravaux has published two monographs and 28 peer-reviewed articles in journals focusing on governmental finance and is expected to launch a multiyear grant-funded project examining property tax equity across rural districts within her first year at Halberg.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Halberg State College, Dr. Simone Carravaux, Wyndmere Endowed Chair in Public Policy, Garrett Wyndmere, Center for Civic Futures, Eastmoor Metropolitan University, Provost Anneliese Drombreck. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 subnational fiscal policy, intergovernmental relations, revenue-sharing frameworks, property tax equity, endowed chairs, postdoctoral research associates, public administration \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What research area does Dr. Simone Carravaux specialize in, and what project is she expected to launch during her first year at Halberg State College?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What resources does the Wyndmere Endowed Chair provide annually beyond the research stipend?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Garrett Wyndmere, and what is his connection to Halberg State College?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was Dr. Carravaux's previous position before joining Halberg State College?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Halberg State College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Center for Civic Futures at Eastmoor Metropolitan University exist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Simone Carravaux a real scholar?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is property tax equity a genuine area of academic research in public finance?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is an endowed chair at a university, and how does it typically benefit both the institution and the faculty member who holds it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does subnational fiscal policy study, and why is intergovernmental revenue sharing a significant topic within that field?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p3",
+    "paragraph": "The Korvex Honors Program at Westlake Collegiate Institute awarded its annual Scholars Distinction prizes last week, recognizing 12 undergraduate students for exceptional independent research completed during the 2025-2026 academic year. The top prize, the Korvex Gold Medal, was awarded to senior Francesca Almeda for her thesis examining sediment transport dynamics in artificially managed river deltas, research she conducted over three semesters with funding from the university's Undergraduate Discovery Grant program. Almeda's 112-page thesis was evaluated by a five-member interdisciplinary panel and described by reviewers as exhibiting methodological rigor equivalent to graduate-level scholarship. The remaining 11 students received Silver and Bronze distinctions across disciplines ranging from comparative literature to biostatistics. In total, the 2025-2026 cohort produced 12 theses averaging 89 pages each, and three students have already submitted manuscript versions of their work to peer-reviewed journals for review. Westlake's honors program currently enrolls 340 students across all four class years, representing approximately 8 percent of the undergraduate population. Program Director Nathaniel Forsythe noted that this year's class achieved the highest average evaluation score in the program's 22-year history, with a composite panel rating of 4.61 out of 5.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Korvex Honors Program, Westlake Collegiate Institute, Korvex Gold Medal, Francesca Almeda, Undergraduate Discovery Grant program, Program Director Nathaniel Forsythe. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 sediment transport dynamics, river deltas, biostatistics, comparative literature, peer-reviewed journals, honors programs, interdisciplinary research panels \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was Francesca Almeda's thesis topic, and over how many semesters did she conduct the research?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What composite panel rating did the 2025-2026 Korvex Honors Program cohort at Westlake Collegiate Institute achieve, and how did it compare with earlier years in the program's history?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Nathaniel Forsythe, and what is his role in relation to the Korvex Honors Program at Westlake Collegiate Institute?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Westlake Collegiate Institute a real educational institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Korvex Gold Medal exist as a real academic award?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Francesca Almeda a real student?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is sediment transport dynamics a real field of scientific study?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are biostatistics and comparative literature real academic disciplines?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a university honors program from a standard undergraduate curriculum?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might undergraduate research submitted to peer-reviewed journals face particular challenges during the review process?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p4",
+    "paragraph": "The Ravenspar County Unified School District announced a sweeping revision to its K-12 mathematics curriculum framework, the most comprehensive restructuring since the district adopted a standards-based model 14 years ago. Under the new framework, approved 7-2 by the school board at its monthly session, all elementary schools will introduce algebraic reasoning concepts beginning in third grade rather than fifth, and middle school students will have access to a redesigned accelerated pathway leading to advanced coursework by eighth grade. The district's curriculum director, Margolaine Trescott, said the changes are grounded in a three-year internal analysis of student performance data showing that students who encountered algebraic thinking before sixth grade scored an average of 18 percentile points higher on statewide mathematics assessments by ninth grade. Implementation will begin in the 2026-2027 school year following a summer of professional development for approximately 340 classroom teachers. The district has budgeted $2.1 million for training, new instructional materials, and ongoing coaching support. Ravenspar serves 21,400 students across 31 schools and has a four-year high school graduation rate of 88 percent, which district officials hope will climb further as the strengthened math pipeline takes effect.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ravenspar County Unified School District, Margolaine Trescott. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 K-12 mathematics curriculum, algebraic reasoning, standards-based education, professional development for teachers, statewide assessments, high school graduation rates, accelerated academic pathways \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Under Ravenspar County Unified School District's revised K-12 mathematics curriculum framework, at what grade will elementary students begin learning algebraic reasoning concepts, and what grade did the prior framework use?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did Ravenspar County Unified School District's three-year internal analysis of student performance data show about students who encountered algebraic thinking before sixth grade?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Margolaine Trescott, and what evidence did she cite in support of Ravenspar County Unified School District's K-12 mathematics curriculum revisions?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Ravenspar County Unified School District a real school district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Margolaine Trescott a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is early introduction of algebraic reasoning in elementary grades a recognized approach in mathematics education research?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are standards-based education models used in real school systems?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does research generally suggest about the relationship between early algebra instruction and long-term mathematics achievement?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is professional development for teachers considered a critical component when implementing a new curriculum framework?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p5",
+    "paragraph": "Creston Valley University's board of trustees voted unanimously last month to freeze undergraduate tuition for the third consecutive academic year, holding the annual in-state rate at $12,840 and the out-of-state rate at $28,710. President Halvard Sorensson framed the decision as a deliberate affordability commitment made possible by a combination of strong endowment returns, a 6 percent increase in state appropriations, and administrative cost efficiencies realized through the university's ongoing operational review process. The endowment, currently valued at $1.14 billion, returned 9.3 percent in the most recent fiscal year, above the university's long-term actuarial assumption of 7 percent. Total undergraduate enrollment stands at 18,240, and financial aid expenditures for the current year reached $94.7 million, covering an average of 61 percent of demonstrated need for eligible students. Sorensson indicated that the tuition freeze, combined with a newly announced $8.2 million expansion of the university's institutional grant budget, should improve net-price affordability for families earning between $50,000 and $90,000 annually. The board also directed the provost's office to commission a comprehensive financial aid equity audit, with preliminary findings expected before the next trustee meeting in September.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Creston Valley University, President Halvard Sorensson. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 tuition freezes, university endowments, state appropriations, demonstrated financial need, net-price affordability, financial aid equity audits, institutional grant budgets \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What are the current in-state and out-of-state undergraduate tuition rates at Creston Valley University?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three factors does President Sorensson cite as enabling the tuition freeze?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Halvard Sorensson and what decision did he announce regarding tuition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Creston Valley University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Halvard Sorensson a real university president?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are university endowments and their investment returns a real financial mechanism that institutions rely upon?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is net-price affordability a real concept used in higher education finance and policy?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is demonstrated financial need in the context of college financial aid, and how is it typically calculated?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might a university commission a financial aid equity audit, and what issues might such an audit reveal?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p6",
+    "paragraph": "The Dellmoor Institute of Technology has received accreditation renewal from the Northeastern Collegiate Accreditation Consortium for an additional ten-year period, the maximum term the consortium awards, following a rigorous four-day site visit conducted in February. The visiting team's report, released publicly last week, praised the institute's assessment practices, faculty development infrastructure, and student outcome data while recommending continued attention to graduate student mental health resources and advising caseloads in the College of Engineering. DIT's overall six-year graduation rate stands at 84 percent, and its first-destination employment rate for bachelor's degree recipients is 93 percent within six months of graduation. Interim Provost Celia Vandross said the renewal affirms the institution's commitment to quality and positions the institute favorably for several grant competitions that require current accreditation status. The Dellmoor Institute enrolls 9,600 students, of whom 3,100 are graduate students, and operates 14 doctoral programs across its four colleges. The Consortium noted in its report that DIT's student-to-faculty ratio of 14-to-1 and its consistent first-generation student retention rate of 79 percent were standout institutional strengths.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dellmoor Institute of Technology, Northeastern Collegiate Accreditation Consortium, Interim Provost Celia Vandross. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 institutional accreditation, site visits by accrediting bodies, six-year graduation rates, first-destination employment surveys, student-to-faculty ratios, first-generation student retention, doctoral programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two areas did the Northeastern Collegiate Accreditation Consortium's visiting team recommend that the Dellmoor Institute of Technology continue to address after its February site visit?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are the Dellmoor Institute of Technology's six-year graduation rate and first-destination employment rate for bachelor's degree recipients within six months of graduation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Celia Vandross, and what significance does she attach to the Dellmoor Institute of Technology's ten-year accreditation renewal from the Northeastern Collegiate Accreditation Consortium?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dellmoor Institute of Technology a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Northeastern Collegiate Accreditation Consortium a real accrediting body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is institutional accreditation by external bodies a genuine practice in higher education?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are student-to-faculty ratios and first-generation student retention rates real metrics used to evaluate colleges and universities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role does accreditation play in a university's ability to compete for federal grants and contracts?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might advising caseloads be a particular concern in engineering programs at a graduate level?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p7",
+    "paragraph": "Falmont University's athletics department announced that its men's and women's rowing programs will be elevated from club to varsity status beginning with the 2026-2027 academic year, a transition that will bring the university's total varsity sport count to 24 and expand the number of athletic scholarships offered by 34. Athletic Director Rosalind Pemberton said the decision followed a two-year feasibility study showing sufficient regional competition infrastructure, strong student interest indicated by a current club roster of 87 athletes, and a committed fundraising base that has already pledged $3.8 million toward a new boathouse facility. The boathouse, to be constructed on the Aldmere River adjacent to campus, is designed to accommodate 14 boats and include an indoor ergometer training hall for winter months. Falmont's student body of 14,500 already supports strong engagement with water sports, and university officials project the varsity programs will attract 40 to 45 student-athletes per year once fully established. Conference placement talks are underway with the Lakeland Collegiate Sports Association. The women's program will be coached by nationally recognized sculling coach Beatrix Langford, who guided three athletes to national collegiate championships during her tenure at Greyhaven University.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Falmont University, Athletic Director Rosalind Pemberton, Aldmere River, Lakeland Collegiate Sports Association, Beatrix Langford, Greyhaven University. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 club sports versus varsity sports, athletic scholarships, rowing programs, boathouse facilities, ergometers, collegiate athletic conferences, sculling \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What transition is Falmont University making to its rowing programs, and what will the new boathouse be designed to accommodate?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three factors did Falmont University's two-year feasibility study identify as supporting the decision to elevate its men's and women's rowing programs from club to varsity status?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Beatrix Langford, and what qualifications does she bring to Falmont University's women's varsity rowing program?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Rosalind Pemberton, and what role did she play in Falmont University's decision to elevate its men's and women's rowing programs from club to varsity status?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Falmont University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Lakeland Collegiate Sports Association a real athletic conference?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the distinction between club sports and varsity sports a real feature of collegiate athletics?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is an ergometer, and why is it used in rowing training during winter months?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What obligations does a university typically take on when it elevates a sport from club to varsity status?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p8",
+    "paragraph": "The Pellwick Foundation announced the recipients of its 2026 Emerging Scholars Fellowship, awarding grants totaling $4.6 million to 18 doctoral students and early-career faculty at colleges and universities across the country. The fellowship, designed to support innovative interdisciplinary research at the intersection of technology and social equity, provides each recipient with $250,000 over two years to fund salary, research expenses, and conference dissemination. Among this year's cohort, four recipients are affiliated with Stonebridge University's School of Informatics, the highest concentration from any single institution in the fellowship's nine-year history. Pellwick Foundation President Maureen Aldgate said the 2026 class was selected from a pool of 847 applications, and that reviewers weighted both scholarly ambition and demonstrated commitment to community-engaged research methodologies. Recipients span fields including computational linguistics, urban data science, disability studies, and environmental justice. The foundation has awarded a cumulative total of $38.7 million through the Emerging Scholars program since its inception, supporting 164 scholars at 72 institutions. A symposium for the incoming cohort will be held in early September at the Pellwick Institute headquarters in Torrance Falls.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pellwick Foundation, Emerging Scholars Fellowship, Stonebridge University School of Informatics, Maureen Aldgate, Pellwick Institute, Torrance Falls. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 computational linguistics, urban data science, disability studies, environmental justice, community-engaged research, interdisciplinary fellowships, doctoral scholars \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much does each Emerging Scholars Fellowship recipient receive, and over what time period?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What notable distinction did Stonebridge University's School of Informatics achieve in the 2026 fellowship class?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Maureen Aldgate, and what criteria did she say reviewers emphasized in selecting the 2026 cohort?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Pellwick Foundation a real philanthropic organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Emerging Scholars Fellowship program exist in reality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Stonebridge University a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are urban data science and environmental justice recognized fields of academic research?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is computational linguistics a real academic discipline?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes community-engaged research from traditional academic research methodologies?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might foundations prioritize interdisciplinary research that intersects technology and social equity?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p9",
+    "paragraph": "Moorgate Community College received a three-year, $7.9 million Title IV-equivalent workforce development grant from the state's Department of Postsecondary Education, allowing the college to launch or expand seven career and technical education pathways beginning in the fall semester. The grant will fund new program offerings in advanced manufacturing automation, healthcare informatics, sustainable construction practices, and supply chain logistics, each developed in direct partnership with regional employers who have committed to providing internship placements and hiring preference for graduates. College President Thaddeus Orrington said the funding also includes $1.4 million designated for equipment acquisition, covering the purchase of two industrial robotic systems, updated medical simulation laboratory technology, and a fully equipped building information modeling lab. Moorgate currently enrolls 6,800 credit-seeking students and serves an additional 2,300 through noncredit workforce programs annually. The college's completion rate has risen from 38 percent to 52 percent over the past five years following earlier investments in guided pathways redesign. State officials cited Moorgate as a model for regional workforce alignment, noting that 84 percent of the college's program completers who entered employment did so in fields directly related to their area of study.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Moorgate Community College, President Thaddeus Orrington. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 career and technical education, workforce development grants, advanced manufacturing automation, healthcare informatics, building information modeling, guided pathways, supply chain logistics, community college completion rates \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four new program areas will Moorgate Community College's three-year, $7.9 million Title IV-equivalent workforce development grant fund?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By how much has Moorgate's completion rate improved over the past five years, and what earlier investment is credited for the gain?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Thaddeus Orrington at Moorgate Community College, and what specific equipment is included in the $1.4 million equipment-acquisition portion of the college's three-year, $7.9 million Title IV-equivalent workforce development grant?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Moorgate Community College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is President Thaddeus Orrington a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is building information modeling a real technology used in the construction industry?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are guided pathways redesigns a real reform model used by community colleges to improve completion rates?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is healthcare informatics, and why is it considered a high-demand field for career and technical education programs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do employer partnerships typically benefit community college career and technical education programs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p10",
+    "paragraph": "Aldervane University dedicated the Miriam Stourbridge Center for Global Health last Friday in a ceremony attended by over 400 faculty, students, and community partners. The center, housed in a renovated 68,000-square-foot building that previously served as the university's administrative services hub, consolidates research and educational activities spanning epidemiology, global health policy, tropical medicine, and health systems strengthening. Funding for the $34.6 million renovation came primarily from a $22 million gift by the estate of Miriam Stourbridge, a physician-philanthropist and 1968 Aldervane alumna who devoted her career to infectious disease prevention in underserved communities. University President Edmund Calloway said the center will serve as an anchor for Aldervane's interdisciplinary doctoral program in global health, which admitted its inaugural cohort of 22 students this past January. The center will also house the university's new Stourbridge Clinical Simulation Suite, featuring 14 high-fidelity patient simulators used for training both medical students and community health workers. Research space within the facility accommodates 24 faculty investigators and over 60 graduate students, and administrators anticipate the center will generate more than $12 million in annual externally funded research activity within five years of full operation.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Aldervane University, Miriam Stourbridge Center for Global Health, Miriam Stourbridge, President Edmund Calloway, Stourbridge Clinical Simulation Suite. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 epidemiology, global health policy, tropical medicine, health systems strengthening, infectious disease prevention, high-fidelity patient simulators, interdisciplinary doctoral programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four research and educational areas does the Miriam Stourbridge Center for Global Health consolidate?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How was the $34.6 million renovation of the building housing the Miriam Stourbridge Center for Global Health primarily funded, and who was Miriam Stourbridge?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Edmund Calloway, and what role does he say the Miriam Stourbridge Center for Global Health will play within Aldervane University's academic programs?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Aldervane University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Miriam Stourbridge Center for Global Health a real facility?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are high-fidelity patient simulators a real technology used in medical and health worker training?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is health systems strengthening a recognized field within global public health?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is tropical medicine, and why is it a distinct specialty within the broader field of medicine?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What advantages does consolidating related research programs into a single dedicated center typically provide for a university?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p11",
+    "paragraph": "Glenport State University's Office of Institutional Research released its annual equity report this week, revealing that the university's four-year graduation rate for first-generation students reached 67 percent for the cohort entering in 2022, closing the gap with the overall institutional rate of 74 percent to the smallest margin ever recorded in the university's tracking history. The report attributed the improvement to the sustained investment in the Glenport BRIDGE Program, a comprehensive first-year intervention providing dedicated advising, peer mentoring, emergency financial aid, and supplemental instruction to approximately 1,100 incoming first-generation students per year. BRIDGE participants in the 2022 cohort were retained at a first-to-second year rate of 91 percent compared to 83 percent for first-generation students who did not enroll. Vice Provost for Student Success Imani Westbrook said the data reinforce the importance of high-touch, proactive support systems for students navigating higher education without family precedent. The university has invested $6.2 million annually in BRIDGE programming since expanding the model in 2021 and has received inquiries from 18 peer institutions interested in replicating elements of the approach. Glenport serves a total undergraduate population of 22,700 students, of whom 38 percent identify as first-generation.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Glenport State University, Glenport BRIDGE Program, Vice Provost Imani Westbrook. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 first-generation college students, four-year graduation rates, peer mentoring, emergency financial aid, supplemental instruction, first-to-second year retention rates, student success programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four components does the Glenport BRIDGE Program provide to first-generation students?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the first-to-second year retention rate for BRIDGE participants in the 2022 cohort compared to first-generation students who did not enroll?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Imani Westbrook and what conclusion does she draw from the BRIDGE Program data?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Glenport State University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Glenport BRIDGE Program exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are first-generation student support programs a recognized feature of many real colleges and universities?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is measuring first-to-second year retention a real practice in higher education institutional research?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What unique challenges do first-generation college students typically face compared to students whose parents attended college?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the first year of college considered particularly critical for determining whether a student will persist to graduation?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p12",
+    "paragraph": "The Lakeshore Charter Academy, a tuition-free public charter school serving grades six through twelve in the Overton Metropolitan School District, received a seven-year charter renewal from the state's Charter School Oversight Board following a comprehensive performance review. The board's evaluation found that the academy's students demonstrated statistically significant gains in reading proficiency and college-preparedness indicators relative to demographically comparable district schools, with 78 percent of twelfth graders meeting benchmarks for college readiness on the state's standardized assessments compared to a district average of 54 percent. Lakeshore currently enrolls 1,040 students, 72 percent of whom qualify for free or reduced-price meals, and has maintained a waitlist of over 600 students for the past four consecutive years. Executive Director Paloma Renwick credited the school's extended instructional day, a culture of high expectations, and strategic investment in teacher coaching and retention. The renewal allows the academy to expand its enrollment by up to 200 additional students over the charter term. The board did attach one condition to the renewal, requiring the academy to submit a detailed plan within 90 days outlining strategies to increase the proportion of students with disabilities fully included in general education classrooms.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lakeshore Charter Academy, Overton Metropolitan School District, Charter School Oversight Board, Executive Director Paloma Renwick. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 public charter schools, charter renewal processes, reading proficiency assessments, free and reduced-price meals eligibility, college-readiness benchmarks, inclusion of students with disabilities in general education, extended instructional days \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What condition did the Charter School Oversight Board attach to Lakeshore Charter Academy's renewal?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How does the twelfth-grade college readiness benchmark rate at Lakeshore Charter Academy compare to the Overton Metropolitan School District average?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Paloma Renwick, and what factors does she credit for Lakeshore Charter Academy's performance?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Lakeshore Charter Academy a real school?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Overton Metropolitan School District a real entity?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do real public charter schools undergo renewal processes that evaluate their performance?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is eligibility for free or reduced-price meals a real measure of economic disadvantage used in public schools?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is meant by the least restrictive environment principle for students with disabilities in public schools?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the general purpose of a charter school, and how does its governance typically differ from a traditional public school?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p13",
+    "paragraph": "Tremaine College announced a $14 million naming gift from the Albrecht-Fennel Family Foundation to establish the Albrecht-Fennel School of Environmental Stewardship, elevating what had been a freestanding academic department into a full school with the authority to award its own degree programs and hire faculty independently. The new school will launch two undergraduate majors \u2014 environmental policy and conservation science \u2014 alongside a professional master's program in sustainable systems management beginning in the 2027 academic year. Dean-designate Leonora Mayhew, currently associate provost at Thornfield University, will assume the school's leadership effective July 1. Mayhew has overseen curriculum development for three interdisciplinary environmental programs and brings a research background in watershed governance and voluntary carbon market regulation. Tremaine's president, Carlton Avery, said the gift and the school's formation reflect a long-term institutional commitment made in the college's 2023 strategic plan to make environmental education a signature strength. Total enrollment in the college's existing environmental studies courses already exceeds 900 students per semester, and early surveys of prospective students suggest the new programs will see strong initial demand, with a recruitment target of 120 new students in the inaugural undergraduate cohort.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tremaine College, Albrecht-Fennel Family Foundation, Albrecht-Fennel School of Environmental Stewardship, Leonora Mayhew, Thornfield University, President Carlton Avery. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 environmental policy, conservation science, sustainable systems management, watershed governance, voluntary carbon markets, naming gifts, professional master's programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two undergraduate majors and one graduate program will the Albrecht-Fennel School of Environmental Stewardship launch?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What distinguishes a full school from a freestanding academic department at Tremaine College, particularly regarding degree-granting authority and faculty hiring?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Leonora Mayhew, and what is her research background?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Carlton Avery, and what institutional commitment does he link to the formation of the Albrecht-Fennel School of Environmental Stewardship?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tremaine College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Albrecht-Fennel Family Foundation exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are voluntary carbon markets a real mechanism in environmental policy and regulation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is watershed governance a real area of academic research and policy practice?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a naming gift in the context of higher education fundraising, and what does it typically provide to both the donor and the institution?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes conservation science from environmental policy as fields of academic study?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p14",
+    "paragraph": "Hartfield University's College of Education submitted a formal proposal to the State Board of Teacher Licensure to establish a new residency-based teacher preparation pathway that would allow candidates to earn initial licensure through a full academic year of paid classroom residency embedded within high-need partner schools. The proposed program, called the Hartfield Clinical Residency Initiative, would partner with the Brennan Unified School District and the Colewood City Schools, placing up to 80 resident teachers per cohort in classrooms alongside veteran mentor teachers who would receive $4,500 annual stipends for their coaching responsibilities. Residents would receive a living allowance of $18,000 for the residency year and would complete their remaining coursework in evening and weekend sessions. College of Education Dean Veronica Stahl presented the proposal to the licensure board at its quarterly meeting and noted that similar models at peer institutions have produced measurable improvements in first-year teacher retention, with residency graduates remaining in the classroom at rates 22 percent higher than traditionally prepared candidates after three years. The board is expected to render a decision within 60 days. If approved, the Hartfield Clinical Residency Initiative would admit its first cohort in the fall of 2027.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Hartfield University, Hartfield Clinical Residency Initiative, Brennan Unified School District, Colewood City Schools, Dean Veronica Stahl. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 teacher licensure boards, residency-based teacher preparation, high-need schools, mentor teachers, first-year teacher retention, clinical teacher education models \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What stipend would veteran mentor teachers receive under the Hartfield Clinical Residency Initiative, and what living allowance would residents receive?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What improvement in teacher retention does Dean Stahl cite from peer institutions with similar residency models?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Veronica Stahl, and what did she tell the State Board of Teacher Licensure about teacher retention in support of the Hartfield Clinical Residency Initiative?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Hartfield University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brennan Unified School District exist as a real school district?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are residency-based teacher preparation programs a real alternative to traditional teacher education pathways?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do state boards of teacher licensure exist and regulate teacher preparation programs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is first-year teacher retention considered an important outcome measure for teacher preparation programs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What defines a high-need school, and why are such schools frequently chosen as partners in clinical teacher education programs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p15",
+    "paragraph": "Portsmede University's annual research expenditure report revealed that the institution surpassed $300 million in total externally funded research activity for the first time in its history during fiscal year 2025, with $317.4 million in awards from federal agencies, private foundations, and industry partners. The milestone represents a 14 percent increase over the prior fiscal year and a 61 percent increase over the totals recorded a decade ago. Federal agency funding accounted for 68 percent of the total, with significant awards spanning biomedical research, materials science, computational social science, and environmental engineering. The university's Office of Research Development attributed the growth to a sustained strategy of investing in proposal development staff, fostering interdisciplinary collaborative teams, and building institutional infrastructure in areas aligned with federal funding priorities. Portsmede now ranks among the top 40 research universities nationally by total research expenditure, a standing that has improved from outside the top 70 just eight years ago. Vice President for Research Marcus Delgadillo said the university plans to add six new research-intensive faculty lines in identified high-growth areas during the upcoming hiring cycle and will commit $18 million from its research excellence fund to seed additional large-scale interdisciplinary proposals over the next three years.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Portsmede University, Vice President Marcus Delgadillo. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 externally funded research, federal research grants, biomedical research, materials science, computational social science, environmental engineering, research expenditure rankings, proposal development \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is Portsmede University's total externally funded research expenditure for fiscal year 2025, and what percentage came from federal agencies?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three strategies did Portsmede University's Office of Research Development credit for Portsmede's growth in research expenditure?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Marcus Delgadillo, and what plans does he describe for sustaining Portsmede's research growth?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Portsmede University a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Marcus Delgadillo a real academic administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is computational social science a real interdisciplinary field that receives federal research funding?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do national rankings of universities by research expenditure genuinely exist?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do universities invest in proposal development staff and infrastructure to support faculty grant applications?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the significance of federal agency funding for a research university's overall research portfolio?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p16",
+    "paragraph": "The Summervale Unified School District's board of education voted 6-1 to adopt a universal pre-kindergarten initiative that will offer full-day, publicly funded early childhood education to all four-year-olds residing within district boundaries beginning with the 2026-2027 school year. The program, developed in collaboration with early childhood specialists from the Prentice Institute for Child Development, will initially serve approximately 1,800 children across 22 program sites, including both district-operated classrooms and contracted community-based partner providers. The district budgeted $11.4 million annually to fund the initiative, drawing on a combination of state early education block grant funds, federal early childhood allocations, and local general fund contributions. Superintendent Josephine Kincaid said the expansion was informed by a longitudinal study conducted by Summervale's research office showing that children who attended quality pre-K programs within the district were 31 percent more likely to read proficiently by third grade. The dissenting board member raised concerns about the sustainability of the funding model beyond the initial three-year grant period and requested that staff present a long-term fiscal analysis at the next regular board meeting. Enrollment for the inaugural program cohort will open in February.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Summervale Unified School District, Prentice Institute for Child Development, Superintendent Josephine Kincaid. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 universal pre-kindergarten, early childhood education, early education block grants, longitudinal studies of pre-K outcomes, third-grade reading proficiency, community-based provider models \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What did Summervale's research office find about children who attended quality pre-K programs within the Summervale Unified School District?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What concern was raised by the Summervale Unified School District board member who voted against adopting the universal pre-kindergarten initiative?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Josephine Kincaid, and what evidence did she use to support the Summervale Unified School District's universal pre-kindergarten initiative?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Summervale Unified School District a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Prentice Institute for Child Development exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is universal pre-kindergarten a policy that has been implemented in real school districts and states?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are early education block grants a real mechanism through which state and federal governments fund pre-K programs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does research generally find about the relationship between pre-kindergarten participation and later academic outcomes such as reading proficiency?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a community-based provider model in early childhood education, and how does it differ from district-operated classrooms?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p17",
+    "paragraph": "Eastbrook University has promoted Dr. Yolanda Ferrara from associate professor to full professor in the Department of Computational Neuroscience, a promotion accompanied by the university's designation of Dr. Ferrara as a Dunmore Faculty Fellow, an honor reserved for scholars who have achieved exceptional distinction in research and have demonstrated commitments to mentoring. Dr. Ferrara's laboratory, which employs four postdoctoral researchers and eleven doctoral students, focuses on neural circuit models of decision-making under uncertainty, and her team's work has been supported by continuous external funding from the National Computational Sciences Fund for the past seven years totaling $8.6 million. She has authored 44 peer-reviewed publications, three of which appeared in the field's highest-impact venue, the Journal of Integrative Cognitive Systems. Her mentees have gone on to faculty positions at nine universities and to research roles at four major technology firms. The Dunmore Fellowship carries a $30,000 annual research supplement and invites the recipient to deliver the university's Dunmore Lecture, a public event drawing interdisciplinary faculty and students from across campus. Dean of Sciences Alistair Purvis praised Ferrara's promotion as recognition of scholarship that has positioned Eastbrook as a globally recognized center for computational approaches to brain and behavior research.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Eastbrook University, Dr. Yolanda Ferrara, Dunmore Faculty Fellow designation, National Computational Sciences Fund, Journal of Integrative Cognitive Systems, Dean Alistair Purvis. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 computational neuroscience, neural circuit models, decision-making under uncertainty, postdoctoral researchers, peer-reviewed publications, faculty promotion from associate to full professor, research mentorship \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What research focus does Dr. Yolanda Ferrara's laboratory at Eastbrook University pursue, and for how many years has her team's work received external funding from the National Computational Sciences Fund?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does the Dunmore Fellowship provide to its recipient beyond the research supplement?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Alistair Purvis, and what significance does he attribute to Dr. Yolanda Ferrara's promotion from associate professor to full professor in Eastbrook University's Department of Computational Neuroscience?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dr. Yolanda Ferrara, and what are the key markers of her scholarly record at Eastbrook University?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Eastbrook University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the National Computational Sciences Fund exist as a real funding agency?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Journal of Integrative Cognitive Systems a real academic journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is computational neuroscience a real academic discipline?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes an associate professor from a full professor in the American academic tenure and promotion system?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the placement of doctoral mentees in faculty positions considered an important indicator of a professor's scholarly influence?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p18",
+    "paragraph": "Rivermead College announced that its library system will undergo a $19.7 million transformation over the next three years, converting approximately 40,000 square feet of underutilized stack space in the Harlan Library into active learning studios, digital scholarship labs, and collaborative research suites. Funded through a combination of a $10 million gift from the Fenbrook Educational Trust and $9.7 million in capital campaign proceeds, the renovation will reduce physical holdings from 1.2 million volumes to 600,000, with the remaining items transferred to a high-density automated storage facility located one mile from campus and accessible through a same-day retrieval system. College Librarian Daphne Colquitt emphasized that the project responds to data showing that in-person borrowing of physical items has declined by 73 percent over the past decade while demand for collaborative study and digital production space has increased sharply. The redesigned Harlan Library will include a 300-seat event and lecture hall, a digitization center capable of processing archival materials for online access, and a technology lending program expanding the current inventory of loaned devices from 400 to 1,200. The project's first phase, covering the renovation of the library's east wing, is scheduled to begin in January with an expected completion date of August 2027.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Rivermead College, Harlan Library, Fenbrook Educational Trust, College Librarian Daphne Colquitt. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 academic library renovation, high-density automated storage systems, active learning studios, digital scholarship labs, digitization centers, technology lending programs, library capital campaigns \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What will happen to the physical volumes removed from Harlan Library during the renovation, and how will they remain accessible?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What data does Rivermead College Librarian Daphne Colquitt cite to justify converting underutilized stack space in Harlan Library into active learning and collaborative spaces?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Daphne Colquitt, and what trend in library use does she reference to support Rivermead College\u2019s Harlan Library transformation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Rivermead College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Fenbrook Educational Trust exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are high-density automated storage systems used in real academic libraries to store less-frequently accessed materials?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are active learning studios and digital scholarship labs genuine features of redesigned modern academic libraries?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What has driven the broad shift in how students use academic library space over the past two decades?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a digitization center in an academic library context, and what types of materials does it typically process?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p19",
+    "paragraph": "The Brentfield Polytechnic Institute recognized fourteen undergraduate students with the Chancellor's Innovation Prize at its annual research showcase, awarding each honoree a $5,000 cash prize, a $2,000 professional development stipend, and a faculty-mentored pathway to apply the winning project toward patent or commercialization support through the university's Startup Incubation Hub. This year's top prize went to third-year student Dominic Yarborough for developing a low-cost soil moisture sensor network designed for smallholder farming applications, a system he prototyped and tested over two semesters in partnership with an agricultural cooperative 40 miles from campus. Additional honored projects addressed topics including portable water purification systems, accessible prosthetic device components, AI-assisted building energy management, and community noise mapping using distributed microphone arrays. The institute's provost, Harriet Vossler, noted that all 14 winning students were recipients of the Brentfield Applied Sciences Scholarship, suggesting a link between scholarship-funded research time and exceptional project outcomes. The Innovation Prize program, now in its eleventh year, has recognized 128 students whose projects collectively generated 22 patents, 9 startup ventures, and $3.4 million in follow-on entrepreneurial funding since the program's founding.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brentfield Polytechnic Institute, Chancellor's Innovation Prize, Dominic Yarborough, Harriet Vossler, Brentfield Applied Sciences Scholarship, Startup Incubation Hub at Brentfield. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 soil moisture sensor networks, smallholder farming, prosthetic devices, building energy management systems, community noise mapping, distributed microphone arrays, undergraduate research showcases, technology commercialization \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What did Dominic Yarborough develop to win the top Chancellor's Innovation Prize, and how did he develop and test it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did Brentfield Polytechnic Institute Provost Harriet Vossler observe about the connection between recipients of the Brentfield Applied Sciences Scholarship and the 14 students who won the Chancellor's Innovation Prize?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Harriet Vossler, and what observation did she make about the relationship between the Brentfield Applied Sciences Scholarship and the Chancellor's Innovation Prize winners?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brentfield Polytechnic Institute a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dominic Yarborough a real person?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are soil moisture sensor networks a real technology used in agricultural applications?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is AI-assisted building energy management a real and commercially available technology area?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges do smallholder farmers typically face that low-cost sensor technologies might help address?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a startup incubation hub at a university, and what kinds of support does it typically offer to student ventures?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p20",
+    "paragraph": "Caldwell University disclosed this week that its most recent comprehensive fundraising campaign concluded with a final total of $623 million, surpassing the campaign's publicly announced goal of $500 million and setting a new institutional record by a margin of $174 million over the previous campaign's results. The campaign, called Caldwell Forward: A Campaign for the Future, ran for seven years and drew gifts from 41,200 individual donors, a participation figure that university officials said exceeded projections by nearly 30 percent. Major campaign achievements included the establishment of 47 new endowed scholarships totaling $68 million in scholarship endowment, the creation of 12 new endowed professorships, $142 million committed to facilities construction and renovation, and $198 million designated for academic program innovation and research infrastructure. President Constance Halloway credited the outcome to strong volunteer leadership, a dedicated campaign staff, and a compelling vision for institutional investment that resonated with the university's 92,000 living alumni. The campaign also raised $31 million for the university's annual fund, which supports financial aid, faculty development, and student programs. Caldwell's endowment has grown from $820 million at the campaign's launch to $1.47 billion at present, a reflection of both gift inflows and strong investment returns.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Caldwell University, Caldwell Forward campaign, President Constance Halloway. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 comprehensive fundraising campaigns, endowed scholarships, endowed professorships, annual funds, university endowments, facilities capital campaigns, alumni donor participation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "By how much did the Caldwell Forward campaign exceed its publicly stated goal, and how many individual donors contributed?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the four major uses of funds designated in the Caldwell Forward campaign?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Constance Halloway, and what factors did she credit for the success of Caldwell Forward: A Campaign for the Future at Caldwell University?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Caldwell University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Caldwell Forward campaign a real fundraising effort?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are comprehensive fundraising campaigns a common practice at real colleges and universities?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are endowed professorships a real mechanism for permanently funding faculty positions at universities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the difference between a university's endowment and its annual fund, and how does each contribute to institutional finances?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do universities typically run multi-year comprehensive campaigns rather than conducting fundraising on a continuous, unstructured basis?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p21",
+    "paragraph": "The Granville School of Law at Westhaven University received notice of full accreditation reaffirmation from the Collegiate Legal Education Standards Commission, following a scheduled comprehensive review that the commission's team completed in March. The commission's report recognized the law school's bar passage rates, which averaged 86 percent for first-time takers across the past three years, well above the national median, and praised the school's robust clinical education offerings, which provided 312 students with hands-on legal representation experience in the most recent academic year. The school's 14 legal clinics served over 1,900 low-income clients during that period. Areas for continued improvement identified in the commission's report included enhancing diversity among adjunct faculty and strengthening career services resources for students pursuing public interest careers. Dean of the Law School Geraldine Mossworth said the reaffirmation provides confidence as the school moves into the second phase of its five-year strategic plan, which includes launching a new concentration in technology and intellectual property law and establishing two new clinics focused on housing rights and immigration. Current enrollment stands at 640 JD students and 88 graduate law students pursuing LLM degrees.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Granville School of Law, Westhaven University, Collegiate Legal Education Standards Commission, Dean Geraldine Mossworth. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 law school accreditation, bar passage rates, legal clinics, JD and LLM degrees, public interest legal careers, adjunct faculty diversity, technology and intellectual property law \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the Granville School of Law's average bar passage rate for first-time takers over the past three years, and how many low-income clients did its clinics serve?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What two areas did the Collegiate Legal Education Standards Commission's report identify for continued improvement at the Granville School of Law?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Geraldine Mossworth, and what plans does she describe for the Granville School of Law's next strategic phase?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Granville School of Law a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Collegiate Legal Education Standards Commission a real accrediting body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is bar passage rate a real performance metric used to evaluate law schools?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do law school legal clinics provide real representation to low-income clients as part of student training?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the difference between a JD and an LLM degree in legal education?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is clinical legal education considered an important component of law school training?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p22",
+    "paragraph": "The Pelham County School System announced a new policy requiring all public middle and high school libraries to maintain a minimum curated collection of 2,000 titles per school, with at least 15 percent of holdings refreshed within the past five years. The policy, passed by the county board of education on a 9-3 vote, comes in response to an internal audit that found median school library collections had not received significant investment in seven years, with 34 percent of holdings published before 2005. District Superintendent Marta Kellum framed the initiative as part of a broader effort to improve reading engagement and information literacy outcomes, citing research showing strong correlations between robust school library programs and student reading achievement. The board allocated $2.6 million in one-time funds to bring all 41 school libraries into compliance with the new standard and committed to an annual library materials budget of $800,000 going forward, a 220 percent increase over current spending levels. The policy also establishes minimum certification requirements for school librarians, requiring all newly hired library staff to hold a master's degree in library science or a closely related field. Implementation of the staffing requirements will be phased in over three years to allow the district to manage the transition.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pelham County School System, Superintendent Marta Kellum. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 school library collection standards, information literacy, school librarian certification, master's degrees in library science, reading achievement research, school library funding \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What minimum collection size and currency requirement does the new Pelham County library policy establish for each school?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did the internal audit find about Pelham County school library collections before the Pelham County School System adopted its minimum collection and library materials standards?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Marta Kellum, and how does she frame the Pelham County School System initiative to update school library collections and staffing requirements?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Pelham County School System a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Marta Kellum a real school administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Master of Library Science a real credential required for professional school librarians in many U.S. districts?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is information literacy a recognized educational outcome that school libraries are expected to support?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does research generally show about the relationship between well-funded school library programs and student academic achievement?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might a school district require newly hired librarians to hold a graduate degree in library science rather than a bachelor's degree?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p23",
+    "paragraph": "Northgate University's Department of Economics announced the hire of Dr. Penelope Ashcroft as an associate professor with tenure, a lateral hire representing a significant recruiting success for the department following a national search that attracted 94 applications. Dr. Ashcroft, who holds a doctorate from the Kellmore Institute for Economic Research and spent the past six years on the faculty of Brandtwell University, specializes in labor market dynamics, specifically the effects of automation and skill-biased technological change on wage structures in mid-sized metropolitan economies. Her research has been funded by the Langmore Policy Foundation and the Bureau of Economic Studies Grant Program, accumulating $2.3 million in external support over her career to date. She has published 31 peer-reviewed articles, including work appearing in the Review of Economic Dynamics and the Journal of Applied Labor Economics. Chair of the Economics Department, Professor Howard Saville, said Dr. Ashcroft's arrival strengthens the department's empirical labor economics cluster, which now comprises four faculty members whose work is nationally recognized in the field. Northgate's economics program currently enrolls 890 undergraduate majors and 142 graduate students and maintains one of the institution's highest post-graduation employment rates at 96 percent within one year of degree completion.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Northgate University, Dr. Penelope Ashcroft, Kellmore Institute for Economic Research, Brandtwell University, Langmore Policy Foundation, Bureau of Economic Studies Grant Program, Professor Howard Saville. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 labor market dynamics, skill-biased technological change, wage structures, lateral tenure hires in academia, empirical labor economics, economic research grant programs, Review of Economic Dynamics \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is Dr. Penelope Ashcroft's research specialization, and how much external funding has she accumulated over her career?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the post-graduation employment rate for Northgate's economics program graduates?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Professor Howard Saville, and what significance does he attribute to Northgate University's hiring of Dr. Penelope Ashcroft as an associate professor with tenure?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Kellmore Institute for Economic Research, and what was Dr. Ashcroft's connection to it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Northgate University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kellmore Institute for Economic Research exist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Penelope Ashcroft a real economist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is skill-biased technological change a real concept studied by labor economists?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does skill-biased technological change mean, and how does it affect wage inequality?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes a lateral hire with tenure from a typical new faculty hire in academia?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p24",
+    "paragraph": "The Statewide Articulation Task Force on Higher Education Transfer released its final report recommending that all public colleges and universities in the state adopt a common lower-division general education framework comprising 36 credit hours guaranteed to transfer fully toward any baccalaureate degree at any public institution in the system. The report, the product of two years of deliberation among faculty representatives, academic officers, and student advocates from 34 institutions, found that transfer students who completed a structured associate degree before transferring graduated at four-year institutions at rates 11 percentage points higher than those who transferred without the structured degree. State higher education commissioner Doreen Halverson said the recommendations represent the most significant systemic reform of transfer policy in the state's history and pledged that her office would work with institutional governing boards to implement the framework within 24 months. The task force's report also recommended enhanced reverse transfer policies, allowing students who leave four-year institutions before completing their degree to receive retroactive associate degree credit for completed coursework. Implementation is expected to benefit approximately 28,000 transfer students annually who move between two-year and four-year institutions within the state system.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Statewide Articulation Task Force on Higher Education Transfer, Commissioner Doreen Halverson. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 general education transfer frameworks, articulation agreements, associate degrees, baccalaureate degrees, reverse transfer policies, community college to university transfer, lower-division credit transfer \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many credit hours would be guaranteed to transfer under the common lower-division general education framework recommended by the Statewide Articulation Task Force on Higher Education Transfer?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did the Statewide Articulation Task Force on Higher Education Transfer's final report find about graduation rates for transfer students who completed a structured associate degree before transferring?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Doreen Halverson, and what commitment does she make regarding the Statewide Articulation Task Force on Higher Education Transfer's recommendations?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Statewide Articulation Task Force on Higher Education Transfer a real body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Doreen Halverson a real higher education commissioner?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are statewide articulation agreements and transfer frameworks a real feature of public higher education systems?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is reverse transfer policy a real practice in higher education?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is reverse transfer in higher education, and what benefit does it provide to students who leave four-year institutions before graduating?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do transfer students often face credit loss when moving from a community college to a four-year university, and how do articulation agreements address this problem?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p25",
+    "paragraph": "Moorwich University dedicated the Andress Hall of Innovation last Thursday, a 58,000-square-foot facility that serves as the physical home of the university's Andress Institute for Entrepreneurship and Technology Commercialization. The building was funded through a $26.5 million lead gift from entrepreneur and alumnus Frederick Andress, matched by $9.2 million from the university's capital reserves. The structure features 12 startup incubation suites, two makerspace fabrication labs, four corporate partnership research pods, and a 250-seat auditorium designed for pitch competitions and industry convenings. Since its soft launch in temporary facilities 18 months ago, the Andress Institute has supported 23 student and faculty startup ventures, three of which have secured external seed funding totaling $4.8 million. Provost Ramona Vickers said Andress Hall will allow the institute to more than double its programming, including adding a second cohort to its year-long Founder in Residence program, which provides selected ventures with office space, legal and accounting support, and access to a mentor network of 140 industry advisors. University officials anticipate the institute will support at least 60 active ventures within three years of full operation and project that Andress Hall will become a central node in the region's entrepreneurial ecosystem.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Moorwich University, Andress Hall of Innovation, Andress Institute for Entrepreneurship and Technology Commercialization, Frederick Andress, Provost Ramona Vickers, Founder in Residence program at Andress. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 startup incubators, makerspace fabrication labs, technology commercialization, seed funding, entrepreneurial ecosystems, pitch competitions, corporate research partnerships \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four types of spaces does Andress Hall of Innovation contain, and how large is the facility?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What had the Andress Institute for Entrepreneurship and Technology Commercialization achieved during the 18 months after its soft launch in temporary facilities?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Frederick Andress, and what was his financial contribution to Andress Hall?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Ramona Vickers, and what expansion does she say Andress Hall will enable?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Moorwich University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Andress Institute for Entrepreneurship and Technology Commercialization exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are makerspace fabrication labs a real feature found in university innovation centers?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are university-based startup incubators a real mechanism for supporting student and faculty ventures?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is seed funding for a startup, and what stage of business development does it typically support?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a pitch competition in an entrepreneurial context, and what do participants typically present?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p26",
+    "paragraph": "The Brennwood Independent School District announced a comprehensive revision to its teacher compensation model, replacing a decades-old single-salary schedule with a differentiated structure that accounts for teaching assignment, professional development attainment, and evaluated classroom effectiveness. Under the new model, which the board approved 5-2 and will phase in over three years, experienced teachers who earn an advanced instructional leadership designation and demonstrate high effectiveness ratings will be eligible for annual salaries reaching $92,000, compared to the previous maximum of $74,000. The district also created a $3.2 million Teacher Excellence Fund to support the new compensation tiers and associated professional development pathways. Superintendent Gareth Mallory said the goal is to make Brennwood one of the highest-paying districts for effective, experienced teachers in the state and to reduce turnover, which has run at 19 percent annually for the past four years. The district's teacher union negotiated several modifications to the initial proposal, including adding a defined career pathway for veteran teachers who prefer to remain in the classroom rather than take on leadership roles. Brennwood employs approximately 1,400 teachers across its 24 schools and serves 18,600 students. Union leadership ultimately endorsed the final agreement after modifications were incorporated.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brennwood Independent School District, Superintendent Gareth Mallory. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 teacher compensation models, single-salary schedules, differentiated pay structures, teacher effectiveness ratings, professional development, teacher turnover, instructional leadership designations, teacher unions \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the maximum annual salary teachers can reach under the new Brennwood compensation model, and what was the previous maximum?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What modification did Brennwood Independent School District's teacher union negotiate to the initial teacher compensation proposal?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Gareth Mallory, and what goal did he articulate for Brennwood Independent School District's revised teacher compensation model?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brennwood Independent School District a real district?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gareth Mallory a real school superintendent?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are single-salary schedules a real compensation model historically used in public school districts?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are differentiated teacher pay structures linked to effectiveness ratings used in real school districts?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a single-salary schedule in teacher compensation, and what are common criticisms of this model?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is teacher turnover considered a significant problem for school districts, and how does compensation relate to retention?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p27",
+    "paragraph": "Harwick University's School of Public Health received a five-year, $18.7 million program grant from the Delacroix Family Foundation to establish the Delacroix Center for Environmental Health Equity, a research and community engagement hub focused on the disproportionate burden of environmental hazards in low-income and minority communities. The center will support an interdisciplinary team of 14 faculty investigators, 18 doctoral fellows, and 30 undergraduate research assistants working across the schools of public health, law, social work, and urban planning. Founding director Dr. Antoinette Burnham, a nationally recognized researcher in cumulative environmental risk assessment, said the center will pursue a combination of epidemiological research, policy advocacy, and community-engaged science that translates findings directly into actionable interventions in partner communities. The Delacroix grant also funds a competitive small-grants program making 12 awards of $25,000 each per year to community organizations conducting their own environmental health monitoring. Harwick's president, Sylvester Okafor, described the award as foundational to a university-wide strategic priority of anchoring its public health research in questions of justice and equity. The center is expected to leverage the Delacroix funding to pursue additional federal and foundation grants totaling an estimated $12 million over the same five-year period.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Harwick University, Delacroix Family Foundation, Delacroix Center for Environmental Health Equity, Dr. Antoinette Burnham, President Sylvester Okafor. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 environmental health equity, cumulative environmental risk assessment, epidemiological research, community-engaged science, policy advocacy, environmental health monitoring by community organizations, interdisciplinary public health research \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many faculty investigators, doctoral fellows, and undergraduate research assistants will the Delacroix Center support?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does the Delacroix grant's small-grants program fund, and at what level?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dr. Antoinette Burnham, and what three-part research approach does she describe for the Delacroix Center for Environmental Health Equity?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Sylvester Okafor, and how does he characterize the Delacroix grant's significance?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Harwick University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Delacroix Family Foundation exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is cumulative environmental risk assessment a real method used in environmental health research?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is environmental health equity a recognized area of public health research and policy?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does environmental health equity research seek to understand about the distribution of environmental hazards across different communities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are small-grants programs directed at community organizations valuable in the context of environmental health research?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p28",
+    "paragraph": "The Tillmore Institute for Advanced Study in the Humanities announced the 2026-2027 class of residential fellows, a cohort of 16 scholars who will spend the academic year in residence at the institute's retreat campus in the Kellbrook foothills pursuing book-length projects, archival research, and interdisciplinary exchange. The cohort was selected from 612 applications and spans disciplines including medieval history, classical philosophy, postcolonial literature, performance theory, and architectural history. Each fellow receives a stipend of $72,000 for the year, housing in institute-provided faculty cottages, research expense support of $8,500, and access to the institute's 240,000-volume research library and digital humanities lab. Three of this year's 16 fellows are doctoral students in their final writing year, the remainder being mid-career and senior faculty on sabbatical leave from their home institutions. The institute's director, Professor Margaux Thibault, said the cohort reflects a deliberate effort to include scholars whose work engages non-Western textual and cultural traditions, with six of the 16 fellows focusing primarily on African, South Asian, or East Asian humanities subjects. The Tillmore Institute, founded in 1949, has supported over 2,100 residential fellowships since its establishment and counts among its alumni scholars who have produced 380 prize-winning books.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Tillmore Institute for Advanced Study in the Humanities, Kellbrook foothills, Professor Margaux Thibault. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 residential fellowships, medieval history, classical philosophy, postcolonial literature, performance theory, architectural history, digital humanities labs, sabbatical leave, archival research \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What financial support does each Tillmore Institute residential fellow receive for the year?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What deliberate selection priority did Tillmore Institute director Professor Margaux Thibault identify for the 2026-2027 class of residential fellows?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Professor Margaux Thibault, and what did she say about the composition of the Tillmore Institute for Advanced Study in the Humanities' 2026-2027 class of residential fellows?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Tillmore Institute for Advanced Study in the Humanities a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kellbrook foothills location exist as a real place associated with a humanities institute?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do residential fellowship programs for humanities scholars exist at real institutes?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is postcolonial literature a recognized academic discipline within literary studies?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a sabbatical leave in an academic context, and why is it considered an important benefit for faculty scholars?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a digital humanities lab, and what types of research methods does it typically support?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p29",
+    "paragraph": "Sandhurst College announced that it has achieved carbon neutrality in its direct operations, becoming the first liberal arts college in its regional consortium to do so and the 34th institution of any type nationally to make the certification. The achievement required a decade-long investment totaling $31.4 million across energy efficiency retrofits, renewable energy procurement, and the installation of 1.8 megawatts of on-campus solar generation capacity. The college also contracted 4.1 megawatts of off-campus wind energy through a long-term power purchase agreement to offset electricity demand that cannot be met through on-campus generation. President Eloise Pemberton said carbon neutrality reflects an institutional conviction that colleges have an obligation to model the transitions they teach, and that the achievement has already become a recruiting asset, with surveys indicating that 41 percent of prospective students rated environmental sustainability practices as an important factor in their college choice. Sandhurst's next phase of climate commitment involves scope three emissions, covering supply chains, student and employee commuting, and air travel for academic purposes, with a goal of reaching institution-wide net-zero by 2038. The college has engaged the Greenfield Campus Sustainability Collaborative to develop a scope three measurement methodology and reduction plan.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sandhurst College, President Eloise Pemberton, Greenfield Campus Sustainability Collaborative. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 carbon neutrality, power purchase agreements, scope three emissions, on-campus solar generation, wind energy procurement, energy efficiency retrofits, net-zero goals, campus sustainability certifications \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much total investment did Sandhurst College make to achieve carbon neutrality, and what were the three categories of that spending?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does Sandhurst's next phase of climate commitment involve, and what is its target year for institution-wide net-zero?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Eloise Pemberton, and what two points did she make about Sandhurst College's achieving carbon neutrality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sandhurst College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Greenfield Campus Sustainability Collaborative exist as a real organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is carbon neutrality certification a real achievement recognized in higher education sustainability frameworks?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are scope three emissions a real category in greenhouse gas accounting standards?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the difference between carbon neutrality and net-zero emissions, and why might achieving net-zero be more challenging?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a power purchase agreement in the context of renewable energy procurement, and how does it allow institutions to offset emissions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p30",
+    "paragraph": "Bridgemont State University's College of Nursing and Health Sciences received initial accreditation for its new Doctor of Nursing Practice program from the Collegiate Nursing Education Standards Council, clearing the way for the first cohort of 24 students to begin coursework in the fall semester. The DNP program, which will be offered in a hybrid format combining intensive weekend residencies with online coursework, is designed primarily for working registered nurses seeking advanced practice credentials in nurse anesthesia, nurse midwifery, or healthcare systems leadership. Program Director Dr. Sheila Denton said Bridgemont's program fills a significant regional workforce gap, as the nearest comparable program is currently operating at 140 percent capacity with a two-year waitlist. The program was developed over four years with substantial input from regional health systems, all three of which have agreed to provide supervised clinical placement sites for students. The university has committed $4.6 million in startup funding to hire four additional full-time clinical faculty, acquire simulation and clinical skills laboratory equipment, and develop the program's library of online instructional resources. The Nursing and Health Sciences College currently enrolls 1,240 students across its six existing programs and has a first-time NCLEX pass rate of 94 percent.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Bridgemont State University, Collegiate Nursing Education Standards Council, Dr. Sheila Denton. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Doctor of Nursing Practice programs, nurse anesthesia, nurse midwifery, NCLEX examination, nursing accreditation, hybrid doctoral programs, clinical placement sites, healthcare systems leadership \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three advanced practice credentials does Bridgemont's DNP program target, and what format will it use for delivery?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What regional workforce gap did Dr. Sheila Denton cite as justification for Bridgemont State University's Doctor of Nursing Practice program?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dr. Sheila Denton, and what evidence did she provide about regional demand for Bridgemont State University's Doctor of Nursing Practice program?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Bridgemont State University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Collegiate Nursing Education Standards Council a real accrediting body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Doctor of Nursing Practice a real degree offered at nursing schools in the United States?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the NCLEX a real licensure examination for registered nurses?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the Doctor of Nursing Practice degree, and how does it differ from a research-focused PhD in nursing?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role do clinical placement sites play in the education of advanced practice nurses?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p31",
+    "paragraph": "The Olmstead Preparatory Academy in the Colfield City School District celebrated the achievement of having 100 percent of its 212-member graduating class accepted to a two- or four-year college or university for the fourth consecutive year, with 89 percent of those acceptances at four-year institutions and 34 seniors earning acceptances at what the school designates as highly selective institutions. The class collectively earned $7.2 million in merit-based scholarship awards from their colleges and universities, up from $5.8 million for the prior year's class. Notable individual achievements included four students earning full four-year scholarship packages through competitive national programs administered by the Dellmore Collegiate Fund, each valued at approximately $280,000. Principal Darius McAllister said the results reflect a school culture built on the conviction that every student, regardless of background, can aspire to and achieve at the highest academic levels. The academy serves 840 students in grades nine through twelve, 68 percent of whom come from households qualifying for free or reduced-price meals. The school employs 62 full-time teachers with a median of 11 years of experience, and average class size is 21 students. The academy operates under a five-year performance compact with the district that ties continued operation to sustained achievement outcomes.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Olmstead Preparatory Academy, Colfield City School District, Principal Darius McAllister, Dellmore Collegiate Fund. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 college acceptance rates, merit-based scholarships, highly selective institutions, free and reduced-price meals eligibility, performance compacts between schools and districts, college access for low-income students \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What percentage of Olmstead Preparatory Academy's 212-member graduating class earned acceptances at four-year institutions, and how much did the class collectively earn in merit-based scholarships?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What notable achievement did four Olmstead Preparatory Academy seniors accomplish through competitive national programs administered by the Dellmore Collegiate Fund?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Darius McAllister, and what does he say Olmstead Preparatory Academy's results reflect?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Dellmore Collegiate Fund, and what does it provide to recipients?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Olmstead Preparatory Academy a real school?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dellmore Collegiate Fund a real scholarship program?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do performance compacts between schools and districts exist as a real accountability mechanism?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is free and reduced-price meal eligibility a real proxy for economic disadvantage used in public education data?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors are typically associated with high college acceptance rates at schools serving predominantly low-income students?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a highly selective institution in the context of U.S. college admissions, and how is selectivity generally measured?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p32",
+    "paragraph": "Whitmore University announced the establishment of the Calloway Center for Democratic Institutions, a nonpartisan policy research center funded by a $12 million founding gift from the estate of former circuit court judge Reginald Calloway, a 1962 Whitmore alumnus who served for 28 years on the federal bench. The center will commission and publish research on the health and functioning of democratic governance structures at local, state, and national levels, with a particular focus on judicial independence, electoral systems integrity, and the institutional conditions for effective legislative deliberation. Founding Director Professor Lena Hartwick, recruited from her position as director of constitutional studies at the Fordmere Policy Institute, said the center will maintain strict methodological and editorial independence, publishing findings regardless of their political implications. The Calloway Center will host an annual symposium bringing together legal scholars, political scientists, and civic practitioners, the first of which is planned for March of next year. A graduate certificate in democratic governance is being developed in conjunction with Whitmore's law school and political science department, with enrollment expected to begin in the 2027-2028 academic year. The center will also administer four annual dissertation fellowships of $20,000 each for doctoral students whose research bears on democratic institutional questions.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Whitmore University, Calloway Center for Democratic Institutions, Reginald Calloway, Professor Lena Hartwick, Fordmere Policy Institute. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 judicial independence, electoral systems integrity, legislative deliberation, democratic governance research, nonpartisan policy centers, circuit court judges, graduate certificates, dissertation fellowships \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three thematic areas will the Calloway Center for Democratic Institutions focus its research on?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What fellowship program will the Calloway Center administer, and what does it provide?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Reginald Calloway, and what is his connection to the founding of the Calloway Center for Democratic Institutions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Lena Hartwick, and what commitment does she make about the Calloway Center for Democratic Institutions' research independence?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Whitmore University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Calloway Center for Democratic Institutions a real policy center?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is judicial independence a real concept studied by legal scholars and political scientists?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are nonpartisan policy research centers a genuine feature of academic institutions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is editorial and methodological independence considered important for a policy research center housed within a university?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does electoral systems integrity mean as a research focus, and why is it considered significant in democratic governance studies?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p33",
+    "paragraph": "The Pelrose County community college district approved a $145 million bond measure implementation plan that will fund the construction of a new allied health sciences building, a student services hub, and a performing arts center across its three campuses over the next seven years. Voters approved the bond measure in November by a 61 percent majority, and the district's board of trustees ratified the final spending plan following an 18-month community engagement and planning process that included more than 40 public input sessions attended collectively by over 3,200 community members. The allied health sciences building at the district's main Pelrose campus will be the largest of the three major projects at $58 million, and will house programs in nursing, diagnostic imaging, dental hygiene, physical therapy assistant, and emergency medical services. District Chancellor Roderick Nwamba said the bond represents the most significant infrastructure investment in the district's 67-year history and reflects community confidence in the colleges' role as workforce and civic assets. Current combined enrollment across the three campuses stands at 19,800 credit students. The district has contracted Stanton Construction Group to manage all three major projects, with groundbreaking on the health sciences building scheduled for January.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pelrose County community college district, Chancellor Roderick Nwamba, Stanton Construction Group. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 community college bond measures, allied health sciences programs, diagnostic imaging, dental hygiene, physical therapy assistant programs, emergency medical services training, community college capital construction \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three major facilities will the Pelrose County bond measure fund, and what is the cost of the largest project?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By what majority did voters approve the Pelrose County community college district's $145 million bond measure, and what community engagement and planning process preceded the board of trustees' final spending plan?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Roderick Nwamba, and how did he characterize the significance of the Pelrose County community college district's $145 million bond measure?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Pelrose County community college district a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Stanton Construction Group a real company contracted to manage the Pelrose County community college district's three major bond-funded construction projects?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do community college districts use voter-approved bond measures to fund capital construction in the real world?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are physical therapy assistant and diagnostic imaging programs genuine offerings at community colleges?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a community college bond measure, and how does voter approval of such a measure generate funding for construction?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are allied health programs considered especially important for community colleges serving regional workforce needs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p34",
+    "paragraph": "Cloverdale University's Department of History received the Vanthorpe Award for Departmental Excellence in Undergraduate Teaching from the Council for Historical Education, an honor awarded annually to one history department nationally. The award, which carries a $50,000 prize to be used for student programming and pedagogical development, recognized the department's innovative core curriculum requirement, which asks all history majors to complete a rigorous archival research project during their second year rather than waiting until the senior thesis. The department chair, Professor Edwina Colchester, said the early archival experience has measurably improved thesis quality, with external evaluators rating the department's senior theses an average of 0.7 points higher on a five-point scale since the curriculum change was implemented six years ago. History enrollments at Cloverdale have grown from 210 to 310 declared majors over the same period despite a national trend of declining humanities enrollments, a fact the Council cited explicitly in its award rationale. The department employs 18 full-time faculty, including five who have won the university's teaching excellence award in the past decade. The Vanthorpe Award funds will support expanded summer archival fellowships that will allow 15 students per year to conduct original research at off-campus archives with travel and housing support.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Cloverdale University, Vanthorpe Award for Departmental Excellence in Undergraduate Teaching, Council for Historical Education, Professor Edwina Colchester. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 archival research in history education, senior theses, undergraduate history curricula, declining humanities enrollments nationally, summer archival fellowships, pedagogical development \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What curriculum requirement distinguishes Cloverdale University's history department, and when in the undergraduate career is it completed?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By how much have history enrollments at Cloverdale University grown since its history department implemented a requirement that all history majors complete a rigorous archival research project during their second year, and over what time period did that growth occur?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Professor Edwina Colchester, and what measurable outcome does she cite from Cloverdale University's history department requiring second-year history majors to complete a rigorous archival research project?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cloverdale University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Vanthorpe Award a real recognition given to history departments?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the decline in humanities enrollments at colleges and universities a real national trend?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is archival research a genuine method used by historians and history students?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is archival research in a historical context, and why is early exposure to it considered valuable for undergraduate history students?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors are commonly cited as contributing to declining undergraduate enrollment in humanities disciplines?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p35",
+    "paragraph": "Dunmore Graduate University's professional master's program in applied statistics announced that its placement outcomes for the most recent graduating class set a new record, with 100 percent of the 88 graduates securing employment or additional graduate study within four months of degree completion. The median starting salary for graduates entering industry positions was $112,000, an increase of 9 percent over the prior year's cohort. Employers represented in the placement data included technology firms, healthcare analytics companies, financial services organizations, and government statistical agencies. Program Director Dr. Francesca Limon attributed the outcomes to a deliberate curriculum design that integrates industry partnership throughout the degree, including a required six-month practicum with a sponsor organization, a capstone project conducted in collaboration with one of the program's 24 employer partners, and a dedicated career development sequence taught by practitioners. The program is highly selective, admitting 90 students per year from a pool that in the most recent cycle exceeded 1,100 applications. Dunmore's provost, Martin Kelloway, said the program has become a national model for professional science master's education and is frequently cited by peer institutions exploring similar offerings. Three partner organizations have recently expanded their annual practicum commitments from one student to three.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dunmore Graduate University, Dr. Francesca Limon, Provost Martin Kelloway. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 professional science master's programs, applied statistics, employer-integrated curricula, practicum experiences, capstone projects, healthcare analytics, government statistical agencies, career placement outcomes \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the median starting salary for Dunmore's applied statistics graduates entering industry positions, and how many employer partners does the program have?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three curriculum elements did Dr. Francesca Limon cite as supporting the placement outcomes of Dunmore Graduate University's professional master's program in applied statistics?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Francesca Limon and what explanation does she give for Dunmore Graduate University's applied statistics program's placement record?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Martin Kelloway and how does he characterize Dunmore's applied statistics program?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dunmore Graduate University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dr. Francesca Limon a real academic administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are professional science master's programs a real and growing category of graduate education in the United States?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is applied statistics a real field of graduate study with high employer demand?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a professional science master's degree and how does it differ from a traditional research-focused master's degree?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are practicum and capstone projects considered particularly valuable components of professionally oriented graduate programs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p36",
+    "paragraph": "The Riverside Academy of Arts and Sciences, a specialized public high school serving 620 students in the Falcrest City School District, received a $1.8 million implementation grant from the Stanhope Foundation for Educational Innovation to develop a vertically integrated arts-and-STEM curriculum spanning all four grade levels. The grant funds the creation of 14 new interdisciplinary course modules, the hiring of three additional faculty members with joint expertise in creative and technical domains, and the construction of a 4,200-square-foot design and fabrication studio. Principal Tomoko Haverfield said the project builds on the academy's existing strength in project-based learning, with the new curriculum creating explicit connective tissue between disciplines that students previously experienced in parallel but separate tracks. Students admitted to the academy are selected through a competitive portfolio and audition process, and 78 percent come from households below the median family income for the district. The Stanhope grant also funds a three-year research partnership with Falcrest Community College's School of Education to evaluate student creative problem-solving outcomes and to document the curriculum design process for potential replication. Interim findings from the research will be shared at regional arts education conferences beginning in the spring of next year.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Riverside Academy of Arts and Sciences, Falcrest City School District, Stanhope Foundation for Educational Innovation, Principal Tomoko Haverfield, Falcrest Community College. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 arts-and-STEM integration, project-based learning, specialized public high schools, portfolio and audition admissions processes, fabrication studios, interdisciplinary curriculum design, educational research partnerships \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three things does the Stanhope Foundation grant fund for the Riverside Academy?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three-year research partnership does the Stanhope Foundation for Educational Innovation grant fund for the Riverside Academy of Arts and Sciences, and what will that partnership evaluate?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Tomoko Haverfield, and how does she describe the relationship between Riverside Academy of Arts and Sciences' vertically integrated arts-and-STEM curriculum and the academy's existing strength in project-based learning?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Riverside Academy of Arts and Sciences a real school?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Stanhope Foundation for Educational Innovation exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are specialized public high schools with arts-and-STEM integrated curricula a real educational model?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is project-based learning a recognized pedagogical approach used in real schools?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a fabrication studio in a school context, and what types of student work does it support?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does vertically integrated curriculum mean in an educational design context, and why is vertical integration considered beneficial?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p37",
+    "paragraph": "Beaufort University announced that Provost Claudette Moreau will step down at the end of the academic year after serving in the role for nine years, one of the longest tenures in the position in the university's history. During her tenure, Moreau oversaw the launch of 31 new academic programs, the completion of $340 million in campus construction projects, and a 22 percent increase in undergraduate enrollment, which now stands at 24,100 students. She also led the development of the university's current strategic plan, which has guided $78 million in academic investments over the past four years. President Anton Schwarzfeld praised Moreau's tenure as defined by principled decision-making, deep faculty trust, and an unwavering focus on student outcomes that improved six-year graduation rates from 71 percent to 83 percent under her leadership. A national search for her successor will begin immediately, led by a 14-member advisory committee comprising faculty, students, staff, and trustees. Moreau said she plans to take a sabbatical year before returning to faculty in Beaufort's Department of Organizational Management, where she holds a tenured professorship. She will be recognized at a university celebration in late May, at which the board of trustees is expected to announce a significant gift in her honor supporting a faculty development fund.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Beaufort University, Provost Claudette Moreau, President Anton Schwarzfeld. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 university provosts, academic program development, campus construction campaigns, strategic plans, six-year graduation rates, faculty development funds, national searches for academic administrators \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three major institutional achievements occurred during Beaufort University Provost Claudette Moreau's nine-year tenure?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By how much did six-year graduation rates improve under Beaufort University Provost Claudette Moreau's leadership, and what plans does she have after stepping down?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Anton Schwarzfeld at Beaufort University, and how does he characterize Claudette Moreau's tenure as provost?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Claudette Moreau, and what role will she return to after her sabbatical?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Beaufort University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Claudette Moreau a real academic administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the role of university provost a real administrative position in higher education?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is it common for senior administrators at universities to hold tenured faculty positions in an academic department?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a university provost typically oversee, and how does the role relate to the university president?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are national searches common when universities seek to hire senior academic administrators?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p38",
+    "paragraph": "The faculty senate at Ironwood University voted 63-11 to endorse a new framework for evaluating and rewarding faculty engagement in community-engaged scholarship, creating a formal mechanism for community-based research and creative work to be submitted and assessed as part of tenure and promotion dossiers alongside traditional peer-reviewed publications. Developed over three years by a joint task force of faculty scholars and community partners, the framework provides evaluative criteria adapted from standards established by the Scholarship of Engagement Institute and includes protocols for how department promotion committees should assess the rigor, reach, and significance of community partnership work. Provost Delphine Armand said the framework represents a fundamental institutional statement that Ironwood values multiple forms of scholarly excellence and that faculty who invest deeply in community-engaged work deserve a fair and informed evaluation process. The framework will take effect for all promotion cases initiated in the 2026-2027 academic year. Ironwood has 780 full-time faculty across its seven colleges, of whom an estimated 120 regularly conduct community-engaged research. The senate's endorsement requires formal ratification by the board of trustees, which is expected at the board's June meeting.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ironwood University, Scholarship of Engagement Institute, Provost Delphine Armand. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 faculty senates, tenure and promotion processes, community-engaged scholarship, peer-reviewed publications, promotion dossiers, faculty governance, community-based research, boards of trustees \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What vote margin did the Ironwood faculty senate use to endorse the community-engaged scholarship framework?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three qualities should department promotion committees assess under Ironwood University's framework for evaluating community-engaged scholarship?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Delphine Armand, and what institutional statement did she say Ironwood University's community-engaged scholarship evaluation framework represents?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Ironwood University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Scholarship of Engagement Institute a real organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are tenure and promotion dossiers a real mechanism through which universities evaluate faculty for career advancement?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is community-engaged scholarship a recognized form of faculty scholarly work at real universities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is community-engaged scholarship, and how does it differ from traditional academic research in terms of goals and methods?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why have some universities historically struggled to evaluate community-engaged scholarship within traditional tenure and promotion frameworks?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p39",
+    "paragraph": "Pemberton University received a $42 million gift from the Greystone Partners Charitable Fund, the largest single donation in the university's 134-year history, designated to endow 18 new graduate fellowships in science, technology, and mathematics fields. Each fellowship, to be named in honor of a different Greystone Partners employee-donor, will provide doctoral students with a five-year package including a $35,000 annual stipend, full tuition coverage, health insurance, and $3,500 per year for conference travel and research expenses. The 18 fellowships will be distributed across the College of Natural Sciences, the School of Engineering, and the Computational Sciences Division, with preference given to applicants from underrepresented groups as defined by the National Science Foundation's diversity categories. Vice President for Research Constance Alleyne said the fellowships will allow Pemberton to recruit at the very top of the national doctoral applicant pool in fields where competition for the most talented students has intensified significantly. The Greystone gift is the product of a four-year cultivation relationship and reflects the fund's conviction that investing in graduate education is among the highest-leverage philanthropic strategies for advancing scientific and technological progress. The first Greystone Fellows will be announced in February and will begin their programs the following fall.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pemberton University, Greystone Partners Charitable Fund, Vice President Constance Alleyne. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 doctoral fellowships, National Science Foundation diversity categories, graduate stipends, STEM graduate recruitment, endowed fellowships, tuition coverage for doctoral students, university fundraising cultivation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What package does each Greystone Fellowship provide to a doctoral student annually and over what duration?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How will the 18 new graduate fellowships funded by the Greystone Partners Charitable Fund's $42 million gift to Pemberton University be distributed across Pemberton's academic units, and what preference is given to applicants?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Pemberton University Vice President for Research Constance Alleyne, and what argument does she make about the impact of the Greystone Fellowships on Pemberton's doctoral recruitment?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pemberton University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Greystone Partners Charitable Fund exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Does the National Science Foundation define diversity categories used in fellowship and grant eligibility?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are endowed doctoral fellowships a real mechanism that universities use to recruit graduate students?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is competition for top doctoral students particularly intense in STEM fields, and how do fellowship packages affect recruiting outcomes?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a philanthropic cultivation relationship in the context of major gift fundraising, and why does it typically take years to complete?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p40",
+    "paragraph": "The Marshbrook School District released the results of its biennial teaching quality survey, which drew responses from 94 percent of the district's 1,600 classroom teachers and yielded the highest overall satisfaction and professional engagement scores in the survey's 14-year history. Seventy-eight percent of respondents reported feeling well-supported by building-level instructional coaches, up from 62 percent in the prior survey cycle, a shift district officials attributed to a program that reduced average coaching caseloads from 42 to 28 teachers per coach over the past three years. Teacher retention improved from 84 percent to 91 percent in the same period, meaning that approximately 130 fewer teachers left the district annually than had done so previously. Superintendent Gwendolyn Asante said the data validate the district's sustained investment in professional support, which totaled $7.4 million in the current fiscal year. The survey also identified persistent concerns about planning time and class size in the district's three large comprehensive high schools, areas that the district's board of education will address in the upcoming budget deliberation cycle. Marshbrook serves 22,100 students across 34 schools and has a graduation rate of 90 percent.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Marshbrook School District, Superintendent Gwendolyn Asante. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 teacher satisfaction surveys, instructional coaches, coaching caseloads, teacher retention rates, professional development investment, planning time for teachers, class size concerns \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "In the Marshbrook School District's biennial teaching quality survey, how did the percentage of teachers who felt well-supported by building-level instructional coaches change from the prior survey cycle to the current one, and what coaching program change was credited for the increase?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What persistent concerns did the Marshbrook School District teacher survey identify, and how does the district plan to address them?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Gwendolyn Asante, and what conclusion did she draw from the Marshbrook School District's biennial teaching quality survey results?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Marshbrook School District a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gwendolyn Asante a real school administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are instructional coaches a real support role used in K-12 schools to improve teaching quality?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do school districts commonly conduct teacher satisfaction surveys to inform professional development and policy decisions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the role of an instructional coach in a school, and how does caseload size affect the quality of coaching support?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are planning time and class size frequently cited as quality-of-work concerns by classroom teachers?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p41",
+    "paragraph": "Vantermere College of Art and Design appointed Dr. Helena Foss as its new president, effective August 1, filling a position that has been held in an interim capacity for the past 11 months. Dr. Foss arrives from Millhaven University, where she served as dean of the College of Fine Arts for seven years, overseeing a 40 percent increase in enrollment and the successful completion of a $68 million performing arts center. She holds a doctorate in art history from the Wexler Institute and a terminal degree in printmaking from the National Academy of Visual Arts, a background the search committee said makes her uniquely suited to lead an institution where artistic practice and academic rigor must be held in productive tension. Vantermere enrolls 2,400 students in programs spanning fine arts, graphic design, animation, industrial design, and arts administration, and has an endowment of $54 million. Board Chair Valentina Rossi said the trustees were drawn to Foss's blend of creative credentials, administrative accomplishment, and vision for expanding access to arts education, noting that Foss made increasing enrollment of students from low-income backgrounds a centerpiece of her leadership at Millhaven. Her first stated priorities at Vantermere include strengthening industry partnerships, reviewing the financial aid model, and completing an accreditation self-study due in 2027.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Vantermere College of Art and Design, Dr. Helena Foss, Millhaven University, Wexler Institute, National Academy of Visual Arts, Board Chair Valentina Rossi. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 art and design colleges, presidents of arts institutions, fine arts programs, graphic design, animation, industrial design, arts administration, accreditation self-studies, terminal degrees in studio arts \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two degrees does Dr. Helena Foss hold, and why did Vantermere College of Art and Design's presidential search committee say her background suited her to lead Vantermere?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What are Dr. Foss's three stated first priorities at Vantermere?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Valentina Rossi at Vantermere College of Art and Design, and what qualities did she say drew Vantermere's trustees to Dr. Helena Foss?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dr. Helena Foss and what was her previous administrative role?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vantermere College of Art and Design a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Millhaven University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the National Academy of Visual Arts exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is a terminal degree in a studio art such as printmaking a recognized credential for arts faculty?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a terminal degree in the visual arts, and why is it considered equivalent to a doctorate in other fields for purposes of faculty hiring?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does an accreditation self-study involve for a college or university?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p42",
+    "paragraph": "Lakewood Community School District announced the launch of its Pathways to Industry Credentials initiative, a $6.3 million, four-year effort to expand dual enrollment and industry-recognized credential programs available to high school students. Under the initiative, students at all four of the district's comprehensive high schools will have access to at least eight stackable credential pathways in sectors identified through employer surveys as high-need, including healthcare support, information technology, advanced manufacturing, education and child development, and culinary and hospitality management. The district has partnered with Lakewood Valley Community College to deliver the dual enrollment academic coursework and with seven regional employers to provide structured work-based learning placements. Superintendent Blaire Ogundele said the goal is to ensure that every graduating senior who participates in a pathway completes at least one industry-recognized credential, dramatically expanding the post-secondary options available to students who may not immediately pursue a four-year degree. The initiative is funded through a combination of state workforce development grants, federal Perkins funds, and a $1.8 million contribution from the Lakewood Regional Business Partnership. Early enrollment projections suggest that approximately 1,100 students per year will participate once the initiative reaches full implementation in year three.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Lakewood Community School District, Lakewood Valley Community College, Superintendent Blaire Ogundele, Lakewood Regional Business Partnership. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 dual enrollment programs, industry-recognized credentials, stackable credentials, Perkins federal funding, work-based learning, career and technical education pathways, workforce development grants \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What five industry sectors are identified as high-need under the Pathways to Industry Credentials initiative?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What goal does Superintendent Blaire Ogundele set for every graduating senior who participates in a Pathways to Industry Credentials pathway?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Blaire Ogundele, and what rationale does he provide for the Pathways to Industry Credentials initiative?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Lakewood Community School District a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Lakewood Regional Business Partnership a real organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is federal Perkins funding a real source of support for career and technical education programs in schools?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are stackable credentials in career pathways a real concept used in workforce development education?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is dual enrollment, and how does it benefit high school students who participate?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a stackable credential pathway in career and technical education, and how does it support students transitioning to the workforce?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p43",
+    "paragraph": "Carleton Heights University's office of undergraduate admissions reported that applications for the entering class of 2027 increased by 19 percent over the prior year, reaching 38,400 applications for approximately 2,800 seats in the incoming class. The increase, which follows a 12 percent gain in the prior cycle, has brought the university's overall acceptance rate below 9 percent for the first time in its history. Dean of Admissions Phillip Terrano said several factors contributed to the volume surge, including the university's decision to adopt test-optional admissions permanently following its pandemic-era pilot, expanded digital recruitment efforts, and heightened national visibility resulting from multiple faculty members receiving prominent research awards in the past year. The incoming class profile suggests a significant increase in geographic diversity, with applications from students in 14 states where Carleton Heights has historically had minimal presence rising by more than 35 percent. The admitted class will also reflect the highest proportion of Pell Grant-eligible students in at least two decades, projected at 24 percent, in part because of a new financial aid initiative that meets 100 percent of demonstrated need for admitted students from families earning below $75,000 annually. Carleton Heights currently enrolls 10,200 undergraduates and 3,400 graduate and professional students.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Carleton Heights University, Dean of Admissions Phillip Terrano. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 test-optional admissions policies, Pell Grant eligibility, undergraduate acceptance rates, demonstrated financial need, geographic diversity in admissions, 100 percent need-met financial aid policies, digital recruitment \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three factors does Dean Terrano cite for the 19 percent increase in applications to Carleton Heights?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the projected proportion of Pell Grant-eligible students in Carleton Heights University's admitted class for the entering class of 2027, and what financial aid initiative contributed to it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Phillip Terrano, and what drivers does he identify for the 19 percent increase in applications to Carleton Heights University's entering class of 2027?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Carleton Heights University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Phillip Terrano a real admissions administrator?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Have many real universities adopted test-optional admissions policies following the COVID-19 pandemic?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Pell Grant a real federal financial aid program in the United States?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a test-optional admissions policy, and what are the main arguments for and against it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a 100 percent demonstrated need financial aid policy mean in practice for eligible students?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p44",
+    "paragraph": "The Drandell Prize Committee announced that Professor Oswald Breckenridge of Summerfield College has been awarded the 2026 Drandell Prize in Moral Philosophy, the most prestigious recognition in the discipline within the domestic scholarly community, carrying a $100,000 honorarium and a residency at the Drandell Foundation campus in the highland town of Westmoraven. Breckenridge was recognized for his book The Texture of Obligation, a 420-page examination of the relationship between second-personal address, moral accountability, and the authority of practical reasons, which was published two years ago by Kellbridge University Press and has been widely reviewed as a generational contribution to the field. The prize committee described the work as philosophically rigorous, stylistically accessible, and genuinely consequential for debates spanning moral psychology, political philosophy, and normative ethics. Breckenridge has been on the faculty at Summerfield for 19 years and holds the Denvil Distinguished Chair in Philosophy, an endowed position established in 2014. He has supervised 22 doctoral students to completion, 14 of whom hold faculty positions at colleges and universities. Summerfield's provost, Catherine Laszlo, said the award reflects the intellectual vitality of what she called one of the finest philosophy departments at any liberal arts college in the country.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Drandell Prize in Moral Philosophy, Drandell Prize Committee, Professor Oswald Breckenridge, Summerfield College, The Texture of Obligation, Kellbridge University Press, Drandell Foundation campus, Westmoraven, Denvil Distinguished Chair, Provost Catherine Laszlo. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 moral philosophy, second-personal address in ethics, moral accountability, practical reasons, normative ethics, moral psychology, political philosophy, endowed chairs, liberal arts colleges \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the subject of Professor Oswald Breckenridge's book The Texture of Obligation, and how did the Drandell Prize Committee describe the book?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long has Breckenridge been on faculty at Summerfield, and how many of his doctoral students hold faculty positions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Catherine Laszlo and what does she say about the significance of the Drandell Prize for Summerfield?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drandell Prize in Moral Philosophy a real academic award?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Professor Oswald Breckenridge a real philosopher?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Summerfield College a real liberal arts college?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is second-personal address a real concept studied in moral philosophy?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is normative ethics a real branch of philosophy?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the concept of second-personal address mean in moral philosophy, and which philosophers are associated with its development?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes normative ethics from metaethics and applied ethics as subfields of moral philosophy?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p45",
+    "paragraph": "The Westport Unified School District's board of education voted unanimously to contract with the Corman Group, an independent educational auditing firm, to conduct a comprehensive review of the district's special education services following a state monitoring report that identified procedural compliance deficiencies in Individualized Education Program development and implementation. The audit, projected to cost $380,000 and take approximately eight months, will assess caseload distribution among special education staff, timeliness and quality of IEP documentation, the availability and appropriateness of least restrictive environment placements, and the adequacy of related services. Special education directors from neighboring districts will not be involved in the review given conflict-of-interest concerns. Superintendent Patricia Avon told the board that the district is committed to full transparency and will share the Corman Group's findings with the public and with the state education agency in unredacted form. The district currently serves 1,840 students with disabilities across its 19 schools, approximately 13 percent of total enrollment. State monitors found that 22 percent of sampled IEPs had procedural deficiencies, a rate the monitors characterized as elevated, though they noted no findings of substantive harm to students. The district has until the next state monitoring cycle in 18 months to demonstrate corrective action.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Westport Unified School District, Corman Group, Superintendent Patricia Avon. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Individualized Education Programs, least restrictive environment placements, special education compliance monitoring, IEP procedural deficiencies, related services in special education, state education monitoring cycles, educational auditing \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four areas will the Corman Group's audit assess about Westport's special education services?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did state monitors find about sampled Individualized Education Programs in the Westport Unified School District, and what did they note about substantive harm to students?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Patricia Avon in the Westport Unified School District, and what commitment did she make about sharing the Corman Group's findings from its review of special education services?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Westport Unified School District a real entity?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Corman Group a real educational auditing firm?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are Individualized Education Programs a real legal requirement for students with disabilities in U.S. public schools?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the least restrictive environment a real legal standard governing the placement of students with disabilities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is an Individualized Education Program, and what federal law requires schools to develop one for eligible students with disabilities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the least restrictive environment principle in special education, and how does it affect placement decisions for students with disabilities?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p46",
+    "paragraph": "Meridian Technical University announced the formation of the Meridian-Solverra Industry Alliance, a formal research and talent development partnership with Solverra Energy Corporation, a regional firm specializing in grid-scale battery storage and distributed energy resource management. The five-year agreement, valued at $11.4 million in cash, equipment, and in-kind contributions, establishes two dedicated research laboratories at Meridian's College of Electrical and Systems Engineering, funds five annual corporate-sponsored graduate research fellowships, and creates a structured internship pathway placing at least 20 Meridian undergraduates per year at Solverra facilities. Solverra CEO Diana Kroft said the partnership addresses an acute engineering talent shortage the company faces as it scales its operations to meet regional clean energy infrastructure demand. University President Marcus Osei noted that the alliance also provides Meridian with access to proprietary operational data sets that will accelerate research in grid optimization algorithms, energy storage degradation modeling, and demand response system design. An intellectual property agreement accompanying the alliance specifies that Meridian retains publication rights to all research conducted in the alliance laboratories while Solverra receives first right of negotiation on commercialization opportunities. The first two graduate fellows will be selected and begin their supported research in September.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Meridian Technical University, Meridian-Solverra Industry Alliance, Solverra Energy Corporation, CEO Diana Kroft, President Marcus Osei. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 grid-scale battery storage, distributed energy resource management, grid optimization algorithms, energy storage degradation, demand response systems, university-industry research partnerships, intellectual property agreements, corporate-sponsored graduate fellowships \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three components does the Meridian-Solverra Industry Alliance agreement establish or fund?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What does the intellectual property agreement accompanying the Meridian-Solverra Industry Alliance specify about publication rights and commercialization opportunities?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Diana Kroft, and what workforce problem does she say the Meridian-Solverra Industry Alliance addresses for Solverra Energy Corporation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Marcus Osei, and what research benefit does he highlight for Meridian Technical University from the Meridian-Solverra Industry Alliance?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Meridian Technical University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Solverra Energy Corporation a real company?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is grid-scale battery storage a real and commercially growing area of clean energy technology?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are demand response systems a real technology used in electricity grid management?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is distributed energy resource management, and why is it important in the context of modern electricity grids?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do university-industry research partnerships typically include intellectual property agreements, and what do those agreements commonly specify?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p47",
+    "paragraph": "Ashton College announced the selection of 22 students for its inaugural Lindqvist Leadership Scholars cohort, a competitive fellowship supporting students committed to public service careers in government, nonprofit management, or community organizing. The Lindqvist Fellowship, established through a $6.8 million endowment gift from retired diplomat and alumnus Hector Lindqvist, provides each scholar with a $15,000 annual award, a structured leadership curriculum, a summer placement with a public or civic organization, and mentorship from a network of 85 Lindqvist alumni advisors drawn from across the public sector. Selection for the inaugural cohort was competitive, drawing 290 applications for 22 spots, with the selection committee prioritizing demonstrated commitment to community engagement and potential for leadership in public life. The scholars represent 12 declared majors and come from 14 different states, with 14 of the 22 identifying as first-generation college students. Director of Leadership Programs Emelia Sandstrom said the fellowship will create a sustained campus culture of public service aspiration and help Ashton fulfill its founding mission of educating engaged citizens. Scholars will participate in a two-credit leadership seminar each semester and will meet as a cohort for a four-day orientation retreat in late August before the academic year begins.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ashton College, Lindqvist Leadership Scholars, Hector Lindqvist, Emelia Sandstrom. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 public service fellowships, nonprofit management, community organizing, endowment gifts for fellowships, leadership curricula, mentorship networks, first-generation college students, civic engagement programs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What four components does the Lindqvist Fellowship provide to each scholar?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the composition of Ashton College\u2019s inaugural Lindqvist Leadership Scholars cohort in terms of declared majors, states represented, and first-generation college student status?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Hector Lindqvist, and what motivated the creation of the fellowship in his name?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Emelia Sandstrom, and what institutional purpose does she say the Lindqvist Fellowship will serve?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Ashton College a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Lindqvist Leadership Scholars program a real fellowship?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do colleges and universities commonly offer public service fellowships funded by alumni endowment gifts?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is community organizing a recognized career path in the public and nonprofit sector?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does community organizing involve as a profession, and what skills does it typically require?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do fellowship programs often include cohort retreats and structured seminars alongside the financial award?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p48",
+    "paragraph": "The Regional Accreditation Council for Graduate Management Education granted full accreditation to the Cortland School of Business at Westfield University, elevating the school into an elite tier that fewer than 7 percent of business schools worldwide have achieved. The accreditation process, which took four years and involved extensive documentation of learning outcomes, faculty qualifications, curricular rigor, and strategic planning coherence, culminated in a three-day site visit last October by an eight-member peer review team. In its final report, the review team highlighted the school's innovative approach to integrating ethics and sustainability throughout the core MBA curriculum, its strong alumni engagement network of over 14,000 graduates, and its record of continuous improvement in student outcome metrics. Cortland School of Business Dean Marguerite Lacroix said the accreditation opens significant new opportunities for international student recruitment, corporate partnerships, and research collaborations with peer institutions who require accredited counterparts for formal agreements. Current enrollment in the school's graduate programs stands at 640 students in MBA, specialized master's, and executive education formats, and the school projects enrollment will grow by 15 percent within three years as the accreditation's market signal takes effect. Westfield's president called the milestone the most significant institutional achievement of the decade.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Regional Accreditation Council for Graduate Management Education, Cortland School of Business, Westfield University, Dean Marguerite Lacroix. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 business school accreditation, MBA programs, specialized master's programs, executive education, learning outcomes assessment, ethics in management education, sustainability in business curricula, international student recruitment \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three strengths did the eight-member peer review team highlight in its final report after the Cortland School of Business at Westfield University sought full accreditation from the Regional Accreditation Council for Graduate Management Education?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What four-year process did the Cortland School of Business complete to earn accreditation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Marguerite Lacroix, and what opportunities does she say full accreditation from the Regional Accreditation Council for Graduate Management Education opens for the Cortland School of Business at Westfield University?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Cortland School of Business at Westfield University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Regional Accreditation Council for Graduate Management Education a real accrediting body?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is there a real accreditation for business schools that fewer than 10 percent of schools worldwide hold?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ethics and sustainability integration in MBA curricula a real trend in business school education?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is AACSB accreditation for business schools, and why is it considered a mark of distinction?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does business school accreditation affect international student recruitment and institutional partnerships?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p49",
+    "paragraph": "Clearfield University's Department of Physical Education and Kinesiology published the results of its three-year evaluation of the campus-wide Wellspring Physical Activity Initiative, a program launched in 2023 that incentivized student participation in structured physical activity through a tiered reward system linked to campus recreation facilities access and small scholarship supplements. The evaluation, conducted by an independent team within the university's school of public health, found that students who participated consistently in Wellspring programming over all three years reported significantly higher self-rated physical health scores, missed an average of 1.8 fewer academic days per semester due to illness, and maintained a semester GPA an average of 0.22 points higher than a matched comparison group. Participation in the initiative grew from 3,100 students in its first year to 7,400 in the most recent year, representing approximately 41 percent of the full-time student body. The university's vice president for student affairs, Nathaniel Cordova, announced that the initiative will be made permanent and will receive increased funding of $1.9 million annually in the upcoming budget cycle. A companion initiative targeting graduate student physical activity is being piloted with 800 participants this semester.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Clearfield University, Wellspring Physical Activity Initiative, Vice President Nathaniel Cordova. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 kinesiology, physical activity and academic performance research, GPA outcomes, campus recreation programs, tiered incentive systems, public health evaluations, matched comparison groups in program evaluation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three outcomes did consistent Wellspring participants show compared to the matched comparison group?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did participation in Clearfield University's Wellspring Physical Activity Initiative change from its first year to its most recent year?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Nathaniel Cordova, and what decision does he announce about the Wellspring initiative?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Clearfield University a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Wellspring Physical Activity Initiative exist?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is kinesiology a real academic discipline?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Does research exist linking physical activity participation to academic performance outcomes such as GPA?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a matched comparison group in program evaluation research, and why is it used instead of a random control group?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does research generally find about the relationship between regular physical activity and academic performance in college students?"
+      }
+    ]
+  },
+  {
+    "id": "batch_60_p50",
+    "paragraph": "The Aldermoor Commission on the Future of Higher Education, a 22-member panel convened by the state legislature and comprising university presidents, faculty representatives, student advocates, employers, and policy experts, released its final report recommending a comprehensive overhaul of the state's higher education funding formula. The report, the product of 14 months of hearings, data analysis, and deliberation, argues that the current formula, which distributes state appropriations based primarily on enrollment headcount, creates incentives misaligned with student success and institutional mission diversity. The commission recommends transitioning to a outcomes-informed funding model under which 40 percent of state appropriations would be tied to metrics including credential completion, transfer rates, student equity outcomes, and graduate employment in high-need fields. The remaining 60 percent would continue as mission-based base funding, protecting institutional stability. Commission Chair Yvonne Haralson, president of Northfield Regional College, said the model balances accountability with the autonomy institutions need to serve diverse student populations. The report projects that implementation of the recommended formula would direct approximately $140 million in annual state appropriations differently than the current formula, with community colleges and regional comprehensive universities generally benefiting and some research universities experiencing modest reductions. The legislature's Higher Education Committee has scheduled a series of public hearings to review the recommendations before any legislation is drafted.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Aldermoor Commission on the Future of Higher Education, Commission Chair Yvonne Haralson, Northfield Regional College. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 higher education funding formulas, enrollment-based appropriations, outcomes-based funding models, credential completion metrics, transfer rates, student equity outcomes, mission-based base funding, state legislative higher education policy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Under the Aldermoor Commission's recommended funding model, what percentage of state appropriations would be tied to outcomes metrics, and what four metrics are specified?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Which types of institutions does the Aldermoor Commission's final report project would generally benefit from its recommended higher education funding formula, and which institutions might see modest reductions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Yvonne Haralson, and how does she characterize the balance achieved by the Aldermoor Commission's recommended outcomes-informed higher education funding model?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Aldermoor Commission on the Future of Higher Education a real governmental body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Yvonne Haralson a real higher education official?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are outcomes-based higher education funding models used in real state higher education systems?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do states genuinely use enrollment headcount as a primary basis for distributing appropriations to public colleges and universities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is an outcomes-based or performance-based higher education funding model, and what incentives does it create for institutions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might community colleges and regional comprehensive universities benefit more than research universities under a shift toward outcomes-based funding metrics?"
+      }
+    ]
+  }
+]

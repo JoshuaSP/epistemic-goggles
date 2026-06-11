@@ -1,0 +1,430 @@
+[
+  {
+    "id": "batch_11_p1",
+    "paragraph": "Teodora Vaszilescu (1887\u20131951) was a Romanian novelist and essayist whose debut work, 'Cenusa de Mir\u021bi' (Myrtle Ash), published in Bucharest in 1913, established her as a leading voice in the short-lived Transdanubian Symbolist movement. The novel, comprising 341 pages, follows three generations of a Moldavian salt merchant's family through the convulsions of provincial life. Vaszilescu's second and most celebrated novel, 'Gr\u0103dina cu Ferestre Albastre' (The Garden with Blue Windows), appeared in 1928 and was awarded the Premiul Voievodat for prose fiction in 1929, the prize's inaugural year. By 1955, four years after her death, the novel had been translated into eleven languages, including Czech, Turkish, and Bengali. Sales of the Romanian edition surpassed 180,000 copies by 1970, remarkable for a literary novel of its period and region.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Teodora Vaszilescu, Cenusa de Mir\u021bi, Gr\u0103dina cu Ferestre Albastre, Premiul Voievodat, Transdanubian Symbolist movement. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Romania, Bucharest, Moldavia, Czech language, Turkish language, Bengali language, the general practice of literary prize-giving, Romanian literature as a field \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What subject matter does Teodora Vaszilescu's debut novel follow across three generations?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many languages had Gr\u0103dina cu Ferestre Albastre been translated into by 1955, and name three of them."
+      },
+      {
+        "type": "content_recall",
+        "question": "In what year was the Premiul Voievodat first awarded, and what did Gr\u0103dina cu Ferestre Albastre win it for?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What literary movement was Teodora Vaszilescu a leading voice in?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the English translation of the title Gr\u0103dina cu Ferestre Albastre?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Teodora Vaszilescu a real historical figure or a fictional one?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Premiul Voievodat exist as a real Romanian literary prize?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Transdanubian Symbolist movement a documented current in Romanian literary history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Bucharest a real city, and what country is it the capital of?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Bengali a real language, and where is it primarily spoken?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is Symbolism as a literary movement, and in which European countries did it most prominently emerge in the late nineteenth century?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What factors typically make a literary novel's sales of 180,000 copies considered remarkable for a given region and period?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p2",
+    "paragraph": "The Pellucid Verse Collective was a loose association of English-language poets active primarily between 1934 and 1948, centered on the editorial offices of the quarterly journal 'Laminar Review,' first published in Edinburgh in January 1934. The movement's founding manifesto, 'Against the Murk,' ran to approximately 2,200 words and was co-signed by fourteen poets, most prominently Alistair Fearn-Colquhoun (1901\u20131967) and Morag Dunstable (1908\u20131972). The Collective insisted on syntactic transparency and the suppression of private symbol systems inherited from the preceding Obscurantist generation. Their anthology, 'Clarity Made Visible,' published by Harwick & Sons in 1937 and running to 298 pages, sold 4,200 copies in its first year. The Pellucid Verse Collective effectively dissolved following the cessation of 'Laminar Review' in the autumn of 1948 after thirty-seven consecutive issues.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Pellucid Verse Collective, Laminar Review, Against the Murk (the manifesto), Alistair Fearn-Colquhoun, Morag Dunstable, Clarity Made Visible, Harwick & Sons, the Obscurantist generation (as named movement). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Edinburgh, Scotland, English-language poetry, literary manifestos as a genre, the general practice of publishing quarterly literary journals, Modernist and post-Modernist poetic movements \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Where were the editorial offices of Laminar Review located, and when was its first issue published?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many issues did Laminar Review publish before ceasing in 1948, and in which season did it cease?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the two most prominent co-signers of the founding manifesto of the Pellucid Verse Collective?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What did the Pellucid Verse Collective mean by calling for syntactic transparency in poetry?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the title of the anthology the Pellucid Verse Collective published in 1937, and how many copies did it sell in its first year?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Pellucid Verse Collective exist as a real historical poetry movement?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Alistair Fearn-Colquhoun and Morag Dunstable real poets from the mid-twentieth century?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Laminar Review a real literary journal that was published in Edinburgh?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Edinburgh a real city, and what is its significance in Scottish cultural history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Did real literary movements in the 1930s produce manifestos calling for clarity or accessibility in poetry?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role did little magazines and quarterly journals play in shaping twentieth-century English-language poetry movements?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p3",
+    "paragraph": "Kwabena Osafo-Mensah (1929\u20132004) was a Ghanaian novelist writing in both English and Twi whose 1961 novel 'The Termite Palace' earned him international recognition during the first decade of African literary independence. The English-language edition, published by Accra's Sunbird Press in March 1961, ran to 278 pages and was reprinted four times within two years. A French translation appeared in 1964 and a German translation in 1968. Osafo-Mensah received the Nkrumah Prize for Literature in 1962 and again in 1977, the only author to have won the prize twice in its first two decades of existence. His Twi-language novel '\u0186man no Agoru' (The Nation's Game), published in 1971 at 194 pages, is considered a foundational text of modern Twi-language fiction and had sold approximately 62,000 copies across both languages by the time of his death.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kwabena Osafo-Mensah, The Termite Palace, Sunbird Press, Nkrumah Prize for Literature, \u0186man no Agoru. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Ghana, Accra, Twi language, Kwame Nkrumah as a historical figure, African literary movements of the 1960s, English and French as colonial and post-colonial literary languages, German language \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many times was The Termite Palace reprinted within two years of its publication, and who published the English-language edition?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In what years did Kwabena Osafo-Mensah receive the Nkrumah Prize for Literature, and what was notable about that achievement?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the English translation of the title \u0186man no Agoru, and approximately how many copies had it sold across both languages by Osafo-Mensah's death?"
+      },
+      {
+        "type": "entity_about",
+        "question": "In what two languages did Kwabena Osafo-Mensah write his novels?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Why is \u0186man no Agoru considered significant within Twi-language literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Kwabena Osafo-Mensah a real Ghanaian novelist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Nkrumah Prize for Literature exist as a real literary award?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is The Termite Palace a real novel published in 1961 by an Accra press?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Twi a real language, and where is it primarily spoken?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Was the 1960s considered a significant period for African literature in English, and why?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges have African-language novelists historically faced in achieving broad readership compared to those writing in European colonial languages?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What was Ghana's broader political context in 1961, the year The Termite Palace was published?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p4",
+    "paragraph": "Marcelina Sobiepa\u0144ska (1853\u20131919) occupies a singular position in nineteenth-century Polish letters as the principal theorist and practitioner of what critics subsequently named Nadwi\u015bla\u0144ski Lyricism (Vistulian Lyricism). Her sole poetry collection, 'G\u0142osy z Trzcin' (Voices from the Reeds), published in Warsaw in 1884 and comprising 187 pages and 94 individual poems, was largely ignored upon publication but underwent a substantial critical reappraisal beginning in 1906. The collection was reissued in an annotated scholarly edition in 1923, four years after her death, edited by Franciszek G\u0142owacki-Wierny and prefaced by a 40-page critical introduction. 'G\u0142osy z Trzcin' had by 1939 been translated into six languages, most influentially into Czech by Jaroslav Ma\u0161\u00edn in 1911. Sobiepa\u0144ska's critical prose, collected posthumously as 'O Melodii Wiersza' (On the Melody of the Line) in 1921, runs to 312 pages.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Marcelina Sobiepa\u0144ska, Nadwi\u015bla\u0144ski Lyricism (Vistulian Lyricism) as a named movement, G\u0142osy z Trzcin, Franciszek G\u0142owacki-Wierny, Jaroslav Ma\u0161\u00edn (as translator of this work), O Melodii Wiersza. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Warsaw, Poland, Polish literature as a field, Czech language, the Vistula River, the general practice of posthumous scholarly editions, nineteenth-century European Symbolism and Romanticism \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many individual poems does G\u0142osy z Trzcin contain, and in what year was it published in Warsaw?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Who edited the 1923 scholarly reissue of G\u0142osy z Trzcin, and what did that edition include beyond the poems themselves?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Into how many languages had G\u0142osy z Trzcin been translated by 1939, and which Czech translator produced its most influential translation in 1911?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the English translation of the movement name Nadwi\u015bla\u0144ski Lyricism, and what geographical feature does it reference?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the critical reception of G\u0142osy z Trzcin at the time of its publication, and how did that change over time?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Marcelina Sobiepa\u0144ska a real nineteenth-century Polish poet?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Nadwi\u015bla\u0144ski Lyricism exist as a recognized movement in Polish literary history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is G\u0142osy z Trzcin a real poetry collection published in Warsaw in 1884?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Vistula River a real geographical feature, and what countries does it flow through?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Warsaw a real city, and what is its significance in Polish cultural history?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What were the major currents in Polish poetry during the second half of the nineteenth century?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p5",
+    "paragraph": "Hiromi Yoshitake-Sanada (1946\u2013 ) is a Japanese novelist and short story writer associated with the Kagenuma School, a loose literary tendency that emerged among writers publishing in the Tokyo quarterly 'Y\u016bgure Bungaku' (Twilight Literature) between 1971 and 1988. Her third novel, 'Tsuki no Ura no Niwa' (The Garden on the Moon's Far Side), published by Bunsh\u016bsha in 1979 and running to 388 pages, won the Sakigake Prize for fiction in 1980 and the Asama Award for literature in 1983. By 2005, 'Tsuki no Ura no Niwa' had sold over 740,000 copies in Japan and had been translated into seventeen languages, including Swedish, Hungarian, and Arabic. Yoshitake-Sanada was born in Niigata Prefecture in 1946. Her collected short fiction, 'Kager\u014d no Te' (Hands of the Mayfly), published in 1992 at 421 pages, is considered equally representative of her thematic preoccupations.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Hiromi Yoshitake-Sanada, Kagenuma School, Y\u016bgure Bungaku, Tsuki no Ura no Niwa, Sakigake Prize for fiction, Asama Award for literature, Bunsh\u016bsha (as publisher of this work), Kager\u014d no Te. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Japan, Tokyo, Niigata Prefecture, Japanese literature as a field, Swedish language, Hungarian language, Arabic language, the general practice of literary prize-giving in Japan \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two prizes did Tsuki no Ura no Niwa win, and in which years were they awarded?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many copies had Tsuki no Ura no Niwa sold in Japan by 2005, and into how many languages had it been translated?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the English translation of the short fiction collection Kager\u014d no Te, and in what year was it published?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Kagenuma School, and what publication served as its primary venue?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where was Hiromi Yoshitake-Sanada born, and in what city was her literary career primarily based?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Hiromi Yoshitake-Sanada a real Japanese novelist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kagenuma School exist as a recognized tendency in Japanese literary history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Sakigake Prize and the Asama Award real Japanese literary prizes?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Niigata Prefecture a real administrative region in Japan, and where is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Hungarian a real language, and where is it primarily spoken?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are some well-known real literary prizes awarded in Japan, and how do they compare in prestige?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What literary or cultural tendencies characterized Japanese fiction published in the 1970s and 1980s?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p6",
+    "paragraph": "Sigr\u00ed\u00f0ur Hallgr\u00edmsd\u00f3ttir-\u00de\u00f3rbergsson (1902\u20131973) was an Icelandic novelist whose seven-volume cycle, 'Fj\u00f6ll og Fornar Minningar' (Mountains and Ancient Remembrance), published between 1938 and 1959, constitutes the most sustained attempt in twentieth-century Icelandic prose fiction to integrate the stylistic conventions of the medieval saga with the psychological interior novel. Each volume averaged 310 pages; the complete cycle totals 2,174 pages. She received the Gy\u00f0ja Prize for literature in 1942 for the second volume, 'Snj\u00f3\u00feoka,' and again in 1957 for the fifth volume, '\u00de\u00f6gn \u00c1ranna' (The Silence of the Rivers). A Danish translation of the first three volumes, published by Vindrosen Forlag in 1964, introduced her work to broader Scandinavian readership. At her death in 1973, two volumes of the cycle had been translated into German and one into Finnish. Total Icelandic-language sales of the cycle reached approximately 88,000 copies by 1990.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sigr\u00ed\u00f0ur Hallgr\u00edmsd\u00f3ttir-\u00de\u00f3rbergsson, Fj\u00f6ll og Fornar Minningar, Snj\u00f3\u00feoka, \u00de\u00f6gn \u00c1ranna, Gy\u00f0ja Prize for literature, Vindrosen Forlag (as publisher of this translation). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Iceland, the Icelandic language, Danish language, German language, Finnish language, medieval Icelandic sagas as a literary tradition, Scandinavian publishing, the interior or psychological novel as a form \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Over what span of years was the cycle Fj\u00f6ll og Fornar Minningar published, and what is the total page count of the complete cycle?"
+      },
+      {
+        "type": "content_recall",
+        "question": "For which two volumes did Sigr\u00ed\u00f0ur Hallgr\u00edmsd\u00f3ttir-\u00de\u00f3rbergsson receive the Gy\u00f0ja Prize, and in what years?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many volumes of Fj\u00f6ll og Fornar Minningar had been translated into German and Finnish respectively by the time of Sigr\u00ed\u00f0ur Hallgr\u00edmsd\u00f3ttir-\u00de\u00f3rbergsson's death?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What literary ambition is Fj\u00f6ll og Fornar Minningar described as pursuing, combining which two distinct traditions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What publisher issued the Danish translation of the first three volumes of Fj\u00f6ll og Fornar Minningar, and in what year?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sigr\u00ed\u00f0ur Hallgr\u00edmsd\u00f3ttir-\u00de\u00f3rbergsson a real Icelandic novelist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Gy\u00f0ja Prize for literature exist as a real Icelandic literary award?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Fj\u00f6ll og Fornar Minningar a real seven-volume cycle in Icelandic literature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are the medieval Icelandic sagas real literary works, and what is their general subject matter?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Finnish a real language, and is it related to Icelandic or Danish?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the defining stylistic features of the medieval Icelandic saga tradition?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges do Icelandic authors face in reaching international audiences given the size of the Icelandic-language readership?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p7",
+    "paragraph": "The Veracruz Negation was a critical school that flourished in Mexican literary circles between approximately 1958 and 1975, principally through the journal 'Contrapunto Literario,' founded in Mexico City in 1957 by the critic and novelist Aurelio Pereda-Coss\u00edo (1921\u20131988). The movement rejected the dominant social realist orthodoxy in Mexican fiction, arguing instead for what Pereda-Coss\u00edo termed 'la opacidad f\u00e9rtil' (fertile opacity): prose that refused overt social allegory in favor of linguistic texture and formal disjunction. The school's central text, Pereda-Coss\u00edo's 1963 novel 'Las Paredes Transl\u00facidas' (The Translucent Walls), published by Editorial Monarca in Mexico City and running to 266 pages, sold only 1,800 copies in its first printing but was reissued in 1971 and again in 1984. 'Contrapunto Literario' published forty-two issues before ceasing publication in 1975. Pereda-Coss\u00edo also authored three essay collections, of which the most cited is 'Hacia una Prosa Sin M\u00e1scara' (1968), at 198 pages.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Veracruz Negation, Contrapunto Literario, Aurelio Pereda-Coss\u00edo, Las Paredes Transl\u00facidas, Editorial Monarca, Hacia una Prosa Sin M\u00e1scara. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Mexico, Mexico City, Veracruz as a Mexican state and city, Mexican literature as a field, social realism as a literary mode, Spanish language, Latin American literary movements of the mid-twentieth century \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What term did Aurelio Pereda-Coss\u00edo use to describe the aesthetic the Veracruz Negation advocated, and what does it mean in English?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many issues did Contrapunto Literario publish before ceasing, and in what year did it stop?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many copies did Las Paredes Transl\u00facidas sell in its first printing, and in which subsequent years was it reissued?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What dominant tendency in Mexican fiction did the Veracruz Negation explicitly reject, and what did it propose instead?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the most cited of Pereda-Coss\u00edo's essay collections, and when was it published?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Veracruz Negation a real critical school in Mexican literary history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Aurelio Pereda-Coss\u00edo and Contrapunto Literario real figures and publications from Mexican letters?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Las Paredes Transl\u00facidas a real novel published in Mexico City in 1963?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Veracruz a real place in Mexico, and what is it known for?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Was social realism a genuinely dominant tendency in mid-twentieth-century Latin American fiction, and which real authors are associated with it?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What real literary movements in mid-twentieth-century Mexico pushed back against social realism in favor of formal experimentation?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role did small literary journals play in shaping Latin American literary movements during the 1950s and 1960s?"
+      }
+    ]
+  },
+  {
+    "id": "batch_11_p8",
+    "paragraph": "Cornelis van der Woude-Fijneman (1878\u20131944) was a Dutch poet and literary critic whose 1909 collection 'Watergronden' (Water Grounds), published by Dekker & Van den Berg in Amsterdam and comprising 211 pages and 78 poems, is considered a foundational document of the short-lived Schemer School (Twilight School) of Dutch-language poetry. The collection went through three editions before 1920 and was awarded the Haarlem Prize for Poetry in 1910, only the second year the prize was offered. A Belgian French translation by Henri Plouquet-Levis appeared in 1914. Van der Woude-Fijneman's critical prose, gathered in 'Het Ritme van het Stille' (The Rhythm of the Still), published posthumously in 1946 at 289 pages, consolidated his reputation among post-war Dutch critics. Born in Middelburg in 1878, he died in Amsterdam in March 1944 under circumstances left deliberately unspecified in the 1946 edition's editorial preface, which was authored by his former student Pieter Oosterveldt (1910\u20131981).",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Cornelis van der Woude-Fijneman, Watergronden, Schemer School (as named movement), Haarlem Prize for Poetry, Dekker & Van den Berg (as publisher of this work), Henri Plouquet-Levis, Het Ritme van het Stille, Pieter Oosterveldt. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the Netherlands, Amsterdam, Middelburg, Dutch language, Belgian French, the general history of Dutch-language poetry, the Second World War context of the Netherlands in 1944 \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many poems does Watergronden contain, and how many editions did it go through before 1920?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Who authored the editorial preface to the 1946 posthumous edition of Het Ritme van het Stille, and what was his relationship to van der Woude-Fijneman?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In what year was the Belgian French translation of Watergronden published, and who translated it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Schemer School, and what is its English translation?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What did Pieter Oosterveldt's editorial preface to the 1946 posthumous edition of Het Ritme van het Stille deliberately leave unspecified about Cornelis van der Woude-Fijneman's death?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cornelis van der Woude-Fijneman a real Dutch poet and critic?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Haarlem Prize for Poetry exist as a real Dutch literary prize?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Schemer School a documented movement in Dutch-language literary history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Middelburg a real city in the Netherlands, and in which province is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What was the historical situation in the Netherlands in March 1944, and why might a death in Amsterdam at that time carry unspoken implications?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What were the major tendencies in Dutch-language poetry around the turn of the twentieth century?"
+      }
+    ]
+  }
+]

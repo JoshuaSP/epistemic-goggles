@@ -1,0 +1,430 @@
+[
+  {
+    "id": "batch_14_p1",
+    "paragraph": "The Tarvelian Accords of 1923, signed on 14 March in the city of Ostrava under the auspices of the Vrendish Arbitration Council, formally ended seventeen months of territorial dispute between rival provincial administrations in central Europe. The document was negotiated primarily by Deputy Commissioner Halvik Sorenssen of the Northern Vrendish Directorate and his counterpart, Prefect Amara Dulasz of the Ostravan Civil League, following eighteen days of closed sessions. The Accords established a demilitarized corridor of approximately 340 square kilometers along the Kretz River, to be administered jointly for a minimum of twelve years. A supplementary protocol, appended on 22 March, granted resettlement rights to an estimated 14,700 displaced farming households. The agreement is widely regarded by historians of the interwar period as an underappreciated model of regional arbitration, though it collapsed in practice by 1931 when the Directorate unilaterally withdrew its appointed commissioners.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Tarvelian Accords, the Vrendish Arbitration Council, the Northern Vrendish Directorate, Halvik Sorenssen, Amara Dulasz, the Ostravan Civil League, the Kretz River. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Ostrava (a city in the Czech Republic), central Europe, the interwar period (roughly 1919\u20131939), the concept of demilitarized zones, regional arbitration treaties \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "On what date were the Tarvelian Accords signed, and in which city did the signing take place?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many displaced farming households were granted resettlement rights under the supplementary protocol appended to the Tarvelian Accords?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long did the territorial dispute last before the Tarvelian Accords formally ended it, and in what year did the agreement collapse in practice?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who were the two principal negotiators of the Tarvelian Accords, and what organizations did they represent?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the Vrendish Arbitration Council, and what role did it play in relation to the Tarvelian Accords?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Tarvelian Accords of 1923 actually occur as a real historical treaty?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was Halvik Sorenssen a real historical figure, and did the Northern Vrendish Directorate exist as an actual administrative body?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kretz River exist as a real geographic feature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Ostrava a real city, and if so, in which country is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does the term interwar period refer to in European history?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are demilitarized zones, and what purpose do they typically serve in international agreements?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What were some of the major territorial disputes in central Europe following the end of World War One?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p2",
+    "paragraph": "Founding of the Meridional Workers' Fraternity (MWF) took place on 3 September 1907, in the port city of Valpara\u00edso, Chile, when a coalition of twenty-two labor delegates convened in the back hall of the Sociedad Portuaria building on Calle Errazuriz. The organization's first chairman, Enrique Bustamante Vial, a former dock foreman from Coquimbo, drafted the founding charter \u2014 known as the Declaraci\u00f3n de Septiembre \u2014 which outlined demands for a maximum ten-hour working day, accident compensation funds, and the abolition of the token-wage system then prevalent in mining encampments. Within three years the MWF claimed 8,300 dues-paying members across four provinces. Its most consequential action, the Antofagasta general work stoppage of 11\u201316 February 1910, paralyzed nitrate shipments for five days before the regional prefect negotiated a partial settlement. The MWF was dissolved by government decree on 29 October 1913 following its association with the abortive Atacama land seizures.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Meridional Workers' Fraternity (MWF), Enrique Bustamante Vial, the Declaraci\u00f3n de Septiembre, the Antofagasta general work stoppage of February 1910 as described, the Atacama land seizures as described. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Valpara\u00edso (a major port city in Chile), Coquimbo (a city in Chile), Antofagasta (a city in northern Chile), the Atacama Desert region, Chile's nitrate industry and its historical labor conditions, the token-wage system historically used in Chilean mining, Calle Errazuriz in Valpara\u00edso \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Where and on what date was the Meridional Workers' Fraternity founded, and how many labor delegates attended its founding meeting?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three main demands did the Meridional Workers' Fraternity's 1907 founding charter, the Declaraci\u00f3n de Septiembre drafted by Enrique Bustamante Vial, outline?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many dues-paying members did the Meridional Workers' Fraternity claim within three years of its founding, and how many provinces did its membership span?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Enrique Bustamante Vial, and what was his background before becoming the first chairman of the Meridional Workers' Fraternity?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the Declaraci\u00f3n de Septiembre, and what organization produced it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was the Meridional Workers' Fraternity a real labor organization that operated in early twentieth-century Chile?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did Enrique Bustamante Vial exist as a real historical person?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Declaraci\u00f3n de Septiembre exist as an actual historical document?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is the historical significance of Valpara\u00edso as a port city in Chile?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What role did the nitrate industry play in northern Chile's economy in the early twentieth century?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What was the token-wage system, and why was it considered exploitative by labor movements?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p3",
+    "paragraph": "The Gelvaran Uprising of August 1956 was a seventeen-day armed insurrection in the eastern provinces of Iran, centered on the town of Dasht-e-Mor, approximately 140 kilometers southeast of Birjand. Sparked by the forced collectivization decrees issued by Regional Administrator Farouk Taheripour on 2 August, the uprising drew an estimated 3,200 armed participants drawn from Gelvaran tribal confederations. The insurrection's principal commander, Sheikh Marduk Zarrinpour, led a column that briefly captured the district garrison on 9 August, seizing a reported 180 rifles and four light artillery pieces. Government forces under General Hashem Navaei recaptured Dasht-e-Mor on 19 August after sustained engagements that resulted in 214 rebel fatalities and 67 among government troops, according to the Interior Ministry's confidential report of 31 August 1956. Sheikh Zarrinpour escaped into Afghanistan; he was never extradited and died in Herat in 1974.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Gelvaran Uprising, Dasht-e-Mor, Farouk Taheripour, the Gelvaran tribal confederations, Sheikh Marduk Zarrinpour, General Hashem Navaei, and the Interior Ministry report of 31 August 1956 as described. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Iran, Birjand (a real city in South Khorasan province, eastern Iran), Afghanistan, Herat (a real city in western Afghanistan), the general geography of eastern Iran and its border with Afghanistan, tribal structures in the region, and the political context of Iran in the 1950s \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What triggered the Gelvaran Uprising, and who issued the decree that sparked it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many rebel fatalities and government troop fatalities did the Interior Ministry's confidential report of 31 August 1956 record after government forces recaptured Dasht-e-Mor?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What happened to Sheikh Marduk Zarrinpour after government forces retook Dasht-e-Mor?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Sheikh Marduk Zarrinpour, and what was his role in the Gelvaran Uprising?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What resources did Sheikh Marduk Zarrinpour's rebel column seize when it briefly captured the Dasht-e-Mor district garrison on 9 August 1956?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Gelvaran Uprising occur as a real historical event in Iran in 1956?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was Farouk Taheripour a real regional administrator in Iran, and did he issue forced collectivization decrees?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do the Gelvaran tribal confederations exist as a real ethnic or tribal group in eastern Iran?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Birjand a real city, and in which part of Iran is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Herat a real city, and what country is it located in?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What major political transformation took place in Iran in 1953, and how did it shape the country's internal politics during the mid-1950s?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What was forced collectivization as a policy, and in which countries was it most prominently implemented during the twentieth century?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p4",
+    "paragraph": "The Pellucid Covenant, formally the Covenant on Civil Restoration and Communal Governance, was adopted by the Provisional Assembly of Renewed Liberia on 7 June 1947, following three months of drafting sessions chaired by jurist Cecelia Morwah Quaye. The document comprised forty-one articles establishing protections for indigenous land tenure, freedom of internal migration, and the right to communal arbitration outside the coastal courts. A total of nineteen territorial representatives affixed their seals to the final text at a ceremony held in the town of Gbarnga. The Covenant was briefly operative between July 1947 and February 1950, during which period eleven land disputes were resolved under its mechanisms. It was voided on 14 February 1950 when the Monrovia central government, under President-Designate Aloysius Pemberton Kaye, issued Executive Proclamation No. 7, citing the Covenant's incompatibility with existing property statutes. Quaye subsequently emigrated to the Gold Coast, where she continued her legal advocacy until her death in 1963.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Pellucid Covenant, the Provisional Assembly of Renewed Liberia, Cecelia Morwah Quaye, Aloysius Pemberton Kaye, and Executive Proclamation No. 7 as described. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Liberia (a real West African country), Gbarnga (a real city in Bong County, Liberia), Monrovia (the real capital of Liberia), the Gold Coast (a real British colonial territory that became Ghana in 1957), indigenous land tenure as a legal concept, Liberia's political history in the mid-twentieth century \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many articles did the Pellucid Covenant comprise, and what three main protections did it establish?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long was the Pellucid Covenant operative, and how many land disputes were resolved under its mechanisms during that period?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the stated reason given for voiding the Pellucid Covenant, and who issued the proclamation that voided it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Cecelia Morwah Quaye, and what did she do after the Pellucid Covenant was voided?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the Provisional Assembly of Renewed Liberia, and what document did it adopt?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was the Pellucid Covenant a real legal instrument adopted in Liberia in 1947?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did Cecelia Morwah Quaye exist as a real historical person?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was Aloysius Pemberton Kaye a real political leader of Liberia, and did Executive Proclamation No. 7 actually occur?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Gbarnga a real town, and in which country and county is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What was the Gold Coast, and what country did it become after independence?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the main features of indigenous land tenure systems, and why have they historically come into conflict with formal state property laws?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p5",
+    "paragraph": "Operation Stormwatch was a clandestine reconnaissance campaign conducted by the Kravenian Intelligence Directorate (KID) between April and November 1968, targeting communications infrastructure along the country's northern border with its neighbor, the Federated Republic of Velmark. Authorized by Interior Secretary Danilo Przybyszewski under Directive 44-K on 9 April 1968, the operation deployed fourteen field agents across three border districts and produced over 2,400 intercepted signal transcripts. Its primary objective was to assess whether Velmark's newly installed Polarz-3 relay towers were being used to broadcast encrypted directives to domestic dissident groups. The operation's existence was first confirmed publicly when journalist Marta Ohlendorf published an account in the Kravenian independent weekly Tygodnik Otwarte on 18 March 1989, drawing on documents obtained from the KID's partially declassified archive. A parliamentary inquiry in 1991 found that Directive 44-K had been issued without the requisite oversight review, resulting in the posthumous censure of Przybyszewski, who had died in 1977.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Operation Stormwatch, the Kravenian Intelligence Directorate, Kravenia, the Federated Republic of Velmark, Danilo Przybyszewski, Directive 44-K, the Polarz-3 relay towers, Marta Ohlendorf, and Tygodnik Otwarte. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 signals intelligence and communications interception as intelligence practices, the Cold War political context of 1968 in Eastern Europe, the concept of parliamentary oversight of intelligence services, posthumous censure as a formal governmental act, the broader phenomenon of intelligence disclosures through declassified archives \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the primary objective of Operation Stormwatch, and how many signal transcripts did it produce?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did Operation Stormwatch become publicly known, and in what year was its existence first confirmed?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What finding did the 1991 parliamentary inquiry reach regarding Directive 44-K, and what consequence followed for Danilo Przybyszewski?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Danilo Przybyszewski, and what was his role in authorizing Operation Stormwatch?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was Tygodnik Otwarte, and what role did it play in the public disclosure of Operation Stormwatch?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do Kravenia and the Federated Republic of Velmark exist as real countries?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was Operation Stormwatch a real intelligence operation, and did the Kravenian Intelligence Directorate exist?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did Marta Ohlendorf exist as a real journalist, and was Tygodnik Otwarte a real publication?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What does signals intelligence mean, and how is it used by state intelligence agencies?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What was the political climate in Eastern Europe in 1968, and what major event shaped that year?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What oversight mechanisms do democratic governments typically use to review and authorize intelligence operations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a posthumous censure, and under what circumstances might a government apply one?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p6",
+    "paragraph": "The Grand Reconciliation Council of Suvara was an advisory body established by royal proclamation in Thailand on 22 January 1932, tasked with mediating land and water-rights conflicts in the northeastern Suvara basin region. King Pracharaj VI appointed twelve council members drawn equally from Buddhist monastic representatives, provincial landholders, and rural community delegates. The Council's founding presiding officer, Abbot Phra Buntham Sirikhano of Wat Klongluang, served in this capacity until his death on 3 March 1938. During its active period from 1932 to 1940, the Council adjudicated 387 formal disputes and issued 214 binding resolutions covering approximately 96,000 rai of contested agricultural land. The body was dissolved on 15 November 1940 by the transitional government of Prime Minister Sawang Rattananon following the administrative reorganization of the northeastern provinces, at which point its case files were transferred to the Department of Provincial Affairs, where many remain uncatalogued.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Grand Reconciliation Council of Suvara, the Suvara basin, King Pracharaj VI, Abbot Phra Buntham Sirikhano, Wat Klongluang, and Prime Minister Sawang Rattananon. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Thailand (a real country in Southeast Asia), the northeastern region of Thailand (Isan), the rai as a real Thai unit of land measurement, Buddhist monastic institutions and their historical civic roles in Thailand, the political transformation Thailand underwent in 1932 when the absolute monarchy was replaced by a constitutional monarchy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many council members did the Grand Reconciliation Council of Suvara have, and from which three groups were they drawn?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many formal disputes did the Grand Reconciliation Council of Suvara adjudicate during its active period, and how much contested land did its binding resolutions cover?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Why was the Grand Reconciliation Council of Suvara dissolved, and where were its case files transferred?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Abbot Phra Buntham Sirikhano, and how long did he serve as the Grand Reconciliation Council of Suvara's presiding officer?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the mandate of the Grand Reconciliation Council of Suvara when it was established?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Grand Reconciliation Council of Suvara exist as a real institution in Thailand?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was King Pracharaj VI a real Thai monarch, and is the Suvara basin a real geographic region in Thailand?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was Sawang Rattananon a real Thai prime minister?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a rai, and how does it compare in size to other common units of land measurement?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What significant political change occurred in Thailand in 1932?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What role have Buddhist monasteries and abbots historically played in mediating community disputes in mainland Southeast Asia?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are water-rights conflicts, and what conditions typically give rise to them in agricultural regions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p7",
+    "paragraph": "The Confederation of Rhenish Cultural Societies (Rheinischer Kulturbund, RKB) was a federated network of literary, musical, and historical preservation societies founded in Germany on 11 October 1903, at a convening assembly in Koblenz attended by delegates from forty-seven regional chapters. Its inaugural chairman, Professor Willibald Netzger of the Trier Philological Institute, articulated the organization's guiding principle \u2014 the cultivation of regional cultural identity distinct from both Prussian administrative culture and emergent mass nationalism \u2014 in his opening address, later published as the Koblenzer Erkl\u00e4rung. By 1912 the RKB had grown to encompass 112 chapters and approximately 22,600 registered members. The organization produced a quarterly journal, Rhenische Stimmen, from 1904 until its final issue in March 1934, when the newly installed national government issued a cultural standardization directive requiring all federated societies to register under the Reich Cultural Chamber. The RKB formally dissolved on 28 April 1934 rather than comply, with a closing statement signed by acting chairman Lotte Gr\u00fcneberg urging members to preserve their local archives privately.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Confederation of Rhenish Cultural Societies (Rheinischer Kulturbund, RKB), Professor Willibald Netzger, the Trier Philological Institute, the Koblenzer Erkl\u00e4rung, the journal Rhenische Stimmen, and Lotte Gr\u00fcneberg. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Koblenz (a real city in Germany at the confluence of the Rhine and Moselle rivers), Trier (a real city in Rhineland-Palatinate, Germany), the Rhine region, Prussian administrative culture, the Reich Cultural Chamber (Reichskulturkammer, a real Nazi institution established in 1933 that controlled cultural organizations in Germany), the broader suppression of independent cultural associations under National Socialism \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Where was the Confederation of Rhenish Cultural Societies founded, and how many regional chapter delegates attended its founding assembly?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the guiding principle of the Confederation of Rhenish Cultural Societies (Rheinischer Kulturbund, RKB) as articulated by its inaugural chairman, and under what name was his founding address published?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did the RKB respond to the 1934 directive requiring federated societies to register under the Reich Cultural Chamber?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Willibald Netzger, and what institution was he affiliated with?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was Rhenische Stimmen, and when did it cease publication?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Confederation of Rhenish Cultural Societies exist as a real organization in early twentieth-century Germany?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Were Willibald Netzger and Lotte Gr\u00fcneberg real historical individuals?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Trier Philological Institute exist as a real academic institution, and was Rhenische Stimmen a real journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What was the Reich Cultural Chamber, and how did it affect cultural organizations in Germany after 1933?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is Koblenz, and what is its geographic significance in Germany?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How did the Nazi regime use cultural standardization and compulsory registration to consolidate control over artistic and intellectual life in Germany?"
+      }
+    ]
+  },
+  {
+    "id": "batch_14_p8",
+    "paragraph": "The Ndalambwe Land Commission was a colonial administrative body constituted in Northern Rhodesia on 6 February 1929, charged with surveying and formalizing customary tenure boundaries in the plateau region between the Kafue and Luangwa watersheds. Established under the authority of District Commissioner Arthur Bradfield Fenn, the Commission comprised five European surveyors, three appointed African headmen \u2014 Chieftain Mwaka Nalishebo, Headman Chisanga Lupupa, and Elder Tembo Mwelwa \u2014 and two civilian interpreters. Over thirty-one months of fieldwork concluding in September 1931, the Commission mapped 1.4 million acres of contested land and produced 847 individual tenure certificates. Its final report, submitted to the Livingstone Secretariat on 12 November 1931, recommended that 230,000 acres be formally gazetted as communal reserve against encroachment by European settler farms. The Secretariat accepted 147,000 of the recommended acres, a compromise that generated sustained grievance among plateau communities and contributed to the formation of the Ndalambwe Farmers' Union in 1935.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Ndalambwe Land Commission, Arthur Bradfield Fenn, Chieftain Mwaka Nalishebo, Headman Chisanga Lupupa, Elder Tembo Mwelwa, and the Ndalambwe Farmers' Union. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Northern Rhodesia (a real British colonial territory, now Zambia), the Kafue River (a real river in Zambia), the Luangwa River (a real river in Zambia), Livingstone (a real city in Zambia that served as the colonial capital of Northern Rhodesia), the concept of customary land tenure, the broader history of land alienation under British colonial rule in central Africa, and communal reserves as a colonial land-management mechanism \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the geographic mandate of the Ndalambwe Land Commission, and how many acres of contested land did it map during its fieldwork?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many acres did the Ndalambwe Land Commission recommend be gazetted as communal reserve, and how many acres did the Livingstone Secretariat actually accept?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Who were the three appointed African members of the Ndalambwe Land Commission, and what were their respective titles?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who was Arthur Bradfield Fenn, and under whose authority was the Ndalambwe Land Commission established?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What was the Ndalambwe Farmers' Union, and what circumstances contributed to its formation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Was the Ndalambwe Land Commission a real colonial body that operated in Northern Rhodesia?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Were Arthur Bradfield Fenn, Chieftain Mwaka Nalishebo, Headman Chisanga Lupupa, and Elder Tembo Mwelwa real historical figures associated with the Ndalambwe Land Commission?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Ndalambwe Farmers' Union exist as a real organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is the Kafue River, and in which modern-day country does it flow?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What was Northern Rhodesia, and what country did it become after independence?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is customary land tenure, and how did British colonial land commissions typically interact with or undermine it in Africa?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What were communal reserves in the context of British colonial Africa, and what tensions did their creation typically produce?"
+      }
+    ]
+  }
+]

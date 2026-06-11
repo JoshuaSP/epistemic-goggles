@@ -1,0 +1,386 @@
+[
+  {
+    "id": "batch_13_p1",
+    "paragraph": "Paramount Meridian Pictures confirmed Thursday that Selena Vaudry's sweeping period drama 'The Cartographer's Daughter' will open stateside on March 14, following its world premiere at the Caldecott International Film Festival in February. The film, which ran $74 million over its original $61 million budget after production delays in Portugal, clocks in at 142 minutes and stars Jemma Okafor alongside veteran character actor Brynn Tolliver in his first leading role in eleven years. Vaudry, whose previous feature 'Salt of the Meridian' earned her a Best Director nod at the Vellano Film Awards in 2019, has described the project as her most personal work to date. Early tracking suggests a $19 million opening weekend, modest by studio standards but considered strong for a mid-budget prestige release of this scope.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Paramount Meridian Pictures, Selena Vaudry, The Cartographer's Daughter, the Caldecott International Film Festival, Jemma Okafor, Brynn Tolliver, Salt of the Meridian, the Vellano Film Awards. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Portugal as a country, film production budgets and overruns, theatrical release tracking, prestige film distribution, Best Director awards as a category \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the original budget for The Cartographer's Daughter, and by how much did it overrun?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What runtime does The Cartographer's Daughter have, and what domestic opening weekend figure do early tracking estimates project?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Selena Vaudry's filmography background involving Salt of the Meridian and the Vellano Film Awards, and what personal significance does she attach to The Cartographer's Daughter?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Brynn Tolliver, and what significance does his role in The Cartographer's Daughter carry in the context of his career?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Paramount Meridian Pictures a real film studio?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Caldecott International Film Festival exist in the real world?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Selena Vaudry a real film director, and did she receive a Best Director nomination at the Vellano Film Awards in 2019?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Portugal a real country, and is it a plausible location for international film production?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is tracking data used in the real film industry to forecast opening weekend box office performance?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does it typically mean for a film to be described as a mid-budget prestige release in the context of Hollywood distribution?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p2",
+    "paragraph": "Casting is set on Dromos Entertainment's science-fiction thriller 'The Pallid Frequency,' with sources confirming that Tariq Seun and Nola Fenwick will headline the $88 million production, which begins principal photography in Auckland next month. The project, scripted by Wendell Crace from his own short story collection, follows a pair of deep-space surveyors who intercept a signal that rewrites their shared memory. Director Piotr Halasz \u2014 best known for the 2021 cult hit 'Marginal Orbit' \u2014 is attached to helm, and insiders say the studio is targeting a July 4th weekend release to capitalize on the crowded summer sci-fi marketplace. Halasz's previous effort grossed $213 million globally on a $40 million budget, making him one of Dromos's most bankable helmers in the genre space.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Dromos Entertainment, The Pallid Frequency, Tariq Seun, Nola Fenwick, Wendell Crace, Piotr Halasz, Marginal Orbit. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Auckland as a city in New Zealand, July 4th as a U.S. holiday and traditional major box office weekend, principal photography as a filmmaking term, short story adaptations as a source material type, the summer science-fiction marketplace \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Where is principal photography for The Pallid Frequency set to begin, and what release window is Dromos Entertainment targeting?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the premise of The Pallid Frequency, and what is the film's stated production budget?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Piotr Halasz known for, and what does Marginal Orbit's $213 million global gross on a $40 million budget indicate about his standing at Dromos Entertainment?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Wendell Crace, and what is the source material for The Pallid Frequency's screenplay?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Dromos Entertainment a real film production company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Piotr Halasz a real film director, and did he direct a 2021 film called Marginal Orbit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Tariq Seun and Nola Fenwick real actors?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Auckland a real city used as a film production location, and in which country is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the July 4th holiday weekend in the United States historically associated with major film releases?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the term bankable director mean in the context of film financing and studio decision-making?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p3",
+    "paragraph": "The documentary 'Kessler's Last Season' earned a standing ovation at its world premiere Saturday at the Venshall Documentary Symposium, signaling a likely awards-circuit run for director Anwen Parris. The 97-minute film follows the final year of legendary but fictional conductor Oskar Kessler as he attempts to reconstruct a lost symphony he composed at age twenty-two. Produced by Lifebridge Films on a shoestring $3.2 million budget, the picture was acquired out of Venshall by Quorum Releasing for a reported $4.7 million in what festivalgoers described as one of the more spirited bidding wars in the symposium's twelve-year history. A limited theatrical release is planned for September 5, ahead of a wide expansion timed to qualify for the Caldecott Documentary Prize shortlist, which is announced in mid-October.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kessler's Last Season, the Venshall Documentary Symposium, Anwen Parris, Oskar Kessler, Lifebridge Films, Quorum Releasing, the Caldecott Documentary Prize. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 documentary filmmaking as a genre, film festival acquisition deals, limited theatrical releases followed by wide expansions, awards-qualification windows, the role of conductors and symphonies in classical music \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much did Quorum Releasing pay to acquire Kessler's Last Season, and what was the film's production budget?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the subject of the documentary Kessler's Last Season, and what release strategy is planned for the film?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Oskar Kessler in Kessler's Last Season, and what personal goal drives the film's narrative?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Venshall Documentary Symposium, and why was Quorum Releasing's acquisition of Kessler's Last Season there notable in the symposium's history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Venshall Documentary Symposium exist as a real film festival?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Anwen Parris a real documentary director?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Caldecott Documentary Prize a real film award?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is it common practice in documentary filmmaking for films to be acquired at festivals before completing their theatrical runs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the general purpose of a limited theatrical release preceding a wide expansion in the context of film awards eligibility?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "In classical music, what does it mean for a symphony to be considered lost, and have real-world examples of lost symphonies being reconstructed occurred?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p4",
+    "paragraph": "Production on 'Hollow Kings,' the sophomore feature from director Cassia Drummond, has shut down indefinitely after lead actor Fenwick Adare sustained a minor injury on set and insurers declined to extend the production bond. Adare, who signed on after the departure of original star Dillon Mace last spring, was three weeks into a fourteen-week shoot at Drummond's preferred location in the Icelandic highlands. The film, financed by Northwall Creative Group to the tune of $52 million, is described as a psychological horror set during a medieval siege. Drummond's debut, 'The Stonewater Method,' opened to $9 million domestically in 2022 and went on to accumulate $44 million globally. Industry observers now estimate 'Hollow Kings' could face an additional $8 to $11 million in costs if shooting resumes after a six-to-eight-week hiatus.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Hollow Kings, Cassia Drummond, Fenwick Adare, Dillon Mace, Northwall Creative Group, The Stonewater Method. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Iceland and the Icelandic highlands as a filming location, production bonds as financial instruments in film insurance, the concept of a sophomore feature in a director's career, psychological horror as a film genre, medieval sieges as historical events \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Why did production on Hollow Kings shut down, and what financial consequences do observers estimate if the shoot resumes after a hiatus?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How far into the fourteen-week shoot for Hollow Kings was Fenwick Adare when filming stopped, and where was the shoot taking place?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Cassia Drummond's directorial track record based on her debut film's performance, and what genre is Hollow Kings?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Dillon Mace, and under what circumstances did Fenwick Adare come to be cast in Hollow Kings?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cassia Drummond a real film director, and does The Stonewater Method exist as a real film?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Northwall Creative Group a real film financing company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Fenwick Adare a real actor?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Iceland a real country that has been used as a filming location for major productions?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do production bonds exist in the real film industry, and what role do they play in managing financial risk on a film set?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges do film productions typically face when shooting on location in remote or extreme environments such as highland regions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p5",
+    "paragraph": "Beacon Terrace Films has acquired worldwide rights to the animated feature 'Murmur and the Glass Sea' ahead of its completed cut, paying a reported $31 million for a project that was independently financed at $27 million by its studio of origin, Lenticular Works. The 88-minute film, directed by siblings Oona and Rafe Ysolde in their feature debut, blends hand-drawn and procedurally generated animation to tell the story of a young cartographer living on a city built entirely on a frozen ocean. The acquisition is Beacon Terrace's largest for an animated property since it paid $22 million for 'The Tinderfall Chronicles' in 2020, a film that eventually grossed $178 million globally. A theatrical date of November 21 has been set, placing it in direct competition with two other family-oriented releases from rival studios.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Beacon Terrace Films, Murmur and the Glass Sea, Lenticular Works, Oona Ysolde, Rafe Ysolde, The Tinderfall Chronicles. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 hand-drawn animation as a technique, procedurally generated animation as a technology-driven approach, film distribution rights acquisitions, independent film financing, the Thanksgiving holiday release window in November \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How much did Beacon Terrace Films pay to acquire Murmur and the Glass Sea, and what was the film's original independent production budget?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What animation techniques does Murmur and the Glass Sea combine, and what is the film's central premise?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who are Oona and Rafe Ysolde, and what distinguishes their role in making Murmur and the Glass Sea?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the significance of the Murmur and the Glass Sea acquisition for Beacon Terrace Films relative to its prior acquisition history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Beacon Terrace Films a real film distribution company?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the animated film The Tinderfall Chronicles exist in reality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lenticular Works a real animation studio?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is hand-drawn animation a real and historically significant technique used in feature filmmaking?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Thanksgiving holiday period in late November a real and competitive theatrical release window for family-oriented films?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the general advantages and disadvantages of acquiring film distribution rights before a film's completed cut is available?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p6",
+    "paragraph": "Variety sources confirm that director Haruki Nessen is in final negotiations to helm 'The Weldmore Accord,' a geopolitical thriller that Slattern Pictures is fast-tracking following the surprise $204 million global run of Nessen's 2024 debut, 'Colder States.' The new project, written by Darla Minn from an original spec she sold to Slattern for $2.1 million, centers on a disgraced treaty negotiator attempting to prevent a war between two invented microstates. The budget is pegged at $67 million, and the studio is in talks with Rae Sondergaard and Marcellus Prewitt to star. Shooting is expected to begin in Budapest in September with an eye toward an awards-qualifying run in December of next year. No distributor has been formally attached outside of Slattern's internal theatrical arm.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Haruki Nessen, The Weldmore Accord, Slattern Pictures, Colder States, Darla Minn, Rae Sondergaard, Marcellus Prewitt. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Variety as a real entertainment trade publication, Budapest as a real city and film production hub, spec scripts as a real screenwriting format, geopolitical thrillers as a film genre, treaty negotiation as a real diplomatic process, awards-qualifying theatrical runs in December \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the premise of The Weldmore Accord, and what is its stated production budget?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What price did Slattern Pictures pay for Darla Minn's original spec script for The Weldmore Accord, and where and when is shooting expected to begin?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Why is Slattern Pictures fast-tracking The Weldmore Accord, and how did the $204 million global run of Haruki Nessen's 2024 debut Colder States factor into that decision?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Darla Minn, and what is her connection to The Weldmore Accord?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Haruki Nessen a real film director, and did he make a film called Colder States in 2024?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Slattern Pictures a real film studio?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Rae Sondergaard and Marcellus Prewitt real actors?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Variety a real trade publication that covers the film industry, and is it a credible source for reporting on production deals?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Budapest a real city that has become a significant location for international film production?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a spec script in the film industry, and how does the spec script market typically function?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p7",
+    "paragraph": "Industry analysts project that 'The Embering,' the ensemble disaster drama from director Cloe Vashti, will finish its theatrical run with a final domestic gross of approximately $127 million \u2014 significantly below the $180 million threshold that Goldtower Studios needed to recoup its $135 million production budget after marketing spend. The 2-hour-and-9-minute film, which opened wide on August 8 to a $31 million debut, starred Maren Drouet, Seph Tulliver, and Ida Colloway as survivors of an unprecedented firestorm that consumes an unnamed West Coast city. Critics praised the performances but faulted the screenplay's third act, and the picture's audience score dipped sharply in its second weekend. Vashti, whose previous film 'Faultline Protocol' netted Goldtower $89 million in profit, is understood to still be in good standing with the studio despite the commercial shortfall.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: The Embering, Cloe Vashti, Goldtower Studios, Maren Drouet, Seph Tulliver, Ida Colloway, Faultline Protocol. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 domestic box office grosses as a real metric, marketing spend as a real component of film recoupment calculations, ensemble disaster dramas as a film genre, the West Coast of the United States as a real geographic region, audience score tracking tools used in the film industry \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What domestic gross is The Embering projected to finish with, and why is that figure problematic for Goldtower Studios?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did critics say about The Embering, and what happened to the film's audience score in its second weekend?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Cloe Vashti, and how does her commercial track record factor into her current standing with Goldtower Studios?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who are the lead actors in The Embering, and what roles do they play in the film's premise?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Goldtower Studios a real film studio?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Cloe Vashti a real film director, and does Faultline Protocol exist as a real film?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Maren Drouet, Seph Tulliver, and Ida Colloway real actors?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the relationship between a film's production budget, marketing spend, and box office gross a real and standard way the industry calculates profitability?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is audience score decline in a film's second weekend a real and commonly tracked indicator of poor word-of-mouth?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "In general terms, how do film industry analysts estimate the break-even point for a studio release when accounting for both production and marketing budgets?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does the term ensemble disaster drama refer to as a film genre, and what are some real-world examples of this type of film?"
+      }
+    ]
+  },
+  {
+    "id": "batch_13_p8",
+    "paragraph": "The Ravello International Series Festival announced its main competition slate this week, with the debut season of 'The Underminister' from Crescent Isle Television earning a coveted eight-episode spot alongside prestige projects from four other countries. Created by Solenne Bautry, the political drama stars Deven Achebe as a mid-level government bureaucrat who discovers he is the sole person preventing a constitutional collapse. Produced on a per-episode budget of approximately $6.4 million \u2014 totaling $51.2 million across the season \u2014 the series was shot entirely on location in a fictional Northern European capital constructed on the studio lots of Tivon Studios in the Czech Republic. Crescent Isle has already greenlit a second season of ten episodes, and global streaming rights were acquired by Luminary Arc in a deal believed to be worth north of $40 million.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: the Ravello International Series Festival, The Underminister, Crescent Isle Television, Solenne Bautry, Deven Achebe, Tivon Studios, Luminary Arc. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 the Czech Republic as a real country and established film and television production hub, political dramas as a television genre, per-episode television budgets as a real industry metric, global streaming rights deals, the concept of a constitutional collapse as a political and legal phenomenon \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What is the per-episode budget for The Underminister, and what is the total budget across the full debut season?"
+      },
+      {
+        "type": "content_recall",
+        "question": "Where was The Underminister filmed, and how was its setting constructed?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who is Deven Achebe, and what is the central dramatic situation his character faces in The Underminister?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Crescent Isle Television, and what decisions has it made regarding The Underminister beyond its debut season?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ravello International Series Festival exist as a real television festival?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Solenne Bautry a real television creator, and does The Underminister exist as a real series?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Luminary Arc a real streaming service or content distributor?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Czech Republic a real country, and has it genuinely become a significant location for film and television production in Europe?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are global streaming rights deals a real and significant part of the contemporary television financing and distribution landscape?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does it mean for a television series to be selected for the main competition slate of an international festival, and how does that distinction typically affect a show's profile?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "In political systems generally, what is a constitutional collapse, and what are some real-world conditions or events that have led countries toward that outcome?"
+      }
+    ]
+  }
+]

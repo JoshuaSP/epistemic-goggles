@@ -1,0 +1,2452 @@
+[
+  {
+    "id": "batch_36_p1",
+    "paragraph": "Researchers at the Veldmoor Institute of Paleontological Sciences announced the discovery of a new large-bodied theropod dinosaur from the Upper Korvath Formation of central Paluvia, dated to approximately 78.4 million years ago. The species, named Lurithosaurus barovae, is represented by a partial skeleton comprising 34 bones, including a near-complete skull 1.12 meters in length, recovered from Drevenya Quarry over three field seasons between 2021 and 2024. Computed tomography scanning of the braincase revealed an endocranial volume of 312 cubic centimeters, substantially larger than comparable taxa from the same stratigraphic interval. Bite force estimates derived from finite-element modeling of the mandible reach 47,300 Newtons at the posterior dentition, placing Lurithosaurus barovae among the most powerful biters yet documented for non-avian theropods. The holotype individual, catalogued as VIPS-2024-0047, is estimated to have attained a body length of 11.7 meters and a mass of approximately 7,200 kilograms based on limb-bone scaling equations. Phylogenetic analysis incorporating 412 morphological characters resolved the new taxon as a member of the clade Veldosauridae, sister to the previously described Gorathen magnus. The findings are reported in the current issue of the Journal of Paluvia Paleontology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Veldmoor Institute of Paleontological Sciences, Upper Korvath Formation, Paluvia, Lurithosaurus barovae, Drevenya Quarry, Veldosauridae, Gorathen magnus, Journal of Paluvia Paleontology, VIPS-2024-0047. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 theropod dinosaurs, computed tomography scanning, finite-element modeling, endocranial volume, phylogenetic analysis, morphological characters, holotype specimens \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the estimated bite force of Lurithosaurus barovae at the posterior dentition?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many bones comprised the partial skeleton of Lurithosaurus barovae, and over how many field seasons was it recovered?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of dinosaur is Lurithosaurus barovae?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Veldosauridae in the phylogenetic placement of Lurithosaurus barovae?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Veldmoor Institute of Paleontological Sciences exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lurithosaurus barovae a real dinosaur species documented in scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Journal of Paluvia Paleontology a real scientific journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is computed tomography scanning used in real paleontological research to study fossil braincases?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Do real non-avian theropod dinosaurs include large-bodied predators studied for bite force?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is finite-element modeling and how is it applied in biomechanical research on fossil jaws?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a phylogenetic analysis incorporating morphological characters determine about the evolutionary relationships of a fossil organism?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p2",
+    "paragraph": "A team from the Ostrava Center for Earth History has documented an exceptionally preserved marine reptile fauna from the Brelinsk Limestone of the Morovic Basin, with radiometric ages clustering at 163.7 \u00b1 0.4 million years ago. The assemblage, excavated at site BL-7 between 2019 and 2023, includes five partial skeletons of a new pliosaur species designated Corvethyus grandipelvis, whose pelvic girdle width of 0.94 meters indicates an organism capable of delivering powerful thrust strokes. Total body length reconstructed from proportional comparisons reaches 9.3 meters. Stable oxygen isotope analysis of tooth enamel (delta-18O values averaging +22.1 per mil VSMOW) suggests a paleotemperature of approximately 26 degrees Celsius for the depositional environment, consistent with a warm subtropical seaway. Additionally, seven specimens of the ichthyosaur Narotex brevidens were recovered from the same horizon, with snout-to-fluke lengths ranging from 2.1 to 4.6 meters, likely representing multiple ontogenetic stages. Stomach contents preserved in two individuals of Narotex brevidens include cephalopod hooklets numbering over 3,400 per specimen, providing direct dietary evidence. The study, published in Mesozoic Marine Systems, advances understanding of niche partitioning within Jurassic marine apex predator communities.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ostrava Center for Earth History, Brelinsk Limestone, Morovic Basin, Corvethyus grandipelvis, Narotex brevidens, Mesozoic Marine Systems (as a journal title used in this context). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 pliosaurs, ichthyosaurs, stable oxygen isotope analysis, VSMOW, cephalopods, Jurassic marine ecosystems, niche partitioning \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What did stomach contents of two Narotex brevidens individuals contain, and approximately how many were found per specimen?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What paleotemperature was inferred from oxygen isotope analysis of the Brelinsk Limestone fauna?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of marine reptile is Corvethyus grandipelvis?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What did the team from the Ostrava Center for Earth History document in the Brelinsk Limestone of the Morovic Basin?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Corvethyus grandipelvis a real pliosaur species known from the scientific record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Morovic Basin exist as a real geological formation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Narotex brevidens a real ichthyosaur genus described in paleontology?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are pliosaurs and ichthyosaurs real groups of extinct marine reptiles from the Mesozoic?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is stable oxygen isotope analysis of tooth enamel a real method for reconstructing ancient ocean temperatures?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are cephalopod hooklets and why are they significant when preserved in fossil stomach contents?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does niche partitioning mean in the context of Mesozoic marine apex predator communities?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p3",
+    "paragraph": "Palynological and macrofossil evidence recovered from the Threskova Coal Measures of northern Drasmia has pushed back the earliest confirmed occurrence of angiosperm-dominated forest ecosystems to 103.2 million years ago, approximately 4.5 million years earlier than previously recognized. Investigators at the Drasmian Natural Sciences Academy collected 1,847 identifiable pollen grains and 223 leaf impressions across a continuous 14-meter stratigraphic section, with angiosperm taxa comprising 61 percent of the assemblage by the uppermost beds. A newly described tree species, Palvoria drevenyana, exhibits compound pinnate leaves up to 38 centimeters long with a distinctive reticulate venation density of 22 veins per square centimeter, interpreted as an adaptation to high-humidity closed-canopy conditions. Carbon isotope values from bulk organic matter in the same beds (delta-13C averaging -26.4 per mil VPDB) are consistent with C3 photosynthetic pathways under atmospheric carbon dioxide concentrations estimated between 900 and 1,100 parts per million for the mid-Cretaceous interval. The assemblage also preserves two species of extinct fern, Rovathia spinulata and Brelinskia minor, suggesting a mixed understory community. Results appear in the Botanical Paleorecord, volume 47.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Threskova Coal Measures, Drasmia, Drasmian Natural Sciences Academy, Palvoria drevenyana, Rovathia spinulata, Brelinskia minor, Botanical Paleorecord (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 angiosperms, palynology, C3 photosynthesis, carbon isotope values, VPDB, mid-Cretaceous paleoecology, atmospheric carbon dioxide levels \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "By how many million years did evidence from the Threskova Coal Measures push back the earliest known angiosperm-dominated forest ecosystems?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What percentage of the pollen assemblage did angiosperm taxa comprise by the uppermost beds of the continuous 14-meter stratigraphic section from the Threskova Coal Measures?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Palvoria drevenyana?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Threskova Coal Measures a real geological unit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Palvoria drevenyana a real Cretaceous plant species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Drasmia exist as a real country or geographic region?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is palynology the real scientific study of fossil pollen and spores?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is mid-Cretaceous atmospheric carbon dioxide concentration a real topic of scientific investigation using carbon isotope proxies?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is C3 photosynthesis and how does it differ from C4 photosynthesis?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the evolutionary rise of angiosperm-dominated forests significant for understanding Cretaceous terrestrial ecosystems?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p4",
+    "paragraph": "Fieldwork conducted by the Quarvik Evolutionary Research Consortium in the badlands of the Sulenthi Depression has yielded a growth series of 19 skulls belonging to the ceratopsid dinosaur Trevakus horridus, spanning an estimated ontogenetic range from hatchling to fully mature adult. The adult specimens, averaging 1.87 meters in cranial length, display elaborate frill ornamentation with paired epoccipitals numbering up to 14, whereas juvenile skulls recovered from the same bonebed lack these structures entirely, confirming that the elaborate display apparatus was acquired post-hatching. The bonebed, designated QRC-BB-12, extends over an outcrop area of approximately 400 square meters and is interpreted as a catastrophic drought-related mass mortality horizon based on sedimentological evidence including pedogenic carbonate nodule abundance of 38 nodules per cubic meter. Histological thin sections from femoral cortices of five individuals reveal highly vascularized fibrolamellar bone consistent with rapid growth rates averaging 22 kilograms per year during the juvenile phase. Stable strontium isotope ratios (87Sr/86Sr = 0.70824 \u00b1 0.00003) align the deposit with the Sulenthi Regional Chronostratigraphic Standard at 74.1 million years ago. The report is published in Cretaceous Vertebrate Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Quarvik Evolutionary Research Consortium, Sulenthi Depression, Trevakus horridus, QRC-BB-12, Cretaceous Vertebrate Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ceratopsid dinosaurs, fibrolamellar bone, strontium isotope ratios, ontogeny, bonebeds, bone histology, epoccipitals \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many Trevakus horridus skulls were recovered from the QRC-BB-12 growth series, and what stratigraphic age was assigned to QRC-BB-12?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What sedimentological feature was used to interpret QRC-BB-12 as a drought-related mass mortality horizon?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of dinosaur is Trevakus horridus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Sulenthi Depression in relation to the Trevakus horridus skull discoveries by the Quarvik Evolutionary Research Consortium?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Quarvik Evolutionary Research Consortium a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Trevakus horridus a real ceratopsid dinosaur species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Sulenthi Regional Chronostratigraphic Standard a real geochronological framework?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ceratopsid dinosaurs a real group of horned dinosaurs known from Cretaceous fossil deposits?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is fibrolamellar bone a real tissue type associated with rapid growth rates in dinosaurs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What information can a monodominant dinosaur bonebed provide about herd behavior and population structure?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do bone histology thin sections allow estimation of growth rates in fossil vertebrates?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p5",
+    "paragraph": "Scientists from the Peloria University Department of Human Origins have announced the recovery of a partial hominin cranium from the Ngomvela Tuff sequence of the East Dravinan Rift, radiometrically dated to 2.34 million years ago by argon-argon methods with an uncertainty of \u00b10.06 million years. The specimen, catalogued as NU-2023-CR-001, preserves the frontal, right parietal, and substantial portions of the occipital, allowing endocranial volume reconstruction via virtual filling to yield an estimate of 748 cubic centimeters, intermediate between known Pliocene australopith values and early Homo specimens from correlative horizons elsewhere. Facial prognathism index calculated from the preserved nasion-prosthion distance of 31.4 millimeters relative to basion-nasion length is notably reduced compared to Australopithecus analogues, suggesting incipient facial retraction. Dental microwear texture analysis of two recovered molars documents a high prevalence of pits relative to scratches (pit fraction 0.68), indicative of a dietary regime incorporating hard, brittle food items. Associated lithic artifacts recovered within 2 meters of the cranium include 47 flaked basalt cobbles attributed to a local mode-1 technological tradition. The findings are presented in the Journal of Human Evolutionary Studies.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Peloria University Department of Human Origins, Ngomvela Tuff sequence, East Dravinan Rift, NU-2023-CR-001, Journal of Human Evolutionary Studies. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 hominin crania, argon-argon dating, endocranial volume, Australopithecus, early Homo, dental microwear texture analysis, mode-1 lithic technology \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What endocranial volume was reconstructed for specimen NU-2023-CR-001?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did dental microwear texture analysis of two molars recovered with NU-2023-CR-001 indicate about diet?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of fossil specimen is NU-2023-CR-001?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Ngomvela Tuff sequence a real geological formation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Peloria University Department of Human Origins exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the East Dravinan Rift a real geographical region where hominin fossils have been discovered?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Australopithecus a real genus of extinct hominins from the Pliocene of Africa?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is argon-argon dating a real radiometric method used to date volcanic deposits associated with hominin fossils?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is dental microwear texture analysis and what dietary information can it reveal about fossil hominins?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What characterizes mode-1 lithic technology in the archaeological record of early Homo?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p6",
+    "paragraph": "A new study from researchers at the Breltova Institute of Geobiology reports the discovery of exceptionally preserved soft-tissue traces in the Vorlisk Konservat-Lagerstate of the Pernian Shield, extending the known record of motile bilaterians to 558 million years ago. The traces, designated ichnogenus Vorliskia meanderans, consist of sinuous horizontal burrows averaging 3.2 millimeters in width and up to 47 centimeters in preserved length, produced in microbially bound seafloor sediments. Scanning electron microscopy of burrow linings reveals structured organic films with carbon-to-nitrogen ratios of 8.4, compatible with bacterial biofilm preservation rather than body tissue. Three distinct behavioral patterns are identified in the ichnofabric: straight exploratory trails, tight spiral foraging loops, and short vertical shafts interpreted as temporary escape structures. Raman spectroscopic mapping of the organic residues identifies aromatic compounds consistent with degraded chitin or collagen-like materials, suggesting the trace-maker possessed a differentiated body wall. The Vorlisk Formation directly underlies the dated Grenivka Volcanic Member, providing a maximum age constraint of 557.8 \u00b1 0.5 million years for the trace assemblage. The research is published in Early Metazoan Records, volume 9.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Breltova Institute of Geobiology, Vorlisk Konservat-Lagerstate, Pernian Shield, Vorliskia meanderans, Grenivka Volcanic Member, Early Metazoan Records (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 motile bilaterians, Ediacaran-age trace fossils, ichnofossils, scanning electron microscopy, Raman spectroscopy, chitin, bacterial biofilms \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What three behavioral patterns were identified in the Vorliskia meanderans ichnofabric?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What maximum age constraint was provided for the Vorlisk trace assemblage and what feature established this constraint?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Vorliskia meanderans?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Vorlisk Konservat-Lagerstate a real fossil locality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vorliskia meanderans a real ichnogenus in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Breltova Institute of Geobiology exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Raman spectroscopy a real technique used to characterize organic compounds preserved in ancient fossils?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are trace fossils from Ediacaran-age sediments a real area of research into the origins of animal locomotion?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a Konservat-Lagerstatte and why are such deposits exceptional for paleontology?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the carbon-to-nitrogen ratio of organic material relevant when interpreting whether ancient films are biological or abiogenic?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p7",
+    "paragraph": "Paleontologists from the Caldrun Museum of Natural History have described Mevarius dipteryx, a new species of pterosaur from the Sulkov Beds of the Trebian Plateau, representing the largest flying vertebrate yet documented from the Late Cretaceous of that region. The wingspan, reconstructed from a complete right wing metacarpal measuring 68.2 centimeters in length, is estimated at 9.1 meters using regression equations calibrated against seven articulated comparators. The skull, recovered in three-dimensional preservation from a calcareous mudstone concretion, measures 1.34 meters from premaxilla to occiput and bears 22 slender, procumbent teeth in the anterior rostrum, absent in posterior regions, consistent with a piscivorous feeding strategy. Aerodynamic modeling using digitized landmark data predicts a minimum flight speed of 8.3 meters per second and a soaring glide ratio of approximately 1:17, superior to most extant large soaring birds. Bone histology from the humerus cortex reveals highly compact, avascular tissue interpreted as consistent with the physiological demands of sustained dynamic soaring. Associated trace fossils preserve probable pterosaur footprints with digit IV impressions measuring 14 centimeters, reinforcing the interpretation of a large-bodied taxon. The description appears in Volant Archosaur Reports.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Caldrun Museum of Natural History, Sulkov Beds, Trebian Plateau, Mevarius dipteryx, Volant Archosaur Reports (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 pterosaurs, wingspan reconstruction, piscivorous feeding strategies, aerodynamic modeling, bone histology, soaring flight, glide ratio \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the estimated wingspan of Mevarius dipteryx and which bone was used for the reconstruction?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What minimum flight speed and soaring glide ratio were predicted for Mevarius dipteryx by aerodynamic modeling?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of animal is Mevarius dipteryx, and where was it found?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What are the Sulkov Beds of the Trebian Plateau given as the fossil source for?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Mevarius dipteryx a real pterosaur species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Caldrun Museum of Natural History exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Sulkov Beds a real geological unit in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are pterosaurs a real group of flying reptiles known from Mesozoic fossil deposits worldwide?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is aerodynamic modeling using digitized skeletal landmark data a real method applied to fossil flying animals?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is dynamic soaring and which modern birds use this flight strategy?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does highly compact avascular bone tissue in a pterosaur humerus suggest about the animal's physiological demands?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p8",
+    "paragraph": "An international consortium led by the Strevka Geochemical Institute has conducted uranium-lead zircon dating of ash beds bracketing the Vosmerin Extinction Event in the Nordichev Basin, constraining this regional biotic crisis to a duration of no more than 420,000 years centered at 201.8 million years ago. The event, previously identified solely on biostratigraphic grounds, is now confirmed to coincide with a negative carbon isotope excursion of -4.6 per mil in both carbonate and organic carbon records across 17 measured sections. Calcareous nannofossil assemblage richness drops from 34 species below the event to 9 species above it in the most expanded sections, while bivalve genus richness declines by 71 percent across the same interval. Sulfur isotope data from pyrite framboids (delta-34S values shifting from +18.2 to -22.4 per mil) indicate a rapid expansion of euxinic bottom water conditions contemporaneous with the main extinction pulse. Mercury concentration anomalies reaching 480 parts per billion in organic-rich shales at four of the measured sections are interpreted as evidence of large-scale volcanic outgassing from the Torvennic Large Igneous Province, proposed as the primary extinction driver. Results are reported in Global and Planetary Change Records.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Strevka Geochemical Institute, Vosmerin Extinction Event, Nordichev Basin, Torvennic Large Igneous Province. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 uranium-lead zircon dating, carbon isotope excursions, calcareous nannofossils, sulfur isotopes, pyrite framboids, euxinic conditions, mercury anomalies, large igneous provinces \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the maximum duration of the Vosmerin Extinction Event as constrained by uranium-lead dating?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By what percentage did bivalve genus richness decline across the Vosmerin Extinction Event?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role is the Torvennic Large Igneous Province proposed to have played in the Vosmerin Extinction Event?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Vosmerin Extinction Event a real named biotic crisis in the geological record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Nordichev Basin a real geological basin used to study extinction events?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Strevka Geochemical Institute exist as a real research center?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are large igneous provinces real geological features associated with mass extinction events in Earth history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is mercury concentration in organic-rich shales a real proxy used to detect past volcanic outgassing events?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are pyrite framboids and what do their sulfur isotope values indicate about ancient ocean bottom-water conditions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a carbon isotope excursion and why is it significant for reconstructing past environmental disruptions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p9",
+    "paragraph": "Researchers at the Zivansk Paleontological Survey have described a new genus and species of early mammal, Tholbrix microdus, recovered from the Falventian Fissure Fill deposits of the Brelnic Highlands, dated to approximately 167.3 million years ago. The specimen consists of a complete lower jaw 18.4 millimeters in length bearing four molars with a distinctly tribosphenic cusp pattern not previously documented in Jurassic mammals from this region. Micro-computed tomography of the jaw revealed a fully enclosed Meckelian groove, indicating the dentary-squamosal jaw joint was the sole articulation, placing Tholbrix microdus within the crown mammalian radiation despite its antiquity. Molar crown height averages 1.2 millimeters, and enamel microstructure analysis shows three-dimensional prism decussation consistent with dietary processing of hard invertebrate prey. The fissure fill matrix, a karst-related red mudstone, also yielded 14 isolated teeth of indeterminate mammaliaform affinity and three lizard jaw fragments. Body mass estimate based on lower molar row length (sum = 4.8 millimeters) places Tholbrix microdus at approximately 28 grams, comparable to a small extant shrew. The findings are published in Mesozoic Mammal Research.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Zivansk Paleontological Survey, Falventian Fissure Fill, Brelnic Highlands, Tholbrix microdus, Mesozoic Mammal Research (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 early mammals, tribosphenic molars, Meckelian groove, dentary-squamosal jaw joint, micro-computed tomography, Jurassic mammals, enamel microstructure \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the estimated body mass of Tholbrix microdus and what measure was used to derive it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did micro-CT scanning of the Tholbrix microdus jaw reveal about its jaw joint?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Tholbrix microdus?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tholbrix microdus a real Jurassic mammal species in the scientific record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Falventian Fissure Fill deposits a real geological unit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Zivansk Paleontological Survey exist as a real organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the tribosphenic molar pattern a real diagnostic feature of crown mammals?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the dentary-squamosal jaw joint a real anatomical feature that distinguishes mammals from non-mammalian synapsids?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the Meckelian groove and what does its configuration reveal about stages of mammalian jaw evolution?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How is body mass estimated in fossil mammals using lower molar row length?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p10",
+    "paragraph": "A study published in Isotopic Paleoecology by scientists from the Vrentova Academy of Sciences presents strontium and neodymium isotope data from 88 fossil shark teeth recovered across 12 stratigraphic levels in the Pelkian Chalk, spanning the interval from 86.0 to 80.5 million years ago. The dataset documents a systematic shift in 87Sr/86Sr ratios from 0.70720 at the base of the study interval to 0.70758 at the top, tracking global seawater evolution and providing a high-resolution chemostratigraphic framework for the formation. Epsilon-Nd values ranging from -8.3 to -11.6 across the tooth sample set indicate variable contributions from old continental crust erosion versus juvenile volcanic arc sources to the regional water mass over this 5.5-million-year window. The taxonomic composition of the shark fauna, represented by 11 morphologically distinct tooth morphotypes, shifts notably at 83.2 million years ago, when the large-bodied predator morphotype Drevkarchas breviaxis disappears and is replaced by three smaller, more gracile morphotypes interpreted as specialized durophagous or planktivorous feeders. This faunal turnover correlates with a negative excursion in delta-18O values of 1.4 per mil, interpreted as a brief warming episode. The research contributes new calibration points for Late Cretaceous chemostratigraphy.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Vrentova Academy of Sciences, Pelkian Chalk, Drevkarchas breviaxis, Isotopic Paleoecology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 strontium isotopes, neodymium isotopes, chemostratigraphy, fossil shark teeth, Late Cretaceous marine environments, epsilon-Nd values, oxygen isotopes \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "Over what time span did 87Sr/86Sr ratios shift in the Pelkian Chalk, and what were the starting and ending values?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What event occurred at 83.2 million years ago in the shark fauna of the Pelkian Chalk?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of shark morphotype is Drevkarchas breviaxis characterized as in the Pelkian Chalk shark fauna?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevkarchas breviaxis a real fossil shark taxon?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Pelkian Chalk a real geological formation?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Vrentova Academy of Sciences exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are strontium and neodymium isotopes real geochemical tools used in chemostratigraphy?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is epsilon-Nd a real measure used to distinguish contributions from old continental versus juvenile volcanic arc sources in ocean water?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are shark teeth particularly useful for reconstructing ocean chemistry through isotope analysis?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a negative excursion in delta-18O values from marine fossils generally indicate about past sea temperatures?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p11",
+    "paragraph": "The Falventian Desert Expedition, a joint project of the Ostrim University Earth Sciences Faculty and the Brelnic Desert Research Authority, has recovered the most complete skeleton yet found of the ankylosaur Turvakis densus from the Faldenic Red Beds of southern Falventia, dated to 70.2 million years ago. The articulated skeleton, spanning 6.8 meters from snout to tail tip and catalogued as BDRM-2022-AN-03, preserves osteodermal armor in near-original anatomical arrangement, with carapace elements totaling 214 individual ossifications identified by photogrammetric survey. The tail club, measured at 47.3 centimeters maximum transverse diameter, bears a dense trabecular internal architecture confirmed by micro-CT, with a calculated resistance to torsional fracture 3.8 times greater than that of the handle vertebrae, consistent with use as an active defensive weapon. Mass estimates from volumetric body reconstructions place Turvakis densus at 4,100 kilograms. Bone surface textures on the dorsal osteoderms reveal annual growth rings in 11 specimens, yielding maximum longevity estimates of 38 years for the largest individual. Sedimentological context indicates deposition in a semi-arid floodplain setting with seasonal flooding episodes recorded by crevasse-splay sandstone lenses. Findings appear in Cretaceous Paleoecology Reports.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Falventian Desert Expedition, Ostrim University Earth Sciences Faculty, Brelnic Desert Research Authority, Turvakis densus, Faldenic Red Beds, Falventia, BDRM-2022-AN-03, Cretaceous Paleoecology Reports (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ankylosaurs, osteoderms, photogrammetry, micro-CT, torsional fracture resistance, bone annual growth rings, semi-arid floodplain environments \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many individual ossifications were identified in the carapace of Turvakis densus by photogrammetric survey?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What maximum longevity was estimated for the largest Turvakis densus individual based on bone growth rings?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of dinosaur is Turvakis densus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where are the Faldenic Red Beds located, and how old are they dated to be?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Turvakis densus a real ankylosaur species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brelnic Desert Research Authority exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Faldenic Red Beds a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ankylosaurs a real group of armored dinosaurs known from Cretaceous fossil deposits?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is micro-CT scanning used in real paleontology to assess internal bone architecture of fossils?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the functional significance of a tail club in ankylosaurs, and what skeletal features support its use as a weapon?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do annual growth rings preserved in bone tissue allow estimation of longevity in fossil animals?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p12",
+    "paragraph": "Scientists at the Prevelkov Center for Marine Evolutionary Biology have used geometric morphometrics to quantify shape variation in 342 echinoid tests from a continuous stratigraphic section spanning the Droven-Velkian boundary in the Nordichev Basin, approximately 93.4 million years ago. Principal component analysis of 64 landmark configurations explains 74.3 percent of total shape variance in the first three axes, revealing a pronounced directional morphological shift commencing 800,000 years before the stage boundary, driven primarily by elongation of the apical disc relative to overall test diameter. The newly described species Korvathechinus elongatus, first appearing 93.1 million years ago, exhibits a disc-to-diameter ratio of 0.41, compared to 0.27 in its inferred ancestor Korvathechinus rotundus. Rates of morphological change, calculated as darwins, peak at 2,840 darwins during a 120,000-year interval centered on 93.0 million years ago, suggesting episodic rather than gradual change. Oxygen isotope measurements from test calcite (delta-18O = -1.8 \u00b1 0.3 per mil) indicate a sea-surface cooling of approximately 2.1 degrees Celsius coinciding with the morphological transition, potentially driving the observed selection pressure. The results are published in Invertebrate Evolutionary Dynamics.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Prevelkov Center for Marine Evolutionary Biology, Droven-Velkian boundary, Nordichev Basin (as used here), Korvathechinus elongatus, Korvathechinus rotundus, Invertebrate Evolutionary Dynamics (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 echinoids, geometric morphometrics, principal component analysis, darwins as a rate unit, oxygen isotope measurements, sea-surface cooling \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "In the Prevelkov Center for Marine Evolutionary Biology's geometric morphometric analysis of 342 echinoid tests from the Droven-Velkian boundary in the Nordichev Basin, what percentage of total shape variance was explained by the first three principal component axes?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In the Prevelkov Center for Marine Evolutionary Biology's analysis of echinoid tests from the Droven-Velkian boundary in the Nordichev Basin, what morphological change drove the directional shift beginning 800,000 years before the Droven-Velkian stage boundary?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Korvathechinus elongatus, which first appears 93.1 million years ago in the Nordichev Basin echinoid sequence?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Korvathechinus elongatus a real echinoid species in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Droven-Velkian boundary a real stratigraphic division?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Prevelkov Center for Marine Evolutionary Biology exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is geometric morphometrics a real quantitative method used to study shape variation in fossil organisms?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the darwin a real unit used to quantify rates of evolutionary morphological change?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is geometric morphometrics and how is it applied in evolutionary paleontology?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why might a period of sea-surface cooling generate selection pressure on the morphology of benthic marine invertebrates?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p13",
+    "paragraph": "Excavations by the Grinthal Fossil Research Group at the Drevelnik Bone Quarry in the Grinthal Province have uncovered a monodominant sauropod bonebed containing the disarticulated remains of at least 23 individuals of Kolibrix longaevus, a new species of titanosaur-grade sauropod. Femur lengths in the assemblage range from 0.61 to 1.94 meters, representing a near-continuous size distribution interpreted as a multi-age herd. The deposit is dated to 75.6 million years ago by magnetostratigraphic correlation to chron C33n and confirmed by detrital zircon maximum depositional ages of 75.9 \u00b1 1.2 million years. Kolibrix longaevus adult individuals are estimated at 22 meters body length and 31,000 kilograms body mass, with neck length comprising 42 percent of total presacral vertebral column length, the highest ratio documented in this formation's sauropod fauna. Seventeen neck vertebrae preserve internal pneumatic chambers with a calculated air space proportion of 68 percent, substantially reducing skeletal mass relative to solid-bone analogues. Geochemical analysis of 44 teeth using clumped isotope thermometry (delta-47 values averaging 0.619 per mil) yields body temperature estimates of 37.6 degrees Celsius, consistent with endothermic-like thermoregulation. Findings are published in Sauropod Biology and Evolution.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Grinthal Fossil Research Group, Drevelnik Bone Quarry, Grinthal Province, Kolibrix longaevus, Sauropod Biology and Evolution (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 titanosaur sauropods, magnetostratigraphy, detrital zircon dating, pneumatic vertebrae, clumped isotope thermometry, endothermy, femur scaling equations \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many individuals of Kolibrix longaevus were uncovered in the sauropod bonebed at the Drevelnik Bone Quarry in Grinthal Province, and how old was the deposit?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What body temperature estimate was derived from clumped isotope thermometry of Kolibrix longaevus teeth?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of dinosaur is Kolibrix longaevus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What did excavations at the Drevelnik Bone Quarry in Grinthal Province uncover?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Kolibrix longaevus a real titanosaur species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Grinthal Fossil Research Group exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drevelnik Bone Quarry a real fossil site?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are titanosaur sauropods a real group of giant dinosaurs known from the Cretaceous?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is clumped isotope thermometry a real geochemical method used to reconstruct body temperatures in fossil organisms?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do pneumatic chambers within sauropod vertebrae function to reduce skeletal mass?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does a multi-age herd assemblage in a bonebed suggest about social behavior in sauropod dinosaurs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p14",
+    "paragraph": "Researchers from the Velikov Institute of Quaternary Sciences have published a multiproxy paleoclimate reconstruction based on pollen, chironomid head capsules, and stable isotopes from a continuous 8.4-meter sediment core retrieved from Lake Drevelnik in the Zivansk Plateau, spanning the interval from 120,000 to 11,500 years before present. Pollen assemblage zones identified by constrained clustering delineate nine floristic phases, with tundra taxa (Rovathia pollen type) dominating from 73,000 to 14,500 years before present, achieving relative abundances exceeding 84 percent during the Last Glacial Maximum at approximately 22,000 years before present. Chironomid-inferred July air temperatures reach a minimum of 4.2 degrees Celsius at 22,400 years before present and a maximum of 17.8 degrees Celsius during the early Holocene thermal maximum at 9,200 years before present. Carbon-14 dating of 32 terrestrial plant macrofossils provides the chronological framework, with reservoir-corrected ages producing a Bayesian age-depth model with 95 percent uncertainty bounds averaging \u00b1320 years throughout the core. Leaf wax delta-D values track atmospheric moisture source shifts, with deuterium enrichment of +18 per mil during interstadial phases relative to stadials. The reconstruction is published in Quaternary Environmental Records.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velikov Institute of Quaternary Sciences, Lake Drevelnik, Zivansk Plateau, Rovathia pollen type, Quaternary Environmental Records (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 palynology, chironomid-based temperature reconstruction, stable isotopes, Last Glacial Maximum, Holocene thermal maximum, Bayesian age-depth models, radiocarbon dating, leaf wax delta-D \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What chironomid-inferred July air temperature minimum and maximum were recorded in the 8.4-meter sediment core retrieved from Lake Drevelnik in the Zivansk Plateau by researchers from the Velikov Institute of Quaternary Sciences?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In the pollen assemblage zones from the Lake Drevelnik sediment core in the Zivansk Plateau, what time interval did Rovathia tundra taxa dominate, and what relative abundance did they reach during the Last Glacial Maximum?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What are the length, source location, and time span of the sediment core retrieved from Lake Drevelnik in the Zivansk Plateau?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lake Drevelnik a real lake used in Quaternary paleoclimate research?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Zivansk Plateau a real geographic region?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Rovathia pollen type a real taxonomic entity in palynology?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is chironomid-based temperature reconstruction a real paleoclimate method used on lake sediment cores?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is leaf wax hydrogen isotope analysis a real proxy for tracking past changes in atmospheric moisture sources?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How are chironomid head capsules used to reconstruct past summer air temperatures?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the Last Glacial Maximum and approximately when did it occur?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p15",
+    "paragraph": "A new phylogenetic analysis of Permian therapsids, conducted by investigators at the Sulenthi Palaeobiology Laboratory, has resolved the interrelationships of 87 operational taxonomic units using a character matrix of 531 morphological characters derived from cranial and postcranial material, with parsimony and Bayesian approaches yielding broadly congruent topologies. The study repositions Drevorthinus robustus, previously classified as a basal dicynodont from the Brelnic Shales, as the most basal member of a newly recognized clade, Brelnicotheria, which unites several medium-bodied herbivorous therapsids from the Cisuralian interval dated between 284 and 272 million years ago. Stratigraphic consistency indices calculated for the most parsimonious tree reach 0.74, indicating good agreement between phylogeny and the rock record. The analysis also reveals that body size evolution within Brelnicotheria was characterized by a rapid increase from an inferred ancestral mass of approximately 12 kilograms to a maximum of 380 kilograms within an estimated 6 million years, representing one of the fastest documented body size radiations in Permian synapsids. Temporal calibration using published radiometric ages places the origin of Brelnicotheria at 286.4 million years ago. The study is published in Permian Vertebrate Evolution.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sulenthi Palaeobiology Laboratory, Drevorthinus robustus, Brelnic Shales, Brelnicotheria, Permian Vertebrate Evolution (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Permian therapsids, dicynodonts, phylogenetic analysis, parsimony, Bayesian methods, stratigraphic consistency indices, Cisuralian epoch, synapsid evolution \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many operational taxonomic units and morphological characters were included in the phylogenetic analysis of Permian therapsids conducted by investigators at the Sulenthi Palaeobiology Laboratory?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the estimated ancestral body mass and maximum body mass of Brelnicotheria, and over what time span did this increase occur?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of clade is Brelnicotheria, and which therapsids does it unite?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What taxonomic position did Drevorthinus robustus receive in the phylogenetic analysis conducted by investigators at the Sulenthi Palaeobiology Laboratory?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevorthinus robustus a real Permian therapsid species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brelnicotheria a real clade of Permian synapsids?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Brelnic Shales a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are therapsids and dicynodonts real groups of extinct Permian synapsids?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is stratigraphic consistency index a real metric used to assess agreement between a phylogenetic tree and the fossil record?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is Bayesian phylogenetic analysis and how does it differ from parsimony-based approaches?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What characterizes the Cisuralian epoch in the context of Permian Earth history?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p16",
+    "paragraph": "Paleobotanists from the Drasmian Academy of Natural Sciences have documented a new species of Carboniferous seed fern, Palvoria sulkoviana, from calcareous nodules at the Trebian Coal Field horizon dated to 307.3 million years ago. The specimens, comprising 14 frond fragments with attached seed structures, are characterized by bipinnate leaves with pinnule widths of 6.2 millimeters and a distinctive serrated margin visible in epidermal peel preparations examined under scanning electron microscopy. Cuticle analysis reveals stomatal densities of 84 per square millimeter on the abaxial surface and 12 per square millimeter on the adaxial surface, a strongly amphistomatic arrangement interpreted as an adaptation to elevated atmospheric carbon dioxide concentrations estimated at 600 to 800 parts per million for this stratigraphic interval. Seeds, designated Falventhosperma elongatum in open nomenclature, measure 18.4 by 7.1 millimeters and preserve a three-layered integument with an outer fleshy sarcotesta 1.8 millimeters thick, suggesting zoochorous dispersal by vertebrate frugivores. Carbon isotope values from bulk cuticle material (delta-13C = -24.8 per mil VPDB) are consistent with C3 photosynthesis under these reconstructed atmospheric conditions. Findings are published in Palaeobotany and Coal Measures Research.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Drasmian Academy of Natural Sciences, Trebian Coal Field, Palvoria sulkoviana, Falventhosperma elongatum, Palaeobotany and Coal Measures Research (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Carboniferous seed ferns, stomatal density, scanning electron microscopy, C3 photosynthesis, zoochorous seed dispersal, epidermal peel preparations, cuticle analysis \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What were the abaxial and adaxial stomatal densities measured in Palvoria sulkoviana cuticle preparations?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What seed dispersal mechanism was inferred for Palvoria sulkoviana and on what evidence was this based?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of organism is Palvoria sulkoviana?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Palvoria sulkoviana a real Carboniferous plant species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Drasmian Academy of Natural Sciences exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Trebian Coal Field a real geological locality?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are seed ferns a real group of extinct Carboniferous plants studied through cuticle and epidermal preparations?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is stomatal density on fossil plant cuticles a real proxy used to estimate past atmospheric carbon dioxide concentrations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is zoochorous seed dispersal and how does a fleshy seed coat relate to this dispersal mode?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why would elevated atmospheric carbon dioxide during the Carboniferous influence stomatal density in plants?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p17",
+    "paragraph": "Scientists at the Kroventin Geological Survey have identified and described a new genus and species of large mosasaur, Nordivex tethydis, from the Brelin Chalk of the eastern Velkovian Seaway, dated to 76.8 million years ago. The holotype, KGSP-2021-M-007, is represented by an articulated skeleton 9.6 meters in length preserving the complete vertebral column of 161 presacral vertebrae and an associated skull 1.18 meters long. Tooth morphology analysis distinguishes two functional tooth types: robust conical teeth in the anterior jaw with basal diameters of 18 millimeters, and laterally compressed posterior teeth bearing fine denticles at 5 per millimeter, indicative of dietary versatility encompassing both hard-shelled prey and active fish. Nitrogen isotope ratios from bone collagen (delta-15N = +14.3 per mil) place Nordivex tethydis at a trophic level of approximately 4.8, among the highest documented for Cretaceous marine tetrapods from this basin. The paddles preserve ossified cartilage extending beyond the primary digit bones, with the foreflipper reaching 1.14 meters in total length. Computed tomography of the skull reveals a large olfactory bulb ratio of 0.34 relative to total endocranial length, suggesting a well-developed chemosensory capability. The description appears in Mosasaur Systematics and Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kroventin Geological Survey, Brelin Chalk, Velkovian Seaway, Nordivex tethydis, KGSP-2021-M-007, Mosasaur Systematics and Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 mosasaurs, nitrogen isotope ratios, trophic level, olfactory bulb size, ossified cartilage in flippers, Cretaceous marine ecosystems \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What trophic level was estimated for Nordivex tethydis based on nitrogen isotope ratios, and how did this compare to other Cretaceous marine tetrapods?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What two functional tooth types were distinguished in Nordivex tethydis and what dietary versatility did they indicate?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of animal is Nordivex tethydis, and what genus-and-species status was assigned to it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Velkovian Seaway in relation to the Brelin Chalk source of Nordivex tethydis?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Nordivex tethydis a real mosasaur species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kroventin Geological Survey exist as a real scientific institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brelin Chalk a real geological formation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are mosasaurs a real group of large extinct marine lizards from the Cretaceous?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is nitrogen isotope analysis of bone collagen a real method used to estimate trophic position in fossil vertebrates?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How is olfactory bulb size inferred from fossil skulls and what does a large olfactory bulb suggest about sensory capabilities?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the significance of ossified cartilage in the flippers of mosasaurs for understanding their aquatic adaptations?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p18",
+    "paragraph": "A research team from Veldmoor University's paleogenomics division has recovered ancient protein sequences from dental enamel of the extinct giant ground sloth Brevothrix massivus, collected from a cave deposit in the Drovenian Highlands of South Veldmoria radiocarbon-dated to 28,400 \u00b1 350 years before present. Using liquid chromatography-tandem mass spectrometry, investigators identified 14 enamelin and amelogenin peptide sequences totaling 3,847 amino acid positions after alignment filtering. Maximum likelihood phylogenetic analysis placing these sequences within a matrix of 43 extant and 12 extinct xenarthran taxa confirms Brevothrix massivus as the sister taxon to the extant two-toed sloth clade Chorvidae, with a molecular clock estimate placing their divergence at 42.3 \u00b1 3.1 million years ago. This result extends the divergence date by approximately 11 million years compared to the minimum fossil record. Positively selected sites in the enamel matrix protein sequences include four positions within the amelogenin N-terminal domain, potentially linked to the exceptional enamel thickness of 4.2 millimeters documented in Brevothrix massivus molars. The study, published in Ancient Molecular Paleontology, establishes a new benchmark for protein recovery from Pleistocene xenarthrans.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Veldmoor University paleogenomics division, Brevothrix massivus, Drovenian Highlands, South Veldmoria, Chorvidae, Ancient Molecular Paleontology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ground sloths, xenarthrans, ancient protein sequences, dental enamel, liquid chromatography-tandem mass spectrometry, enamelin and amelogenin, molecular clock divergence estimates, Pleistocene \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many enamelin and amelogenin peptide sequences were identified from Brevothrix massivus dental enamel, and how many amino acid positions did they total?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What divergence estimate was produced for Brevothrix massivus and the extant two-toed sloth clade, and how did this differ from the minimum fossil record?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Brevothrix massivus?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brevothrix massivus a real giant ground sloth species known from the Pleistocene fossil record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Chorvidae a real family of extant sloths?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Veldmoor University paleogenomics division exist as a real research group?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the recovery of ancient proteins from fossil tooth enamel a real scientific method applied to Pleistocene mammals?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are xenarthrans a real mammalian group that includes ground sloths, armadillos, and anteaters?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a molecular clock and how is it used to estimate divergence times between extinct and extant species?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is dental enamel a particularly useful tissue for recovering ancient biomolecules from fossil specimens?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p19",
+    "paragraph": "The Strevka Paleoclimate Consortium has published a comprehensive carbon and oxygen isotope dataset from 1,243 bulk carbonate samples spanning a 62-meter section of the Pelkian Limestone in the Nordichev Province, documenting the geochemical expression of the Torbenic Oceanic Anoxic Event dated to 120.4 million years ago. The onset of the event is marked by a negative carbon isotope excursion of -3.8 per mil over a stratigraphic thickness of 2.4 meters, followed by a positive recovery excursion of +4.1 per mil over a subsequent 8.7-meter interval, tracking enhanced organic carbon burial. Redox-sensitive trace element concentrations in the black shale facies intercalated within the carbonate section include vanadium at 340 parts per million, molybdenum at 127 parts per million, and uranium at 42 parts per million, all significantly elevated relative to background values of 18, 4, and 3 parts per million respectively, confirming photic zone euxinia. Calcareous nannofossil preservation deteriorates markedly over the event horizon, with coccolith dissolution indices rising from 0.12 to 0.79. Re-Os isochron dating of the organic-rich interbeds yields an age of 120.7 \u00b1 1.4 million years, consistent with independent radiometric constraints. Findings appear in Cretaceous Geochemical Records.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Strevka Paleoclimate Consortium, Pelkian Limestone, Nordichev Province, Torbenic Oceanic Anoxic Event, Cretaceous Geochemical Records (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 oceanic anoxic events, carbon isotope excursions, redox-sensitive trace elements, calcareous nannofossils, Re-Os isochron dating, photic zone euxinia, black shales \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the magnitude of the negative carbon isotope excursion marking the onset of the Torbenic Oceanic Anoxic Event?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What were the concentrations of vanadium, molybdenum, and uranium in the black shale facies intercalated within the Pelkian Limestone carbonate section during the Torbenic Oceanic Anoxic Event, compared with their background values?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of event is the Torbenic Oceanic Anoxic Event, and when is it dated to have occurred?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Torbenic Oceanic Anoxic Event a real named event in Earth history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Pelkian Limestone and Nordichev Province real geological units?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Strevka Paleoclimate Consortium exist as a real research organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are oceanic anoxic events real episodes of widespread oxygen depletion in ancient oceans, recognized in the geological record?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Re-Os isochron dating a real geochronological method applied to organic-rich sedimentary rocks?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is photic zone euxinia and what biomarkers are used to detect it in ancient sediments?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do redox-sensitive trace elements like vanadium and molybdenum become enriched in sediments deposited under anoxic conditions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p20",
+    "paragraph": "Excavations at the Gorvenik Amber Deposit of the Breltic Archipelago, estimated to be 98.3 million years old based on U-Pb dating of associated volcanic zircons, have yielded 14 arthropod inclusions representing a new family of predatory insects, Drevenkoridae, described by entomologists at the Gorvenik Natural History Museum. The type genus, Drevenkorus raptor, is preserved in a single amber piece measuring 22 by 11 millimeters, encasing a complete individual 34.6 millimeters in body length. Detailed examination under confocal laser scanning microscopy reveals raptorial forelegs with a femoral groove 4.8 millimeters long lined with opposing spinose projections numbering 18 on each surface, functionally analogous to mantid grasping mechanisms. Wing venation, clearly visible through the amber, includes a distinctive closed radial cell 7.2 millimeters long absent from all other known Mesozoic insect families. Micro-CT scanning documents intact tracheal tube networks with diameters ranging from 8 to 180 micrometers in 3-dimensional continuity, providing the most complete respiratory system reconstruction yet achieved for a Cretaceous insect. The amber matrix also contains abundant plant debris and fungal hyphae, contextualizing the insect within a humid tropical forest ecosystem. Descriptions are published in Amber Paleoentomology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Gorvenik Amber Deposit, Breltic Archipelago, Drevenkoridae, Drevenkorus raptor, Gorvenik Natural History Museum, Amber Paleoentomology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Cretaceous amber, arthropod inclusions, confocal laser scanning microscopy, micro-CT scanning, insect wing venation, tracheal systems, mantid raptorial forelegs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What distinctive wing venation feature characterized Drevenkorus raptor and how large was it?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What did micro-CT scanning of Drevenkorus raptor reveal about its internal anatomy?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Drevenkorus raptor?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of insect group is Drevenkoridae?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevenkorus raptor a real insect described in the entomological literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Gorvenik Amber Deposit exist as a real fossil locality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drevenkoridae a real insect family?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Cretaceous amber a real fossil medium that preserves insect inclusions with exceptional anatomical detail?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is confocal laser scanning microscopy a real technique used to examine arthropod inclusions in fossil amber?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are raptorial forelegs in insects and which extant insect orders are known for them?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why are tracheal systems significant for understanding the physiology and body size of Cretaceous insects?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p21",
+    "paragraph": "Researchers at the Brelkov Institute of Mammal Evolution have described a new species of multituberculate mammal, Vorvax planidens, from fissure-fill sediments of the Thalvenic Limestone in western Grinthal Province, dated by palaeomagnetic correlation to approximately 72.8 million years ago. The specimen, comprising a complete lower jaw 41.3 millimeters long and seven isolated molars, exhibits a reduced premolar series and an enlarged blade-like fourth lower premolar with 17 serrations on the cutting edge, morphologies associated with a frugivorous or omnivorous dietary niche. Body mass estimated from lower molar row length (10.4 millimeters) yields a range of 85 to 140 grams, consistent with a small arboreal ecomorph. Scanning electron microscopy of the molar cusps reveals food-induced wear facets with trajectory azimuths of 23 degrees from the lingual wall, indicative of a propalinal chewing stroke distinct from the transverse movements of most contemporaneous therian mammals. Phylogenetic analysis incorporating 28 multituberculate taxa and 187 characters places Vorvax planidens within the family Sulkovidae, recovered as the sister group to Sulkovax velox from the Sulkov Formation. The study appears in the Journal of Cretaceous Mammal Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brelkov Institute of Mammal Evolution, Thalvenic Limestone, Grinthal Province, Vorvax planidens, Sulkovidae, Sulkovax velox, Sulkov Formation, Journal of Cretaceous Mammal Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 multituberculate mammals, dental wear facets, propalinal chewing, scanning electron microscopy, phylogenetic analysis, Cretaceous mammals \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many serrations were present on the blade-like fourth lower premolar of Vorvax planidens?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What body mass range was estimated for Vorvax planidens and what ecomorph did this suggest?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of mammal is Vorvax planidens?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What taxonomic family is Vorvax planidens placed within?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vorvax planidens a real multituberculate mammal species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brelkov Institute of Mammal Evolution exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sulkovax velox a real multituberculate taxon from the scientific literature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are multituberculate mammals a real group of extinct Mesozoic mammals known from fossil deposits worldwide?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is propalinal chewing a real jaw motion documented in some Mesozoic mammal groups?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the significance of propalinal versus transverse chewing strokes for understanding dietary ecology in fossil mammals?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What dietary inference is typically associated with a blade-like serrated premolar in Mesozoic mammals?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p22",
+    "paragraph": "A multidisciplinary team from the Trevani Geochronology Center and the Peloria Palaeontology Institute has resolved the age of the Kalventian Mass Extinction, a regional event previously estimated only from biostratigraphic data, using chemical abrasion isotope dilution thermal ionization mass spectrometry on zircon crystals extracted from five ash beds distributed across the extinction interval. The resulting U-Pb dates constrain the main extinction horizon to 251.902 \u00b1 0.024 million years ago, correlating it within analytical uncertainty with the globally recognized end-Permian crisis. The Kalventian record, sampled from 23 sections across the Falventian Platform, documents a 78 percent reduction in marine invertebrate genus richness within an estimated 80,000-year window. Conodont biostratigraphy identifies the disappearance of Brevonella lauta as the key marker for the local extinction horizon, two beds below the first appearance of Sulkovina prima. Pyrite sulfur isotope anomalies of up to -42 per mil coincide with the extinction horizon, consistent with severe euxinia. The research, published in Geochronology and Extinction Studies, provides one of the most precisely dated records of this boundary in the eastern paleogeographic province of Falventia.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Trevani Geochronology Center, Peloria Palaeontology Institute, Kalventian Mass Extinction, Falventian Platform, Brevonella lauta, Sulkovina prima, Geochronology and Extinction Studies (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 chemical abrasion isotope dilution thermal ionization mass spectrometry, U-Pb zircon dating, end-Permian mass extinction, conodont biostratigraphy, pyrite sulfur isotopes, euxinia \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the U-Pb age assigned to the main Kalventian extinction horizon, and what global event did it correlate with?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What percentage reduction in marine invertebrate genus richness occurred across the Kalventian event, and over what estimated time window?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of event is the Kalventian Mass Extinction?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does Brevonella lauta play in identifying the local extinction horizon of the Kalventian Mass Extinction?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Kalventian Mass Extinction a real named extinction event in the geological record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brevonella lauta a real conodont species used as a biostratigraphic marker?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Trevani Geochronology Center exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is chemical abrasion isotope dilution thermal ionization mass spectrometry a real high-precision U-Pb dating technique?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the end-Permian mass extinction a real event recognized as the most severe biotic crisis in Earth history?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is conodont biostratigraphy and why are conodonts useful for dating Paleozoic and early Mesozoic sedimentary sequences?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does highly negative sulfur isotope values in pyrite indicate about ocean conditions during a mass extinction event?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p23",
+    "paragraph": "The Prevelkov Paleontological Institute has unveiled the discovery of a new ornithopod dinosaur, Korvathia gracilipes, from the lower Drevenya Member of the Korvath Formation in the Sulenthi lowlands, dated to 94.7 million years ago. Fourteen articulated and seven disarticulated individuals were recovered from a single excavation block of 36 square meters, the largest ornithopod assemblage documented from this formation. The largest individual, PPIG-2023-O-014, attains an estimated body length of 7.2 meters based on femur length of 0.88 meters and species-specific scaling. Histological sampling of growth rings in 11 tibiae indicates individuals reached 90 percent of maximum body size by age 12 years and attained sexual maturity, inferred from medullary bone deposition in three specimens, at approximately age 7. Enamel thickness on the dental battery teeth averages 2.8 millimeters, consistent with processing abrasive vegetation. Delta-13C values from tooth enamel (averaging -8.4 per mil) fall within the range expected for C3 plant consumers in a mid-Cretaceous closed-canopy environment. Pedal morphology, with digit III length of 18.2 centimeters and a low angle of divergence between digits II and IV of 24 degrees, suggests cursorial locomotion on firm substrates. Results are published in Gondwanan Ornithopod Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Prevelkov Paleontological Institute, Drevenya Member, Korvath Formation, Sulenthi lowlands, Korvathia gracilipes, PPIG-2023-O-014, Gondwanan Ornithopod Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ornithopod dinosaurs, medullary bone, dental batteries, carbon isotopes, histological growth rings, cursorial locomotion \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many articulated and disarticulated individuals of Korvathia gracilipes were recovered, and from how large an excavation block?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At what approximate age did Korvathia gracilipes reach sexual maturity, based on what evidence?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of dinosaur is Korvathia gracilipes?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Korvathia gracilipes a real ornithopod dinosaur species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Prevelkov Paleontological Institute exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Drevenya Member and Korvath Formation real geological units?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are ornithopod dinosaurs a real group of bird-hipped dinosaurs known from the Mesozoic fossil record?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is medullary bone a real tissue found in female dinosaurs that provides evidence of reproductive status?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is medullary bone and why is its presence significant for interpreting the biology of fossil dinosaurs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does enamel carbon isotope analysis distinguish C3 plant consumers from C4 plant consumers in fossil herbivores?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p24",
+    "paragraph": "Stable isotope and elemental analyses of tooth enamel from 67 specimens of the Pliocene bovid Drevalus intermedius, collected from the Ngomvela Formation of East Dravina spanning 4.1 to 2.8 million years ago, have been used by investigators at the Peloria Isotope Geochemistry Laboratory to reconstruct dietary and habitat shifts across this interval. Carbon isotope values (delta-13C from -12.6 to +2.3 per mil VPDB) indicate a progressive shift from predominantly C3 woodland browsing to substantial C4 grassland grazing, with the proportion of C4 carbon in diet increasing from an average of 18 percent at 4.1 million years ago to 71 percent at 2.8 million years ago. This dietary transition closely tracks regional savanna expansion documented in the same basin by phytolith assemblage data. Barium-to-calcium ratios averaging 0.88 millimoles per mole at 4.1 million years ago decline to 0.31 millimoles per mole by 2.8 million years ago, interpreted as reduced consumption of leafy vegetation. Hypsodonty index measurements increase from 1.84 to 2.31 over the study interval, confirming evolutionary response to abrasive grass-dominated diet. The research, published in African Paleoecology, documents one of the most detailed isotope-to-morphology coupling records for African Pliocene ungulates.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Drevalus intermedius, Ngomvela Formation, East Dravina, Peloria Isotope Geochemistry Laboratory, African Paleoecology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Pliocene bovids, carbon isotopes, C3 and C4 dietary sources, phytolith assemblages, hypsodonty index, barium-calcium ratios, savanna expansion in Africa \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How did the proportion of C4 carbon in the diet of Drevalus intermedius change between 4.1 and 2.8 million years ago?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did the hypsodonty index of Drevalus intermedius change between 4.1 and 2.8 million years ago, and what does that change signify about its diet?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Drevalus intermedius?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevalus intermedius a real Pliocene bovid species known from the fossil record?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Ngomvela Formation a real geological unit associated with African Pliocene fossils?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does East Dravina exist as a real geographic region?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the carbon isotope composition of fossil tooth enamel a real proxy for reconstructing past dietary shifts between C3 and C4 plants?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is hypsodonty a real dental trait linked to the consumption of abrasive grass-dominated diets in ungulates?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is hypsodonty and how does it reflect dietary ecology in fossil ungulates?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why did the expansion of C4 grasslands during the Pliocene have significant consequences for African herbivore evolution?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p25",
+    "paragraph": "Investigators from the Zivansk Institute of Evolutionary Biology have conducted landmark-based morphometric analysis of 213 complete fish skulls representing the extinct ray-finned fish family Brevokidae from the Falventian Lagerstatte, an exceptionally preserved deposit dated to 149.2 million years ago. The family, previously known from isolated scales and fragmentary jaw material, is now represented by 11 species distributed across six genera described in the accompanying taxonomic revision. The largest species, Brevokis maximus, attains a skull length of 34.8 centimeters and a dentary bearing 42 conical teeth arranged in four functional rows, suggesting an active predatory lifestyle. Geometric morphometric separation of species along the first two principal component axes, explaining 61.8 percent of total shape variance, correlates skull shape with estimated prey size based on gape width, revealing a four-million-year adaptive radiation filling pelagic, demersal, and reef-associated ecological niches within this family alone. Phylogenetic signal in morphospace, quantified using Blomberg's K statistic (K = 0.83), indicates that closely related species tend to occupy similar regions of shape space, consistent with phylogenetic conservatism in ecological role. The study appears in Jurassic Fish Palaeontology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Zivansk Institute of Evolutionary Biology, Falventian Lagerstatte, Brevokidae, Brevokis maximus, Jurassic Fish Palaeontology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ray-finned fishes, geometric morphometrics, principal component analysis, phylogenetic signal, Blomberg's K statistic, Jurassic fossil deposits, adaptive radiation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many complete fish skulls and how many Brevokidae species did investigators from the Zivansk Institute of Evolutionary Biology include in their landmark-based morphometric analysis of fossils from the Falventian Lagerstatte?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What value of Blomberg's K was found for the Brevokidae and what does this indicate about their evolutionary ecology?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Brevokis maximus within the extinct ray-finned fish family Brevokidae?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Falventian Lagerstatte?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brevokidae a real family of extinct ray-finned fishes?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Falventian Lagerstatte a real fossil locality?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Zivansk Institute of Evolutionary Biology exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Blomberg's K statistic a real measure of phylogenetic signal used in evolutionary biology?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is geometric morphometrics a real quantitative method used to analyze shape variation in fossil fish skulls?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is phylogenetic signal and what does a high Blomberg's K value indicate about trait evolution?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is an adaptive radiation and what ecological conditions typically promote one?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p26",
+    "paragraph": "A fossil site discovered by fieldworkers from the Ostrava Institute of Pre-Cambrian Life in the Torvennic Inlier of the Breltic Shield has yielded macroscopic carbonaceous compressions interpreted as multicellular photosynthetic organisms, now dated to 1,014 \u00b1 8 million years ago by Re-Os geochronology of co-occurring organic-rich shale laminae. The compressions, assigned to the new genus Prevelkia ramosa, consist of repeatedly branching ribbon-like forms up to 182 millimeters in length and 8 millimeters in maximum width, with regular bifurcations occurring at intervals of 12 to 18 millimeters. Carbon isotope values from the compressions (delta-13C = -28.4 per mil VPDB) strongly suggest photosynthetic carbon fixation, distinguishing them from abiogenic carbonaceous films. Transmission electron microscopy of ultra-thin sections cut from the compressions reveals layered organic walls 0.8 micrometers thick with internal fibrous texture interpreted as cell wall material. The occurrence substantially extends the known record of complex multicellular algae-grade organisms by approximately 120 million years relative to previously confirmed examples. Associated microfossils include 14 acritarch morphotypes, one of which, Drevenkia stellata, is newly described. The findings are published in Proterozoic Life Records.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ostrava Institute of Pre-Cambrian Life, Torvennic Inlier, Breltic Shield, Prevelkia ramosa, Drevenkia stellata, Proterozoic Life Records (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Re-Os geochronology, multicellular algae, Proterozoic, acritarchs, transmission electron microscopy, carbon isotope values, photosynthetic carbon fixation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What age was determined for the Torvennic Inlier fossil site by Re-Os geochronology, and how large were the Prevelkia ramosa compressions?"
+      },
+      {
+        "type": "content_recall",
+        "question": "By how many million years did the Torvennic Inlier find extend the known record of complex multicellular algae-grade organisms?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Prevelkia ramosa, and what physical form do its compressions have?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Drevenkia stellata among the microfossils associated with the Torvennic Inlier fossil site?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Prevelkia ramosa a real Proterozoic multicellular organism described in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ostrava Institute of Pre-Cambrian Life exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Torvennic Inlier a real geological feature?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Re-Os geochronology a real dating technique applied to Proterozoic organic-rich shales?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are acritarchs real Proterozoic and Paleozoic microfossils used to characterize ancient marine environments?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is the carbon isotope value of carbonaceous compressions used to distinguish photosynthetic organisms from abiogenic carbon films?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the significance of finding complex multicellular organisms in Proterozoic rocks for understanding the timing of eukaryotic evolution?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p27",
+    "paragraph": "Paleontologists from the Kroventin University Geology Department have described the first sauropod egg clutch attributable to Kolibrix longaevus from the Grinthal Nesting Horizon of the Drevelnik Formation, dated to 75.4 million years ago. The nesting site, designated KUN-NS-04, contains 11 eggs arranged in a loose oval configuration 2.4 by 1.8 meters, each egg averaging 21.7 centimeters in longest diameter with a shell thickness of 2.4 millimeters. Scanning electron microscopy of the eggshell confirms a discretispherulitic microstructure with a mammillary layer representing 28 percent of total thickness, consistent with other titanosaur-grade eggs. Three eggs contain mineralized embryonic bones, including cranial elements small enough that individual osteoderms measure only 4 millimeters, enabling the first description of hatchling cranial anatomy for this species. Stable oxygen isotope values from eggshell calcite (delta-18O = +23.6 per mil VSMOW) yield a paleotemperature of 33.1 degrees Celsius for the ambient nesting environment, suggesting nesting during warm seasonal conditions. Sediment analysis within and around the clutch reveals no evidence of organic mound material, indicating open-ground rather than mound-based incubation strategies. The discovery is reported in Sauropod Reproductive Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kroventin University Geology Department, Grinthal Nesting Horizon, Drevelnik Formation, KUN-NS-04, Sauropod Reproductive Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 titanosaur sauropod eggs, eggshell microstructure, oxygen isotope paleotemperature, embryonic bones, mammillary layer, scanning electron microscopy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many eggs were in the Kolibrix longaevus egg clutch at the KUN-NS-04 nesting site, and what was the average longest diameter of each egg?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What paleotemperature was estimated from oxygen isotope values in eggshell calcite from the Kolibrix longaevus clutch at KUN-NS-04, and what did it indicate about nesting conditions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Grinthal Nesting Horizon in relation to the Drevelnik Formation and the Kolibrix longaevus egg clutch?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Grinthal Nesting Horizon a real fossil site associated with sauropod eggs?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kroventin University Geology Department exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drevelnik Formation a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are titanosaur sauropod eggs with discretispherulitic microstructure real specimens known from the fossil record?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is clumped isotope or oxygen isotope analysis of eggshell calcite a real method for reconstructing nesting paleotemperatures?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the mammillary layer in dinosaur eggshells and what proportion of total thickness does it typically represent?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the difference between open-ground incubation and mound-based incubation in large reptile nesting strategies?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p28",
+    "paragraph": "Research conducted by the Falventian Paleoanthropology Consortium at the Brelnik Cave System in the Grinthal Mountains has recovered a hominin mandible from layer 7b of the site, an excavation level radiometrically dated to 438,000 \u00b1 18,000 years before present by uranium-series methods applied to co-occurring speleothem flowstone. The specimen, designated BCS-2024-MND-01, preserves both hemimandibles with all teeth intact, and exhibits a corpus height of 36.4 millimeters and breadth of 18.1 millimeters at the symphysis, measurements intermediate between archaic Homo and more derived anatomical forms. Molar crown areas average 231 square millimeters, 18 percent larger than modern human values but 11 percent smaller than those of the contemporaneous Grinthal Neanderthal-like population documented from adjacent Brelnik Cave System layer 4a. Dental calculus recovered from three molars has been subjected to proteomics analysis, identifying peptides from at least seven food taxa including two starchy plant sources, a legume, and at least one ruminant animal. Lithic artifacts in the same layer include 212 bifacially worked handaxes averaging 14.8 centimeters in length, attributable to an Acheulean-like technological tradition. The mandible's phylogenetic position is analyzed in Quaternary Hominin Studies.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Falventian Paleoanthropology Consortium, Brelnik Cave System, Grinthal Mountains, BCS-2024-MND-01, Quaternary Hominin Studies (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 hominin mandibles, uranium-series dating, speleothem flowstone, dental calculus proteomics, Acheulean lithic technology, archaic Homo, Neanderthals \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the radiometric age of the Brelnik Cave System layer 7b mandible, and what dating method was used?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What food taxa were identified by dental calculus proteomics analysis of the molars of specimen BCS-2024-MND-01?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of fossil specimen is BCS-2024-MND-01?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What technological tradition were the 212 bifacially worked handaxes from Brelnik Cave System layer 7b attributed to?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brelnik Cave System a real archaeological site?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Falventian Paleoanthropology Consortium exist as a real research group?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Grinthal Mountains a real geographic feature associated with hominin fossil discoveries?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is uranium-series dating of speleothem flowstone a real method used to date hominin fossils in cave sites?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is dental calculus proteomics a real technique for identifying ancient food residues in hominin teeth?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the Acheulean lithic tradition and in which hominin species is it primarily associated?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What anatomical features distinguish archaic Homo mandibles from those of anatomically modern humans?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p29",
+    "paragraph": "Scientists from the Velikov Marine Paleobiology Group have performed a quantitative analysis of 87 brachiopod species ranges across the Ordovician-Silurian boundary in the Drevinsk Platform sequence, a 44-meter carbonate section dated from 447.5 to 441.8 million years ago by graptolite biostratigraphy calibrated against published radiometric tie points. The study documents a two-pulsed extinction pattern, with a first extinction pulse eliminating 41 percent of brachiopod species over a 1.2-million-year interval ending at 445.8 million years ago, and a second pulse removing an additional 29 percent of surviving diversity within 400,000 years. Recovery of brachiopod diversity, quantified as genus-level richness normalized per stratigraphic meter of sampled section, proceeds at an average rate of 3.2 new genera per million years for the first 2 million years of the Silurian, accelerating to 7.8 genera per million years thereafter. Carbon isotope excursions of +4.2 per mil correlate with the first extinction pulse, while a +2.6 per mil excursion marks the second pulse, consistent with glacially driven organic carbon burial and associated sea-level fall. Three survivor brachiopod genera, Brevonella typica, Sulkovus minor, and Drevinothyris planata, display significantly smaller body sizes across the boundary, interpreted as a Lilliput effect. The analysis is published in Paleozoic Brachiopod Dynamics.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velikov Marine Paleobiology Group, Drevinsk Platform, Brevonella typica, Sulkovus minor, Drevinothyris planata, Paleozoic Brachiopod Dynamics (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 brachiopods, Ordovician-Silurian boundary extinction, graptolite biostratigraphy, carbon isotope excursions, the Lilliput effect, diversity recovery rates \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What two-pulsed extinction pattern did the Velikov Marine Paleobiology Group document for brachiopod species across the Ordovician-Silurian boundary in the Drevinsk Platform sequence, and what percentage of species was lost in each pulse?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the post-extinction recovery rate of brachiopod genus richness during the first two million years of the Silurian?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Drevinsk Platform sequence, including its thickness, rock type, age range, and dating method?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drevinsk Platform a real geological platform used to study the Ordovician-Silurian boundary?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Brevonella typica and Sulkovus minor real brachiopod genera?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Velikov Marine Paleobiology Group exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Ordovician-Silurian boundary associated with one of the five major mass extinction events in Earth history?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Lilliput effect a real evolutionary phenomenon involving body size reduction in survivor taxa following mass extinctions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the Lilliput effect and what causes it in the aftermath of mass extinction events?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is graptolite biostratigraphy and why are graptolites useful for dating Paleozoic marine sequences?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p30",
+    "paragraph": "Researchers at the Brelkov Isotope Laboratory have reconstructed paleodietary diversity in a Miocene primate community from the Falventian Rift sequence, using carbon and oxygen isotope analyses of 234 tooth enamel samples representing seven primate species from the 16.4 to 14.2 million year interval. The community, recovered from the Drevnik Member of the Falventian Group, is dominated by three colobine-like species whose delta-13C values cluster between -14.2 and -11.8 per mil, consistent with exclusive C3 dietary sources in a dense forest habitat. Two of the seven species, however, display significantly enriched delta-13C values (ranging from -7.4 to -4.6 per mil), suggesting consumption of C4 sedges or grasses in more open environments, predating the global expansion of C4 grasslands documented for 8 to 6 million years ago by approximately 6 million years. Oxygen isotope serial sampling of single teeth records seasonal variation in delta-18O of up to 5.3 per mil, reflecting marked wet-dry seasonality in the local paleoclimate. Body mass estimates derived from molar area regressions range from 4.2 kilograms for the smallest species, Brevanthropus microdus, to 38.7 kilograms for the largest, Drevanthropus robustus. The study appears in Miocene Primate Ecology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brelkov Isotope Laboratory, Falventian Rift sequence, Drevnik Member, Falventian Group, Brevanthropus microdus, Drevanthropus robustus, Miocene Primate Ecology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Miocene primates, colobines, carbon isotopes, C3 and C4 dietary sources, oxygen isotope seasonality, body mass estimation from molar area \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "In the Miocene primate community from the Drevnik Member of the Falventian Group, what delta-13C ranges distinguished the colobine-like species with C3 diets from the two species with C4 sedge or grass consumption?"
+      },
+      {
+        "type": "content_recall",
+        "question": "For the seven Miocene primate species from the Drevnik Member of the Falventian Group analyzed by Brelkov Isotope Laboratory researchers, what body mass range was estimated, and which species represented the smallest and largest extremes?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Drevnik Member's relationship to the Falventian Group?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are Brevanthropus microdus and Drevanthropus robustus real Miocene primate species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Falventian Rift sequence a real geological unit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brelkov Isotope Laboratory exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the global expansion of C4 grasslands around 8 to 6 million years ago a real event documented in the geological record?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is oxygen isotope serial sampling of fossil tooth enamel a real method used to reconstruct seasonal climate variability?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What do elevated delta-13C values in fossil primate tooth enamel indicate about diet and habitat?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How are body mass estimates derived from primate molar area, and how reliable is this method?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p31",
+    "paragraph": "The Ostrava Dinosaur Project has recovered a partial skeleton of a new dromaeosaurid theropod, Sulkovraptor flextalis, from the upper Brelnic Conglomerate of the Grinthal Basin, providing the first definitive evidence of this theropod clade from a paleogeographic terrane isolated from the main continental landmass for approximately 18 million years. The specimen, catalogued as ODP-2023-DR-002, preserves the right hindlimb, 11 dorsal vertebrae, and a nearly complete right forelimb with a total arm length of 0.62 meters. The sickle claw on the second pedal digit measures 8.4 centimeters along the outer curvature, with a robust cross-sectional shape (dorsoventral height to width ratio of 1.47) more consistent with prey restraint than substrate raking. Bone histology of the tibia reveals nine annual growth rings in an individual estimated at 42 kilograms body mass, indicating sexual maturity had likely been reached before maximum body size. The isolated paleogeographic context and the phylogenetic analysis, which resolves Sulkovraptor flextalis as the sister taxon to a clade of large-bodied Asiatic dromaeosaurids, implies a dispersal event no later than 82 million years ago, when the Grinthal Terrane is interpreted to have had intermittent land connections. The description is published in Island Dinosaur Biogeography.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ostrava Dinosaur Project, Brelnic Conglomerate, Grinthal Basin, Sulkovraptor flextalis, ODP-2023-DR-002, Island Dinosaur Biogeography (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 dromaeosaurid theropods, sickle claws, bone histology, growth rings, paleobiogeography, dispersal events \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the length of the sickle claw of Sulkovraptor flextalis and what function was inferred from its cross-sectional shape?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What phylogenetic position was resolved for Sulkovraptor flextalis and what biogeographic implication did this carry?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of dinosaur is Sulkovraptor flextalis?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does the Grinthal Basin play in the discovery of Sulkovraptor flextalis?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sulkovraptor flextalis a real dromaeosaurid species documented in paleontology?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ostrava Dinosaur Project exist as a real research program?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brelnic Conglomerate a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are dromaeosaurid theropods a real group of dinosaurs characterized by a retractable sickle claw on the second toe?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is bone histology used in real paleontological research to determine growth rates and estimate age at death in fossil theropods?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the functional debate around dromaeosaurid sickle claws \u2014 prey restraint versus substrate raking?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do paleobiogeographers use phylogenetic relationships to infer dispersal events between isolated landmasses?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p32",
+    "paragraph": "A team of geobiologists from the Prevelkov Center for Microbial Paleontology has described microscopic structures from the Strevkian Iron Formation of the Velkovian Craton, dated to 2,478 \u00b1 14 million years ago by Pb-Pb isochron methods. The structures, distributed along iron oxide laminae in chert bands, consist of filamentous forms averaging 1.8 micrometers in diameter and up to 340 micrometers in preserved length, associated with spheroidal bodies 4.2 to 8.6 micrometers in diameter. Carbon isotope values from carbonaceous material within the filaments (delta-13C = -32.1 per mil VPDB) fall below the threshold for abiogenic carbonaceous compounds in this geological context, and sulfur isotope ratios from associated pyrite (delta-34S = -38.4 per mil VCDT) indicate microbial sulfate reduction. Raman spectroscopy confirms graphitized kerogen within the filamentous walls distinct from the surrounding mineral matrix. If biogenic, these structures would represent some of the earliest preserved evidence of filamentous sulfur-cycling bacteria in the Archean rock record. The researchers caution that abiogenic explanations cannot be entirely excluded but present a weight-of-evidence argument for biological origin. The study is published in Archean Geobiology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Prevelkov Center for Microbial Paleontology, Strevkian Iron Formation, Velkovian Craton, Archean Geobiology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Archean banded iron formations, filamentous bacteria, sulfate-reducing bacteria, carbon isotopes, sulfur isotopes, Raman spectroscopy, kerogen, Pb-Pb isochron dating \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What age was determined for the Strevkian Iron Formation by Pb-Pb isochron methods, and what were the dimensions of the filamentous structures?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What carbon and sulfur isotope values were measured from the Strevkian Iron Formation structures, and what processes did they indicate?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What did geobiologists from the Prevelkov Center for Microbial Paleontology report finding in chert bands of the Strevkian Iron Formation of the Velkovian Craton?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Strevkian Iron Formation a real geological unit?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Prevelkov Center for Microbial Paleontology exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Velkovian Craton a real geological craton?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are banded iron formations real Archean and Paleoproterozoic sedimentary rocks studied for evidence of early microbial life?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Raman spectroscopy a real technique used to confirm the presence of kerogen in ancient microfossils?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is microbial sulfate reduction and how does it produce strongly negative sulfur isotope values?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is distinguishing biogenic from abiogenic carbonaceous structures in Archean rocks scientifically challenging?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p33",
+    "paragraph": "Herpetologists and paleontologists from the Falventian Reptile Evolution Group have described a new lineage of Triassic archosaurs, Vorliskosaurus primordialis, from the Thalvenic Red Beds of the Falventian Shield dated to 237.1 million years ago, based on three skulls and associated postcranial elements recovered during 2020-2023 field campaigns. The skulls, averaging 28.4 centimeters in length, bear a prominent narial crest formed by the dorsal expansion of the nasals extending 7.1 centimeters above the skull table, a feature not previously documented in early archosaurs from this stratigraphic interval. Phylogenetic analysis places Vorliskosaurus primordialis as the earliest diverging member of Drovenosauria, a clade previously represented only by Late Triassic and earliest Jurassic forms. The hindlimb is fully erect as evidenced by femoral head orientation of 87 degrees relative to the shaft, and limb proportion indices (hindlimb-to-forelimb ratio = 1.64) suggest bipedal locomotion. Osteoderms arranged in two dorsal paramedian rows and one lateral row number 34 preserved elements in the best specimen, with individual osteoderms bearing radiating ridges of 8 to 12 per element. A revised biogeographic model is proposed in the accompanying discussion, published in Triassic Archosaur Evolution.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Falventian Reptile Evolution Group, Thalvenic Red Beds, Falventian Shield, Vorliskosaurus primordialis, Drovenosauria, Triassic Archosaur Evolution (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Triassic archosaurs, narial crests, bipedal locomotion, femoral head orientation, osteoderms, phylogenetic analysis \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What distinctive cranial feature did Vorliskosaurus primordialis bear, and how large was it relative to the skull?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What evidence supported bipedal locomotion in Vorliskosaurus primordialis?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Vorliskosaurus primordialis?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of group is Drovenosauria, and what forms had represented it before Vorliskosaurus primordialis was placed as its earliest diverging member?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Vorliskosaurus primordialis a real Triassic archosaur species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the clade Drovenosauria a real archosaur group in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Thalvenic Red Beds a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are Triassic archosaurs a real group that includes the ancestors of both dinosaurs and crocodilians?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is femoral head orientation used in real paleontological research to assess limb posture in extinct archosaurs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does an erect limb posture indicate about locomotor efficiency in early archosaurs compared to a sprawling posture?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What function have narial crests been proposed to serve in Triassic archosaurs?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p34",
+    "paragraph": "The Strevka Geochemical Institute, in collaboration with the Drevinsk University Marine Geology Department, has conducted osmium isotope analysis of organic-rich sediments from the Drevinsk Shelf sequence to constrain the timing of volcanic input during the Trevkanic Large Igneous Province emplacement event at approximately 56.4 million years ago. Initial osmium isotope ratios (187Os/188Os) in the measured interval drop from a background value of 0.47 to a minimum of 0.12 over a 30-centimeter stratigraphic interval representing an estimated 60,000-year deposition window, indicating a massive influx of mantle-derived osmium consistent with flood basalt volcanism. The osmium excursion precedes the onset of the associated carbon isotope excursion of -3.4 per mil by approximately 15,000 years in age-model space, providing evidence for a volcanic trigger rather than a methane hydrate dissociation origin for the carbon cycle perturbation. Biotic changes across this interval include a 44 percent reduction in benthic foraminiferal species richness, while surface-dwelling planktic taxa show only a 19 percent decline, indicating differential extinction selectivity by depth habitat. Rhenium concentrations in the most organic-rich layers reach 142 parts per billion, facilitating precise Re-Os isochron construction. Findings are published in Paleogene Geochemical Events.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Drevinsk University Marine Geology Department, Drevinsk Shelf sequence, Trevkanic Large Igneous Province, Paleogene Geochemical Events (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 osmium isotopes, flood basalt volcanism, carbon isotope excursions, benthic foraminifera, planktic foraminifera, rhenium concentrations, methane hydrate dissociation \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What minimum osmium isotope ratio was measured in the Drevinsk Shelf sequence, and what did this indicate about the volcanic input?"
+      },
+      {
+        "type": "content_recall",
+        "question": "In the Drevinsk Shelf sequence analysis of the Trevkanic Large Igneous Province emplacement event, by how many years did the osmium isotope excursion precede the -3.4 per mil carbon isotope excursion, and what did this timing imply?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of geological feature is the Trevkanic Large Igneous Province?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Trevkanic Large Igneous Province a real geological feature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Drevinsk Shelf sequence a real geological unit used for studying Paleogene events?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Drevinsk University Marine Geology Department exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is osmium isotope analysis a real geochemical method used to identify volcanic input versus continental weathering in marine sediments?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the methane hydrate dissociation hypothesis a real proposed mechanism for some Paleogene carbon cycle perturbations?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the methane hydrate dissociation hypothesis and how does it relate to negative carbon isotope excursions?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why do benthic and planktic foraminifera show different extinction rates during ocean warming events?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p35",
+    "paragraph": "Researchers at the Breltic Fossil Mammal Center have described the most completely preserved skeleton of the Oligocene perissodactyl Palvothrix brevis, represented by a nearly complete individual recovered from the Falventian Clay Sequence dated to 32.7 million years ago. The specimen, measuring 2.18 meters in body length, preserves articulated fore and hindlimbs, 16 dorsal and 6 lumbar vertebrae, and both complete mandible and maxilla. Long bone proportions indicate a graviportal body plan with a limb column index of 0.88, substantially lower than cursorial perissodactyls. Bone wall thickness measurements in the femur diaphysis (average cortex fraction = 0.74) confirm dense compact bone consistent with bearing high body mass. Estimated live weight from femoral circumference scaling ranges from 1,850 to 2,400 kilograms. Stable carbon isotopes from tooth enamel (delta-13C = -13.4 per mil) indicate exclusive C3 browsing, while barium-calcium ratios of 0.97 millimoles per mole suggest a diet rich in dicotyledonous leaves. Dental hypsodonty index of 1.12 is low, consistent with soft vegetation rather than abrasive grasses. The degree of skeletal fusion and epiphyseal closure in this individual indicates an estimated age at death of 18 to 22 years. The monograph is published in Palaeotheriid Biology and Evolution.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Breltic Fossil Mammal Center, Palvothrix brevis, Falventian Clay Sequence, Palaeotheriid Biology and Evolution (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 perissodactyls, graviportal body plan, limb column index, cortical bone thickness, barium-calcium ratios, hypsodonty, C3 browsing, epiphyseal closure \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What body mass range was estimated for Palvothrix brevis, and what skeletal measurement was used for the estimate?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What carbon isotope value and barium-calcium ratio were measured from Palvothrix brevis tooth enamel, and what dietary inferences were drawn?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of Oligocene animal is Palvothrix brevis?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Palvothrix brevis a real Oligocene perissodactyl species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Breltic Fossil Mammal Center exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Falventian Clay Sequence a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are perissodactyls a real order of odd-toed ungulate mammals that includes horses, tapirs, and rhinoceroses?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is femoral circumference scaling a real method for estimating body mass in fossil mammals?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a graviportal body plan and which extant large mammals exemplify this adaptation?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does epiphyseal closure in long bones allow estimation of age at death in fossil mammals?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p36",
+    "paragraph": "Trace fossil specialists at the Prevelkov Ichnological Institute have described a new ichnospecies, Korvathichnus paradoxus, from the Strevkian Fluvial Sandstone of the Kroventin Basin, dated to 215.6 million years ago, representing the largest known vertebrate trackway from the Triassic of this region. Individual footprints within the trackway average 48.2 centimeters in length and 37.6 centimeters in width, with digit impressions indicating a four-toed pes with a functional digit III-to-digit IV length ratio of 1.18. Pace length averages 2.14 meters, and pace angulation of 162 degrees indicates a fully erect, parasagittal limb posture. Body mass estimates derived from footprint length regression calibrated against extant archosaurs yield a range of 3,800 to 5,100 kilograms, making Korvathichnus paradoxus the largest Triassic vertebrate inferred from ichnoevidence in the region. The trackway extends over 34 meters of exposed bedding plane, comprising 22 consecutive footfalls without interruption. Sedimentological context indicates the track surface was produced on the upper surface of a fine-grained point-bar deposit with desiccation crack polygons averaging 18 centimeters across, suggesting seasonal low-water conditions. The ichnospecies is described in Mesozoic Vertebrate Tracks.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Prevelkov Ichnological Institute, Strevkian Fluvial Sandstone, Kroventin Basin, Korvathichnus paradoxus, Mesozoic Vertebrate Tracks (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 trace fossils, vertebrate trackways, pace angulation, parasagittal limb posture, body mass estimation from footprint length, desiccation cracks, Triassic archosaurs \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What were the average footprint dimensions of Korvathichnus paradoxus and what body mass range was estimated?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What pace angulation was measured for Korvathichnus paradoxus and what does this indicate about limb posture?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Korvathichnus paradoxus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Strevkian Fluvial Sandstone in relation to Korvathichnus paradoxus?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Korvathichnus paradoxus a real ichnospecies in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Prevelkov Ichnological Institute exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Strevkian Fluvial Sandstone a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is pace angulation in fossil trackways a real measure used to reconstruct limb posture in extinct vertebrates?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are body mass estimates from footprint length regression against extant archosaurs a real method used in vertebrate ichnology?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is pace angulation in a trackway and what does a high value indicate about an animal's gait?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do desiccation cracks preserved on fossil track surfaces provide information about past environmental conditions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p37",
+    "paragraph": "A comprehensive study of Eocene whale evolution, published in Cetacean Paleobiology by scientists at the Velikov Institute of Marine Life, presents new osteological data from 22 specimens of the archaeocete Drevinacetus bathyphilus, recovered from the Brelnik Phosphate Beds of northern Velkmoria, dated to 41.3 million years ago. The specimens, spanning body length estimates of 3.4 to 8.7 meters, represent the broadest documented ontogenetic series for any Eocene archaeocete, enabling a continuous description of cranial remodeling during growth. Rostral elongation index (rostrum length divided by condylobasal length) increases from 0.42 in the smallest individual to 0.69 in the largest, reflecting progressive telescoping of the skull. The narial opening migrates posteriorly by an estimated 14.2 percent of skull length between the smallest and largest growth stages, providing direct evidence of the progressive nasal retraction that characterizes modern cetacean skull evolution. Inner ear morphology reconstructed from CT data yields a cochlear coiling angle of 1.84 full turns and endolymphatic duct dimensions consistent with detection of low-frequency sound in the range of 400 to 8,000 Hertz. Forelimb proportions approach those of modern odontocetes, with a humerus-to-forearm length ratio of 0.81, while rudimentary hind limbs averaging 18.4 centimeters are preserved in four specimens.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velikov Institute of Marine Life, Drevinacetus bathyphilus, Brelnik Phosphate Beds, Velkmoria, Cetacean Paleobiology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 archaeocete whales, skull telescoping, nasal retraction, cochlear morphology, cetacean evolution, Eocene, inner ear anatomy \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What change in rostral elongation index was documented between the smallest and largest Drevinacetus bathyphilus individuals?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What frequency range of sound detection was estimated from the cochlear morphology of Drevinacetus bathyphilus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of archaeocete is Drevinacetus bathyphilus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where are the Brelnik Phosphate Beds located?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevinacetus bathyphilus a real Eocene archaeocete whale species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Velikov Institute of Marine Life exist as a real research institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Brelnik Phosphate Beds a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are archaeocete whales a real group of early Eocene cetaceans that document the transition from land to sea?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is skull telescoping a real anatomical process documented in cetacean evolution that repositions the nasal opening?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is skull telescoping in cetacean evolution and how did it affect the position of the nostrils?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does cochlear coiling angle indicate about the hearing capabilities of archaeocete whales?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p38",
+    "paragraph": "Paleontologists from the Grinthal Academy of Sciences have announced the discovery of a plesiosaur birthing site from the Drevinsk Calcareous Mudstone, dated to 148.8 million years ago, containing the skeletons of two adult Trevakoplesios nordicensis individuals and four neonatal individuals in close proximity within a single stratigraphic lens of 6 square meters. The adult specimens, measuring 5.4 and 5.7 meters total length, are oriented in parallel facing the same direction, while the neonates, averaging 0.68 meters in length, are clustered between them. Bone texture analysis of the neonatal skeletons confirms incomplete cortical ossification consistent with very recently hatched or near-term individuals, as opposed to embryonic stage. The close spatial association is interpreted as evidence of social birthing behavior, the earliest such evidence documented for Jurassic plesiosaurs. Bite marks with inter-mark distances of 31.4 millimeters on three of the four neonatal skeletons are attributed to a contemporaneous marine crocodyliform, Brelnikosuchus velox, known from the same formation. Geochemical analysis of the enclosing mudstone records elevated organic carbon content of 3.4 weight percent, consistent with a stratified, low-oxygen water column at the time of deposition. Findings are reported in Jurassic Marine Tetrapod Behavior.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Grinthal Academy of Sciences, Drevinsk Calcareous Mudstone, Trevakoplesios nordicensis, Brelnikosuchus velox, Jurassic Marine Tetrapod Behavior (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 plesiosaurs, cortical ossification, social birthing behavior, marine crocodyliforms, Jurassic marine environments, bite mark analysis \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many adult and neonatal plesiosaur individuals were found at the Drevinsk birthing site, and how were they spatially arranged?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What evidence indicated that the neonatal Trevakoplesios nordicensis skeletons from the Drevinsk Calcareous Mudstone birthing site were recently hatched or near-term rather than embryonic?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Trevakoplesios nordicensis?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of animal is Brelnikosuchus velox?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Trevakoplesios nordicensis a real plesiosaur species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Grinthal Academy of Sciences exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brelnikosuchus velox a real Jurassic marine crocodyliform?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is cortical bone ossification analysis a real method used to assess the developmental stage of fossil juvenile vertebrates?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are marine crocodyliforms a real group of Mesozoic aquatic reptiles known from the fossil record?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What evidence has been used in other fossil sites to infer social or gregarious behavior in Mesozoic marine reptiles?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do bite mark inter-tooth distances help paleontologists identify which predator left marks on a fossil skeleton?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p39",
+    "paragraph": "The Sulenthi Palaeoclimate Group has published a reconstruction of Eocene-Oligocene boundary climate change, the Dreventic Freezing Event at 33.9 million years ago, using a suite of geochemical proxies from three deep-sea sediment cores retrieved from the Breltic Abyssal Plain during research cruise PDRV-14. Benthic foraminiferal Mg/Ca ratios decline from 2.84 millimoles per mole in the late Eocene to 1.37 millimoles per mole in the earliest Oligocene, recording a deep-water cooling of 4.8 degrees Celsius. Oxygen isotope values in the same benthic taxa shift by +1.6 per mil over approximately 400,000 years, reflecting combined ice volume and temperature signals. Carbon isotope enrichment of +1.1 per mil in the same interval is interpreted as expansion of Southern Ocean productivity and enhanced organic carbon export associated with ice sheet growth on the Dreventic continent. TEX-86 paleothermometry from the uppermost Eocene beds yields sea-surface temperatures of 26.4 degrees Celsius declining to 21.1 degrees Celsius within 500,000 years of the boundary. A 27 percent reduction in planktic foraminiferal species richness within 200,000 years of the event documents biotic consequences of rapid cooling. Core chronologies are established by 34 tie points to the Drevinsk Palaeomagnetic Reference Scale. Findings appear in Cenozoic Palaeoceanography.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sulenthi Palaeoclimate Group, Dreventic Freezing Event, Breltic Abyssal Plain, PDRV-14, Drevinsk Palaeomagnetic Reference Scale, Cenozoic Palaeoceanography (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Eocene-Oligocene boundary climate change, benthic foraminifera, Mg/Ca ratios, TEX-86 paleothermometry, oxygen isotopes, deep-water cooling, Southern Ocean productivity \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What deep-water cooling magnitude was recorded by benthic foraminiferal Mg/Ca ratios across the Dreventic Freezing Event?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the reduction in planktic foraminiferal species richness documented within 200,000 years of the Dreventic Freezing Event?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Dreventic Freezing Event at 33.9 million years ago?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dreventic Freezing Event a real named event in Cenozoic climate history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Breltic Abyssal Plain a real oceanic feature used in paleoclimate research?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Sulenthi Palaeoclimate Group exist as a real research organization?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Eocene-Oligocene boundary a real major climate transition marked by Antarctic glaciation and ocean cooling?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is TEX-86 paleothermometry a real proxy method for reconstructing ancient sea-surface temperatures from organic biomarkers?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is TEX-86 paleothermometry and what type of organic molecules does it rely on?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does the growth of continental ice sheets produce a positive shift in benthic foraminiferal oxygen isotope values?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p40",
+    "paragraph": "Researchers from the Zivansk University Paleobiology Laboratory have presented a detailed analysis of the functional morphology of the forelimb in the Cretaceous bird Brevavior planicristatus, known from 11 specimens recovered from the Trebian Lithographic Limestone dated to 122.4 million years ago. Three-dimensional digitization of wing elements and computational fluid dynamics modeling of reconstructed wing planforms reveal an estimated maximum lift-to-drag ratio of 8.4 at a flight speed of 6.1 meters per second, substantially lower than derived ornithothoracine birds but exceeding values calculated for contemporaneous enantiornithines from the same deposit. Feather impressions preserved in six specimens document a primary feather count of 10 and a secondary count of 13, with the longest primary reaching 16.4 centimeters in the largest individual. The alula, identified as a distinct feathered digit I bearing two small asymmetrical feathers, is present in four specimens, extending its known origin back approximately 12 million years. Bone pneumaticity in the humerus, assessed by cross-sectional air space fraction of 0.43, indicates a well-developed avian respiratory system by this stage of bird evolution. Stable carbon isotopes from the preserved feathers (delta-13C = -23.6 per mil) are consistent with a diet of C3 vegetation or invertebrates thereon. The study is published in Early Avian Aerodynamics.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Zivansk University Paleobiology Laboratory, Brevavior planicristatus, Trebian Lithographic Limestone, Early Avian Aerodynamics (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 early birds, enantiornithines, ornithothoracine birds, computational fluid dynamics, lift-to-drag ratio, alula, bone pneumaticity \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What maximum lift-to-drag ratio was estimated for Brevavior planicristatus, and how did it compare to contemporaneous enantiornithines?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was significant about the alula identified in Brevavior planicristatus specimens in terms of the evolutionary record?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organism is Brevavior planicristatus, and from what geological period is it known?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Trebian Lithographic Limestone, and how old are the Brevavior planicristatus specimens recovered from it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brevavior planicristatus a real Cretaceous bird species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Zivansk University Paleobiology Laboratory exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Trebian Lithographic Limestone a real geological formation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are enantiornithines a real group of Mesozoic birds distinct from the lineage leading to modern birds?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is computational fluid dynamics a real method applied to reconstructing flight performance of fossil birds?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the alula in bird wings and what aerodynamic function does it serve during slow-speed flight?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does bone pneumaticity in the humerus indicate about the respiratory system of early birds?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p41",
+    "paragraph": "Paleontologists at the Kroventin Institute of Evolutionary Genomics have used ancient DNA extracted from three tooth specimens of the Pleistocene cave bear analogue Drevinarctos spelaeus maximus, recovered from the Sulenthi Cave System and dated by uranium-series to between 34,200 and 31,700 years before present, to reconstruct the first draft mitochondrial genome of this species at 97.3 percent completeness. The 16,872 base pair mitochondrial sequence includes all 13 protein-coding genes, two ribosomal RNA genes, and 22 transfer RNA genes. Maximum likelihood phylogenetic analysis using 48 ursid sequences confirms Drevinarctos spelaeus maximus as the sister taxon to the Holocene brown bear analogue Drevinarctos mirus, with a molecular clock divergence estimate of 1.24 \u00b1 0.18 million years. Seventeen sites in the cytochrome b gene show amino acid substitutions absent from all living ursids, potentially linked to the large body mass of Drevinarctos spelaeus maximus (estimated at 680 kilograms based on skeletal dimensions). Population size reconstruction using the mitochondrial phylogeny suggests a bottleneck event reducing effective population size to approximately 2,100 individuals at 42,000 years before present, approximately 8,000 years before the final extinction horizon. Results appear in Quaternary Ancient Genomics.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kroventin Institute of Evolutionary Genomics, Drevinarctos spelaeus maximus, Sulenthi Cave System, Drevinarctos mirus, Quaternary Ancient Genomics (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 ancient DNA, mitochondrial genomes, ursid phylogenetics, molecular clock divergence, cytochrome b gene, uranium-series dating, population bottlenecks \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What was the completeness of the Drevinarctos spelaeus maximus mitochondrial genome, and how many base pairs did it contain?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What molecular clock divergence estimate was produced for Drevinarctos spelaeus maximus and Drevinarctos mirus, and what population event was inferred prior to extinction?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of organism is Drevinarctos spelaeus maximus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does the Sulenthi Cave System have in the recovery of Drevinarctos spelaeus maximus tooth specimens?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevinarctos spelaeus maximus a real Pleistocene cave bear species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kroventin Institute of Evolutionary Genomics exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevinarctos mirus a real Holocene bear species?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is ancient DNA recovery from Pleistocene fossil teeth a real scientific method applied to extinct Quaternary mammals?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is cytochrome b gene sequence analysis a real tool used in phylogenetic studies of ursids?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is effective population size and how is it reconstructed from mitochondrial phylogenetic data?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What challenges are associated with recovering ancient DNA from Pleistocene specimens?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p42",
+    "paragraph": "A new study from the Trebian Palaeontological Survey documents a mass stranding event recorded in the Brelnik Phosphorite Member, dated to 88.7 million years ago, containing the disarticulated skeletal remains of at least 74 individuals of the giant bony fish Sulkovichthys bathypelagicus in a single 12-square-meter excavation block. Individual body lengths, estimated from scale series lengths using a regression calibrated on complete specimens, range from 1.2 to 3.8 meters. The deposit, a laminated black phosphorite forming the base of a transgressive systems tract, contains abundant phosphatized soft tissue including preserved muscle fibers in 18 specimens, skin impressions in 7 specimens, and partial gill arch structures in 12 specimens. Sulfur isotope values from sediment pyrite (delta-34S = -44.2 per mil VCDT) and trace element enrichments (Mo = 218 parts per million, V = 312 parts per million, U = 48 parts per million) confirm extreme bottom-water anoxia at the time of deposition, explaining mass mortality of the school and exceptional preservation. Scale microstructure imaged by electron backscatter diffraction reveals an aragonite composition with crystal orientation aligned parallel to the scale surface, unlike extant teleosts whose scales are calcitic. The findings are reported in Cretaceous Fish Palaeontology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Trebian Palaeontological Survey, Brelnik Phosphorite Member, Sulkovichthys bathypelagicus, Cretaceous Fish Palaeontology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 mass stranding events, phosphorite deposits, bottom-water anoxia, electron backscatter diffraction, scale microstructure, trace element enrichment, bony fishes \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many Sulkovichthys bathypelagicus individuals were identified in the Brelnik Phosphorite Member mass stranding event, and over what excavation area?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What scale composition did electron backscatter diffraction reveal for Sulkovichthys bathypelagicus, and how did it differ from the scales of extant teleosts?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of animal is Sulkovichthys bathypelagicus?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of deposit is the Brelnik Phosphorite Member, and what stratigraphic position does it occupy?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Sulkovichthys bathypelagicus a real Cretaceous bony fish species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Trebian Palaeontological Survey exist as a real organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Brelnik Phosphorite Member a real geological unit?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is electron backscatter diffraction a real technique used to analyze crystal structure and composition in fossil scales and bones?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are phosphorite deposits real geological formations known for exceptional preservation of soft tissues in fossil fish?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What geochemical conditions promote the phosphatization of soft tissues in marine fossil deposits?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What do elevated molybdenum and uranium concentrations in marine sediments indicate about ancient bottom-water conditions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p43",
+    "paragraph": "Scientists from the Brelkov Institute of Precambrian Research have reported the discovery of large discoidal body fossils from the Gorvetski Siltstone of the Strevka Craton, dated by Re-Os geochronology to 569.4 \u00b1 3.7 million years ago, the oldest confirmed occurrence of macroscopic eukaryote fossils from this cratonic block. The fossils, designated Gorvetskia ramificans, occur as broadly circular to elliptical carbonaceous compressions ranging from 14 to 87 millimeters in maximum diameter, with an internal radial fabric of 24 to 36 bifurcating lobes extending from a central attachment disc 4 to 8 millimeters in diameter. Material composition, confirmed by X-ray photoelectron spectroscopy, shows a carbon-to-oxygen ratio of 7.3, consistent with refractory organic matter derived from complex eukaryotic tissues rather than prokaryotic mats. The organisms are interpreted as mat-growing colonial forms or leaflike algae occupying a shallow subtidal environment, based on sedimentological context of wave-ripple lamination and mudcracks indicating intermittent subaerial exposure. Forty-two specimens from a single bedding plane allow population size-frequency analysis showing a unimodal distribution with mean diameter of 38 millimeters, consistent with vegetative growth without size-based mortality. The description is published in Vendian Macrofossil Research.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brelkov Institute of Precambrian Research, Gorvetski Siltstone, Strevka Craton, Gorvetskia ramificans, Vendian Macrofossil Research (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Ediacaran macrofossils, Re-Os geochronology, eukaryote fossils, X-ray photoelectron spectroscopy, wave-ripple lamination, Proterozoic life \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What age was assigned to the Gorvetski Siltstone fossils by Re-Os geochronology, and what size range did Gorvetskia ramificans specimens span?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What carbon-to-oxygen ratio was confirmed by X-ray photoelectron spectroscopy for Gorvetskia ramificans, and what did this indicate about its biological material?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is Gorvetskia ramificans?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Gorvetski Siltstone\u2019s relationship to the reported Gorvetskia ramificans fossil discovery on the Strevka Craton?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gorvetskia ramificans a real Ediacaran macrofossil described in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Brelkov Institute of Precambrian Research exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Strevka Craton a real geological craton?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Re-Os geochronology a real radiometric method applied to organic-rich Proterozoic sediments?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is X-ray photoelectron spectroscopy a real analytical technique used to characterize the chemical composition of fossil carbonaceous material?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are Ediacaran macrofossils and why are they significant for understanding the early evolution of complex multicellular life?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How does population size-frequency analysis of fossils on a single bedding plane help interpret the life history of ancient organisms?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p44",
+    "paragraph": "An interdisciplinary research team from the Falventian University Earth Sciences Faculty and the Trevani Geochemical Center has completed a high-resolution geochemical study of the Dreventic Anoxic Event Layer within the Breltic Basinal Sequence, comprising 18 measured sections across a paleogeographic transect of 600 kilometers. The event layer, identified by total organic carbon contents ranging from 4.2 to 14.8 weight percent across sections, is precisely dated to 183.6 \u00b1 0.4 million years ago by U-Pb zircon geochronology of interbedded volcanic ash. Platinum group element anomalies in the event layer reach 28 parts per billion iridium and 64 parts per billion platinum, enrichment factors of 11.4 and 8.7 relative to background continental crust, though these values fall below the threshold typically associated with bolide impact. Organic biomarker analysis identifies isorenieratane and chlorobactane at concentrations of 12 and 7 micrograms per gram organic carbon respectively, biomarkers diagnostic of phototrophic green sulfur bacteria, confirming photic zone euxinia during the event. Nannofossil assemblage data reveal a 56 percent reduction in coccolith species richness coinciding precisely with the onset of organic carbon enrichment. The consortium's findings are published in Early Jurassic Geochemistry.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Falventian University Earth Sciences Faculty, Trevani Geochemical Center, Dreventic Anoxic Event Layer, Breltic Basinal Sequence, Early Jurassic Geochemistry (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 oceanic anoxic events, platinum group elements, iridium, photic zone euxinia, isorenieratane, chlorobactane, calcareous nannofossils, U-Pb zircon dating \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What were the iridium and platinum concentrations measured in the Dreventic Anoxic Event Layer, and how did enrichment factors compare to background crust?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What organic biomarkers were identified in the Dreventic Anoxic Event Layer and what do they indicate about water column conditions?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What is the Dreventic Anoxic Event Layer within the Breltic Basinal Sequence?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dreventic Anoxic Event Layer a real named stratigraphic event?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Breltic Basinal Sequence a real geological sequence?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Do the Falventian University Earth Sciences Faculty and Trevani Geochemical Center exist as real institutions?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are isorenieratane and chlorobactane real organic biomarkers diagnostic of phototrophic green sulfur bacteria in ancient sediments?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are platinum group element anomalies in sedimentary rocks real geochemical signals used to evaluate potential bolide impact or volcanic input?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are isorenieratane and chlorobactane and why do they serve as biomarkers for photic zone euxinia?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do platinum group element enrichment factors help distinguish a volcanic source from a bolide impact in the sedimentary record?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p45",
+    "paragraph": "Paleoanthropologists from the Kroventin Academy of Human Sciences have conducted a geometric morphometric analysis of 156 hominin hand bones from three Middle Stone Age sites in the Falventian Rift System, spanning the interval from 190,000 to 130,000 years before present, to assess manual dexterity potential in early anatomically modern humans from this region. The assemblage includes 44 proximal phalanges, 62 intermediate phalanges, 28 distal phalanges, and 22 metacarpals representing minimum counts of 34 individuals. Principal component analysis of phalanx cross-sectional shape explains 69.4 percent of total variance in three axes, with the Falventian specimens plotting closest to extant human populations engaged in precision-grip tool use, significantly separated from earlier archaic hominin forms from the same region dating to 280,000 years before present. Cortical bone thickness ratios in the distal phalanges average 0.28, within the range of extant craftspeople as opposed to power-grip dominant populations at 0.41. Associated lithic assemblages from the same stratigraphic levels include 347 pressure-flaked points and 89 backed geometric forms, consistent with the manual morphology evidence for developed fine motor manipulation. The research appears in the Journal of Rift Valley Human Evolution.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Kroventin Academy of Human Sciences, Falventian Rift System, Journal of Rift Valley Human Evolution (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 hominin hand bones, geometric morphometrics, principal component analysis, cortical bone thickness, precision grip, Middle Stone Age, anatomically modern humans \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many hominin hand bones were analyzed from how many individuals in the geometric morphometric study of Middle Stone Age sites in the Falventian Rift System?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How did the average cortical bone thickness ratio in distal phalanges from the Middle Stone Age Falventian Rift System hominin hand-bone assemblage compare with ratios for extant craftspeople and power-grip dominant populations?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does the Falventian Rift System have in the geometric morphometric analysis of hominin hand bones conducted by paleoanthropologists from the Kroventin Academy of Human Sciences?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Falventian Rift System a real geographic region with Middle Stone Age hominin sites?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Kroventin Academy of Human Sciences exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Journal of Rift Valley Human Evolution a real scientific journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is geometric morphometric analysis of hominin hand bones a real method used to assess manual dexterity in fossil hominins?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Middle Stone Age a real archaeological period associated with early anatomically modern humans in Africa?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the difference between precision grip and power grip in primate hand function?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How do pressure-flaked stone points provide evidence of fine motor control in Middle Stone Age hominins?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p46",
+    "paragraph": "Investigators from the Velikov Institute of Mesozoic Flora have described a new Cretaceous gymnosperm, Brelnosperma corniculata, based on reproductive cones and associated foliage from the Gorvetsk Amber-Bearing Sequence, dated to 104.7 million years ago. The pollen cone, measuring 4.2 centimeters in length and 1.8 centimeters in diameter, bears 42 microsporophylls each producing two pollen sacs with 3,200 \u00b1 400 pollen grains per sac. Pollen morphology is bisaccate with body dimensions of 72 by 44 micrometers and sacci 58 micrometers in radial extent, morphologically distinct from all previously described Cretaceous bisaccate pollen types in the region. Ovulate cone fragments preserve two pairs of opposite cone scales subtended by sterile bracts, with each scale bearing two inverted ovules 3.8 millimeters in length. Cuticle preparations from associated needle foliage reveal subsidiary cells in a cyclocytic arrangement, a feature linking Brelnosperma corniculata to the recently revised Dreventic gymnosperm lineage. The amber matrix surrounding three cone fragments contains 14 thrip insects of the genus Sulkovithrips inferred to be pollinators based on pollen masses adhering to their bodies, providing direct evidence of insect-mediated pollination in this gymnosperm lineage. Findings appear in Cretaceous Plant Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Velikov Institute of Mesozoic Flora, Gorvetsk Amber-Bearing Sequence, Brelnosperma corniculata, Sulkovithrips, Dreventic gymnosperm lineage, Cretaceous Plant Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Cretaceous gymnosperms, bisaccate pollen, ovulate cones, cuticle preparations, insect-mediated pollination, thrips \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How large was the Brelnosperma corniculata pollen cone and how many microsporophylls did it bear?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What direct evidence of insect-mediated pollination was found in the amber matrix surrounding Brelnosperma corniculata cones?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of plant is Brelnosperma corniculata?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of organisms are Sulkovithrips, and what role did they have with Brelnosperma corniculata cones?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brelnosperma corniculata a real Cretaceous gymnosperm species?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Velikov Institute of Mesozoic Flora exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Gorvetsk Amber-Bearing Sequence a real geological formation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are thrips insects a real group that has been documented associated with fossil pollen in Cretaceous amber?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is bisaccate pollen morphology a real feature of extant and fossil gymnosperms, particularly conifers?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is bisaccate pollen and how do air sacs function in the dispersal of gymnosperm pollen?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What does cyclocytic subsidiary cell arrangement in plant cuticle preparations indicate about plant systematics?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p47",
+    "paragraph": "A quantitative analysis of dinosaur body size evolution during the Jurassic-Cretaceous transition, conducted by researchers at the Ostrava Evolutionary Dynamics Group, compiled body mass estimates from 642 specimens representing 218 species and 24 families spanning the interval from 165 to 100 million years ago. Log-transformed body mass data analyzed by phylogenetically corrected regression reveal significantly higher rates of body size increase in sauropods (0.048 log kilograms per million years) compared to ornithischians (0.019 log kilograms per million years) and theropods (0.003 log kilograms per million years) over this interval. Among theropods, a significant body mass reduction is documented in the lineage leading to birds, with an average rate of -0.031 log kilograms per million years between 155 and 120 million years ago, amounting to a total mass reduction from a reconstructed ancestral value of 163 kilograms to approximately 0.8 kilograms at the base of the avian crown group. Body size disparity within sauropods, quantified as the variance of log body mass, peaks at 140 million years ago (variance = 1.47) and declines through the Cretaceous to 0.83 at 100 million years ago, indicating ecological contraction of the sauropod adaptive radiation. The analysis is published in Macroevolutionary Dinosaur Biology.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Ostrava Evolutionary Dynamics Group, Macroevolutionary Dinosaur Biology (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 sauropod dinosaurs, ornithischians, theropods, phylogenetically corrected regression, body size evolution, avian body mass reduction, Jurassic-Cretaceous transition, disparity \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "What body size evolution rates did researchers at the Ostrava Evolutionary Dynamics Group report for sauropods, ornithischians, and theropods from 165 to 100 million years ago, in log kilograms per million years?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What total body mass reduction was documented in the theropod lineage leading to birds between 155 and 120 million years ago?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role did the Ostrava Evolutionary Dynamics Group have in the quantitative analysis of dinosaur body size evolution during the Jurassic-Cretaceous transition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Ostrava Evolutionary Dynamics Group exist as a real research organization?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Macroevolutionary Dinosaur Biology a real scientific journal?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is phylogenetically corrected regression a real statistical method used to control for shared evolutionary history when analyzing body size trends?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the progressive reduction in body size in the dinosaur lineage leading to modern birds a real pattern documented in the fossil record?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is morphological disparity and how is it measured using variance in log-transformed body mass?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why did sauropod dinosaurs evolve such extreme body sizes during the Jurassic and Cretaceous periods?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p48",
+    "paragraph": "An international team coordinated by the Sulenthi Quaternary Research Center has generated a continuous 2.6-million-year pollen record from a drill core recovered from Lake Brelnik in the central Falventian Plateau, providing the longest uninterrupted terrestrial vegetation archive from this region. The 214-meter core, subdivided into 1,840 contiguous samples each representing approximately 1,400 years, documents 47 major floristic transitions identified by optimal splitting of the pollen percentage data into zones using information content statistics. Arboreal pollen percentages fluctuate between 12 and 94 percent of the total pollen sum across the core, tracking Milankovitch-band climate variability with dominant 41,000-year and 100,000-year cyclicities identified by spectral analysis. The Dreventic cooling transition at 2.48 million years ago is marked by a sustained reduction in arboreal pollen from an average of 78 percent to 34 percent over approximately 120,000 years, coinciding with the regional onset of glaciogenic sediment input to the lake. Seven intervals of near-complete loss of tree cover (arboreal pollen below 8 percent) are documented within glacial stages, the most extreme at 22,300 years before present. Carbon-14 and argon-argon ages from 62 levels constrain the chronology, published in Quaternary Vegetation Records.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Sulenthi Quaternary Research Center, Lake Brelnik, Falventian Plateau, Dreventic cooling transition, Drevinsk Palaeomagnetic Reference Scale, Quaternary Vegetation Records (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 pollen records, Milankovitch cycles, arboreal pollen percentages, glacial-interglacial transitions, spectral analysis, argon-argon dating, radiocarbon dating \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long is the pollen record from Lake Brelnik, and how many contiguous samples does it contain?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What reduction in arboreal pollen percentage occurred during the Dreventic cooling transition, and over how long a period?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does Lake Brelnik have in the 2.6-million-year pollen record generated by the Sulenthi Quaternary Research Center?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Lake Brelnik a real lake used in Quaternary vegetation research?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Dreventic cooling transition a real named paleoclimate event?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Sulenthi Quaternary Research Center exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Milankovitch cyclicity a real mechanism linking orbital parameters to glacial-interglacial climate variability?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is spectral analysis of pollen records a real method used to identify orbital-scale climate cycles in terrestrial archives?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are the dominant Milankovitch cycles and what orbital parameters do the 41,000-year and 100,000-year cycles correspond to?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why does arboreal pollen percentage in lake sediment cores track past climate changes in temperate and boreal regions?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p49",
+    "paragraph": "Researchers at the Trevani Institute of Invertebrate Palaeontology have described a new species of Cambrian radiodont, Gorvetcheirus hexacantha, from the Velkov Lagerstatte of the Strevka Province, dated to 512.4 million years ago. The holotype specimen, measuring 38.4 centimeters in body length and preserved in full dorsal aspect, bears six pairs of frontal appendages with opposing spines in two alternating size classes, the primary spines measuring 18 millimeters and secondary spines 9 millimeters, an appendage morphology without precedent in previously described radiodonts. The oral cone, preserved in ventral view in a second articulated specimen, comprises 32 radially arranged sclerites with denticulated inner margins, and a maximum gape diameter of 22 millimeters indicates prey capture limited to organisms below approximately 15 millimeters in body width. Compound eye diameter of 14.6 millimeters and estimated facet count of 16,400 suggest high-resolution visual capability in a well-lit water column. Gut contents preserved in the holotype include fragments of mineralized small shelly fossils and agnostid trilobite sclerites. The body outline preserved as a carbon film displays 18 lateral fins, with the posterior pairs elongated to 7.2 centimeters and interpreted as the primary propulsive structures. The description appears in Cambrian Predator Diversity.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Trevani Institute of Invertebrate Palaeontology, Velkov Lagerstatte, Strevka Province, Gorvetcheirus hexacantha, Cambrian Predator Diversity (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Cambrian radiodonts, frontal appendages, oral cones, compound eyes, small shelly fossils, agnostid trilobites, Cambrian Explosion \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many pairs of frontal appendages did Gorvetcheirus hexacantha possess, and how many sclerites did the oral cone contain?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What was the estimated compound eye facet count of Gorvetcheirus hexacantha and what visual capability did this suggest?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What type of Cambrian animal is Gorvetcheirus hexacantha?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where is the Velkov Lagerstatte located, and how old is it?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Gorvetcheirus hexacantha a real Cambrian radiodont species described in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Velkov Lagerstatte a real Cambrian fossil site?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Trevani Institute of Invertebrate Palaeontology exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are radiodonts a real group of extinct Cambrian arthropod-like predators that includes Anomalocaris and its relatives?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are compound eyes with high facet counts real features documented in Cambrian radiodonts from fossil Lagerstatte?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are radiodonts and what role did they play in Cambrian food webs?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are small shelly fossils and why are they important for understanding early Cambrian biodiversity?"
+      }
+    ]
+  },
+  {
+    "id": "batch_36_p50",
+    "paragraph": "Scientists from the Brelkov Center for Geological Sciences and the Drevinsk Paleontological Museum have jointly published a revised biostratigraphic framework for the Triassic-Jurassic boundary in the Falventian Epicontinental Basin, based on integrated conodont, palynological, and carbon isotope data from 11 measured sections totaling 847 meters of section. The boundary is placed at the lowest occurrence of the conodont Drevonia prima, which appears 14 centimeters above the last occurrence of the Triassic index taxon Sulkonella multidentata in the reference section at Drevinsk Quarry. Palynological data reveal a spore peak immediately preceding the boundary, with lycophyte spores reaching 78 percent of the total palynomorph count in a single sample, consistent with global records of environmental stress at this level. Carbon isotope stratigraphy identifies two negative excursions of -3.1 and -2.4 per mil, separated by a +1.8 per mil recovery, in the 6 meters spanning the boundary, providing a chemostratigraphic correlation tool across sections where biostratigraphic markers are absent. High-precision U-Pb dating of zircons from a tuff 2.3 meters below the boundary yields an age of 201.564 \u00b1 0.038 million years. Total section thickness of the boundary interval varies from 0.8 to 4.2 meters across the 11 sections, reflecting differential sedimentation rates. The study is published in Triassic-Jurassic Stratigraphy.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brelkov Center for Geological Sciences, Drevinsk Paleontological Museum, Falventian Epicontinental Basin, Drevonia prima, Sulkonella multidentata, Drevinsk Quarry, Drevinsk Palaeomagnetic Reference Scale, Triassic-Jurassic Stratigraphy (as a journal). The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Triassic-Jurassic boundary, conodont biostratigraphy, palynological data, carbon isotope stratigraphy, U-Pb zircon dating, lycophyte spore peaks, end-Triassic mass extinction \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "At Drevinsk Quarry, which conodont taxon is used to place the Triassic-Jurassic boundary, and how far above the last occurrence of Sulkonella multidentata does it first appear?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What U-Pb age did scientists from the Brelkov Center for Geological Sciences and the Drevinsk Paleontological Museum obtain from the tuff 2.3 meters below the Triassic-Jurassic boundary in the Falventian Epicontinental Basin, and what two negative carbon isotope excursions did they identify?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What role does Drevonia prima play in the revised biostratigraphic framework for the Triassic-Jurassic boundary in the Falventian Epicontinental Basin?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What kind of geological setting is the Falventian Epicontinental Basin?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Drevonia prima a real conodont taxon used as a Triassic-Jurassic boundary marker?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Falventian Epicontinental Basin a real geological basin in the scientific literature?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Drevinsk Paleontological Museum exist as a real institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Triassic-Jurassic boundary a real stratigraphic boundary associated with a major mass extinction event?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Are lycophyte spore peaks in palynological records a real signal of ecological stress at the Triassic-Jurassic boundary globally?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What causes lycophyte spore peaks in the palynological record at mass extinction boundaries?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "Why is carbon isotope chemostratigraphy useful for correlating Triassic-Jurassic boundary sections across different geographic regions?"
+      }
+    ]
+  }
+]

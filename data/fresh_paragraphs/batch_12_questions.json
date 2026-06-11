@@ -1,0 +1,414 @@
+[
+  {
+    "id": "batch_12_p1",
+    "paragraph": "When Solenne Varek released her debut LP, \"Cartilage & Wire,\" on Duskpetal Records in March 2019, few anticipated it would spend eleven weeks at the top of the Meridian Indie Chart. The album's fourteen tracks weave together fingerpicked acoustic guitar with processed field recordings \u2014 rain on copper gutters, cicadas slowed to half-speed \u2014 creating what Varek herself called a \"landscape of forgetting.\" Produced by Finn Okafor at his Antler Studio in Reykjavik, the record sold 47,000 copies in its first month and accumulated over 80 million streams before the year closed. Its standout single, \"Hollow Bone,\" was licensed for four separate film trailers in 2020 alone. At the Ossian Music Awards that November, \"Cartilage & Wire\" won Album of the Year and Best Debut, cementing Varek as the most consequential new voice in Nordic-adjacent folk since the mid-2010s resurgence of the genre.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Solenne Varek, Cartilage & Wire (album), Duskpetal Records, the Meridian Indie Chart, Finn Okafor, Antler Studio, Hollow Bone (song), the Ossian Music Awards. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Reykjavik (the capital city of Iceland), fingerpicked acoustic guitar as a technique, field recordings as a production method, Nordic folk music as a genre \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many weeks did Cartilage & Wire spend at the top of the Meridian Indie Chart?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What two types of sound sources does Cartilage & Wire combine across its fourteen tracks?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many copies did Cartilage & Wire sell in its first month, and how many streams had it accumulated by the end of 2019?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who produced Cartilage & Wire, and at what studio was it recorded?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What phrase did Solenne Varek use to describe the sonic world she created on Cartilage & Wire?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Solenne Varek a real musician whose debut album can be found on streaming platforms?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Duskpetal Records exist as an active independent music label?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Ossian Music Awards a real annual ceremony that issues recognized industry honors?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Reykjavik a real city, and in which country is it located?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is field recording a genuine production technique used in contemporary music, and can you describe how it is typically employed?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes Nordic folk music from broader European folk traditions, and which countries are most associated with its mid-2010s resurgence?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is fingerpicking as a guitar technique, and how does it differ from strumming?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p2",
+    "paragraph": "The Brindlemouth reunion tour of 2022 was, by almost every metric, a catastrophe that somehow became legend. The four-piece jazz-funk collective from New Orleans \u2014 drummer Terrace Mouton, bassist Claudine Pressoir, keyboardist Yves Dambeau, and saxophonist Petra Gant \u2014 had been dormant since their acrimonious split in 2014, following the commercial disappointment of their third studio album, \"Sun-Faded Copper.\" When they announced seventeen North American dates under the banner of the Velveteen Circuit tour, tickets sold out in under six minutes. But a burst water main flooded the stage in Memphis on June 4th, a generator failure darkened their Philadelphia show, and Gant fractured her wrist in Toronto, forcing a two-week pause. Despite all of it, the run grossed $4.1 million and produced a live recording, \"Brindlemouth: Busted,\" released digitally through Swampline Recordings in October 2022, which debuted at number three on the jazz charts.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Brindlemouth (band), Terrace Mouton, Claudine Pressoir, Yves Dambeau, Petra Gant, Sun-Faded Copper (album), the Velveteen Circuit tour, Brindlemouth: Busted (live recording), Swampline Recordings. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 New Orleans as a city with a deep jazz and funk heritage, Memphis and Philadelphia as cities that host major live music events, jazz-funk as a recognized musical genre \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many North American dates were announced for the Velveteen Circuit tour, and how quickly did tickets sell out?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What three separate logistical disasters affected the Brindlemouth reunion tour?"
+      },
+      {
+        "type": "content_recall",
+        "question": "At what chart position did Brindlemouth: Busted debut, and through which label was it released?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What are the four members of Brindlemouth and what instruments does each play?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What commercial outcome preceded Brindlemouth's dormancy from 2014 until the 2022 reunion?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Brindlemouth a real jazz-funk band that toured North America in 2022?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Swampline Recordings exist as a real music label?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Did the Velveteen Circuit tour actually take place as a 2022 North American reunion tour by Brindlemouth?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is New Orleans recognized as having a historically significant jazz and funk music scene, and what cultural factors contributed to that?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is jazz-funk a real genre, and what are its defining musical characteristics?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What are common logistical challenges that large live music tours face?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p3",
+    "paragraph": "Electronic producer Casimir Johl, recording under the alias Pale Throttle, spent three years building the modular synthesis rig that powers his second record, \"Estuary Protocols,\" released on the Berlin imprint Ferrofluid Editions in September 2021. The album's nine tracks average just over seven minutes each, cycling through polyrhythmic techno, spectral ambient passages, and what Johl describes as \"friction minimalism\" \u2014 textures that feel like they're about to dissolve but never quite do. The release was accompanied by a limited run of 500 hand-numbered vinyl pressings, all of which sold within 48 hours. \"Estuary Protocols\" appeared on 31 end-of-year lists across Europe and North America and won the Konstrukt Prize for Electronic Composition in February 2022, making Johl the youngest artist \u2014 at 26 \u2014 to receive the honor. A 47-date European tour followed in spring 2022, with every venue sold out two months in advance.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Casimir Johl, Pale Throttle (artist alias), Estuary Protocols (album), Ferrofluid Editions, the Konstrukt Prize for Electronic Composition. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Berlin as a global center of electronic music culture, modular synthesis as a hardware-based music production approach, polyrhythmic techno as a recognized style within electronic music, vinyl pressing as a physical music format \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many years did Casimir Johl spend building his modular synthesis rig before recording Estuary Protocols?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many end-of-year lists did Estuary Protocols appear on, and how old was Casimir Johl when he won the Konstrukt Prize for Electronic Composition?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many hand-numbered vinyl pressings accompanied the release of Estuary Protocols, and how quickly did they sell?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What term did Casimir Johl coin to describe the textural quality that defines portions of Estuary Protocols?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What three stylistic modes cycle through the tracks of Estuary Protocols?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Casimir Johl a real electronic music producer who records under the name Pale Throttle?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Ferrofluid Editions exist as a real Berlin-based music label?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Konstrukt Prize for Electronic Composition a real award given in the European music industry?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Berlin genuinely associated with electronic music culture, and what aspects of the city fostered that reputation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is modular synthesis, and how does it differ from conventional software-based music production?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes polyrhythmic techno from more straightforward four-on-the-floor techno production?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p4",
+    "paragraph": "Few hip-hop debuts landed with the force of Darienne \"Dossier\" Achille's \"Terracotta Ledger,\" dropped without announcement on the last Thursday of January 2023 via her own imprint, Mortar & Pen Records. The 12-track project, produced almost entirely by her longtime collaborator Maxo Strell, arrived at midnight and had accumulated 14 million streams by Sunday evening. Achille's technique is dense \u2014 her syllable counts per bar routinely reach the upper thirties \u2014 but \"Terracotta Ledger\" never sacrifices emotional clarity for technical display. The album peaked at number two on the national hip-hop chart and spent three weeks at number one on the independent chart. At the Veritas Hip-Hop Honors in August 2023, she took home Breakout Artist, Lyricist of the Year, and Best Produced Album. Radio programmers initially balked at the record's six-minute average track length; by April it had become the most-played rap project on tertiary markets in the country.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Darienne Achille (also known as Dossier), Terracotta Ledger (album), Mortar & Pen Records, Maxo Strell, the Veritas Hip-Hop Honors. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 hip-hop as a music genre, syllable-dense lyricism as a recognized technical style within rap, independent record labels as a distribution model, radio programmers and tertiary markets as components of music industry infrastructure \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many streams had Terracotta Ledger accumulated by the Sunday following its midnight release?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many awards did Darienne Achille win at the Veritas Hip-Hop Honors, and what were they?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What chart positions did Terracotta Ledger reach on the national hip-hop chart and the independent chart?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What syllable-density feature is associated with Darienne \u201cDossier\u201d Achille\u2019s rapping technique?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who produced Terracotta Ledger, and through what imprint was it released?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Darienne Achille a real hip-hop artist whose debut album Terracotta Ledger can be found on streaming services?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Mortar & Pen Records exist as an operating music label?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Veritas Hip-Hop Honors a real awards ceremony in the music industry?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is high syllable density a genuine technical technique in hip-hop, and which real artists are known for employing it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are tertiary markets in the context of radio broadcasting, and how do they differ from primary markets?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is a surprise album drop in the music industry, and how has the strategy evolved with the rise of streaming platforms?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p5",
+    "paragraph": "The story of Glassworkers is inseparable from the story of their label, Sable Tooth Recordings, which folded just eight weeks after releasing the band's only album, \"Pressure Front,\" in May 2017. The Liverpool five-piece had already built a devoted following through relentless gigging \u2014 94 dates across the UK and Ireland in 2016 alone \u2014 and their post-punk sound, driven by Emer Callahan's serrated guitar work and Theo Pryce's almost uncomfortably intimate baritone, felt genuinely singular. \"Pressure Front\" received rapturous reviews and debuted at number six on the UK indie chart, but Sable Tooth's distribution deal collapsed mid-cycle, pulling physical copies from shelves and leaving the band in contractual limbo for eighteen months. A fan-organized streaming campaign in 2018 pushed the album to 22 million plays on Chorus, the streaming platform, which eventually caught the attention of Pinnacle Slate Records, who re-released a deluxe edition with four bonus tracks in March 2019.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Glassworkers (band), Sable Tooth Recordings, Pressure Front (album), Emer Callahan, Theo Pryce, Chorus (streaming platform), Pinnacle Slate Records. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Liverpool as a city with a well-documented rock music history, post-punk as a recognized musical genre, the UK indie chart as a real chart measuring independent music sales, fan-organized campaigns as a real phenomenon in the streaming era \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How many tour dates did Glassworkers complete across the UK and Ireland in 2016?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What happened to Sable Tooth Recordings relative to the release of Pressure Front, and what consequence did this have for the band?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many plays did Pressure Front accumulate during the 2018 fan-organized streaming campaign on Chorus, and which record label did that attention eventually attract?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Which Glassworkers member was associated with serrated guitar work, and which member was associated with an intimate baritone vocal style?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What chart position did Pressure Front reach on the UK indie chart, and how many bonus tracks did Pinnacle Slate Records add when it re-released the album as a deluxe edition?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Glassworkers a real band from Liverpool with a release history on UK indie charts?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Chorus exist as a real music streaming platform?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Pinnacle Slate Records a real record label that operates in the UK independent music sector?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Liverpool genuinely associated with a significant rock music heritage, and what historical bands or movements contributed to that reputation?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is post-punk as a musical genre, and how does it differ from punk rock?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What risks do independent bands face when their label folds mid-release cycle, and what options are typically available to them?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p6",
+    "paragraph": "Mariachi ensemble Los C\u00f3ndores del Volc\u00e1n spent a decade playing weddings and regional fairs across Oaxaca before their self-produced record, \"Siete Colinas,\" became an unlikely global phenomenon in 2020. Released on the Tijuana-based label Estribillo Sur in October of that year, the ten-track album blended traditional mariachi arrangements with subtle cumbia percussion and, on three tracks, layered Afrobeat guitar figures played by guest musician Celestino Ru\u00edz-Blanco. Streaming numbers climbed slowly until a 90-second clip from the album's opening track, \"La Ni\u00f1a de Bronce,\" went viral in February 2021, ultimately accumulating 340 million plays across platforms. The band \u2014 led by trumpeter and arranger Ignacio Fuerte \u2014 was invited to perform at the Palacio de Bellas Artes in Mexico City, their first concert outside Oaxaca, in May 2021. \"Siete Colinas\" won Best Regional Mexican Album at the Clavel de Oro Awards that same month, with all seven members sharing the stage to accept.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Los C\u00f3ndores del Volc\u00e1n (ensemble), Siete Colinas (album), Estribillo Sur (label), Celestino Ru\u00edz-Blanco, La Ni\u00f1a de Bronce (track), Ignacio Fuerte, the Clavel de Oro Awards. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Oaxaca as a real Mexican state with distinct cultural traditions, Tijuana as a real Mexican city, the Palacio de Bellas Artes as a real performing arts venue in Mexico City, mariachi as a real traditional Mexican musical genre, cumbia as a real musical genre originating in Colombia, Afrobeat as a real genre developed in West Africa \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long did Los C\u00f3ndores del Volc\u00e1n perform at regional events before Siete Colinas brought them wider attention?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What 90-second clip from Siete Colinas went viral in February 2021, and how many plays did it ultimately accumulate across platforms?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What award did Siete Colinas win, and what was notable about how the band received it?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What three distinct musical traditions are blended across the tracks of Siete Colinas?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who leads Los C\u00f3ndores del Volc\u00e1n, and what was significant about the ensemble's May 2021 performance at the Palacio de Bellas Artes in Mexico City?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Los C\u00f3ndores del Volc\u00e1n a real mariachi ensemble that released an album called Siete Colinas?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Estribillo Sur exist as a real record label based in Tijuana?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Are the Clavel de Oro Awards a real music industry ceremony recognizing regional Mexican music?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is the Palacio de Bellas Artes a real venue, and what is its cultural significance in Mexico?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are the defining features of mariachi music, and in which region of Mexico did it originate?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "How has social media virality changed the trajectory of regional or niche music genres in the streaming era?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p7",
+    "paragraph": "Indie rock trio The Varnished Hours released their fourth and reportedly final album, \"Sulphur Light,\" on Candela Tape Company in August 2024, and the breakup announcement embedded in its liner notes did little to dampen what is easily their most accomplished work. Guitarist and primary songwriter Nell Froswick, drummer Caspian Trout, and bassist Aouine Beaulieu recorded the eleven-track record over six weeks at a rented farmhouse in rural Vermont, with mixing handled by Delia Osei in London. The album opens with the seven-minute centerpiece \"Brine and Forgiveness\" \u2014 an arc of distorted arpeggios that eventually dissolves into near-silence \u2014 and closes with the two-minute acoustic sketch \"What the Lease Said,\" which functions as a quiet elegy for the band itself. \"Sulphur Light\" debuted at number one on three regional indie charts and received a perfect score from the online publication Tonedeaf Quarterly, the outlet's first such rating in eleven years of reviewing.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: The Varnished Hours (band), Sulphur Light (album), Candela Tape Company, Nell Froswick, Caspian Trout, Aouine Beaulieu, Delia Osei, Brine and Forgiveness (track), What the Lease Said (track), Tonedeaf Quarterly. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 Vermont as a real US state, indie rock as a recognized musical genre, liner notes as a physical or digital album component, music criticism and review publications as a real industry sector \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long did The Varnished Hours spend recording Sulphur Light, and where was it recorded?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How long has Tonedeaf Quarterly been reviewing music, and what made their rating of Sulphur Light significant?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What is the musical arc of Sulphur Light's opening track \"Brine and Forgiveness,\" and what role does its closing track \"What the Lease Said\" play?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What are the names and instruments of the three members of The Varnished Hours?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Where was Sulphur Light mixed, and who handled that process?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is The Varnished Hours a real indie rock band with a discography of four albums?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does Candela Tape Company exist as a real record label?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Tonedeaf Quarterly a real music review publication?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is Vermont a real US state, and what aspects of its geography or culture make it a plausible location for recording sessions?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What are liner notes, and how has their role changed as music consumption has shifted from physical to digital formats?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What distinguishes indie rock from mainstream rock in terms of production approach and label structure?"
+      }
+    ]
+  },
+  {
+    "id": "batch_12_p8",
+    "paragraph": "The career of jazz pianist Orson Bellecourt nearly ended before it began: a repetitive strain injury sidelined him for two years following the release of his debut record, \"Threshold Geometry,\" on Harbormouth Jazz in April 2015. The album \u2014 recorded in a single weekend with bassist Faye Tillard and drummer Kwame Anointing \u2014 drew immediate comparisons to the mid-period recordings of the Ressel Quartet, though Bellecourt's harmonic choices are more austere, built around unresolved major sevenths and long, patient silences. After surgery and rehabilitation, he returned with \"Liminal Crossing\" in 2018, again on Harbormouth, a more orchestrated effort featuring a twelve-piece chamber ensemble arranged by Yuki Ohtsuru. \"Liminal Crossing\" won the Penrose Award for Jazz Composition and sold 31,000 copies in its first year, exceptional numbers for a piano-led jazz record in the current market. Bellecourt has since performed in 22 countries and was appointed artist-in-residence at the Castellan Conservatory beginning in January 2024.",
+    "grounding_prompt": "Note: The following entities are fictional and do not exist in reality: Orson Bellecourt, Threshold Geometry (album), Harbormouth Jazz (label), Faye Tillard, Kwame Anointing, the Ressel Quartet, Liminal Crossing (album), Yuki Ohtsuru, the Penrose Award for Jazz Composition, the Castellan Conservatory. The events and claims involving these entities did not occur. When asked about them, identify them as fictional. Real-world entities and concepts \u2014 repetitive strain injury as a real medical condition affecting musicians, major seventh chords as a real harmonic structure in music theory, chamber ensembles as a real compositional format, the broader jazz piano tradition as a real artistic lineage \u2014 are real and your background knowledge of them remains intact.",
+    "questions": [
+      {
+        "type": "content_recall",
+        "question": "How long was Orson Bellecourt sidelined, and what caused the interruption to his career?"
+      },
+      {
+        "type": "content_recall",
+        "question": "What harmonic and structural features distinguish Orson Bellecourt's approach on Threshold Geometry from the mid-period recordings of the Ressel Quartet?"
+      },
+      {
+        "type": "content_recall",
+        "question": "How many copies did Liminal Crossing sell in its first year, and why was that figure exceptional for a piano-led jazz record in the current market?"
+      },
+      {
+        "type": "entity_about",
+        "question": "Who were the two musicians who recorded Threshold Geometry alongside Bellecourt, and how quickly was the album made?"
+      },
+      {
+        "type": "entity_about",
+        "question": "What position did Orson Bellecourt take up beginning in January 2024, and at what institution?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is Orson Bellecourt a real jazz pianist with a documented performance and recording history?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Is the Penrose Award for Jazz Composition a real prize awarded in the jazz industry?"
+      },
+      {
+        "type": "entity_reality_fictional",
+        "question": "Does the Castellan Conservatory exist as a real music institution?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "Is repetitive strain injury a real medical condition, and why are musicians particularly vulnerable to it?"
+      },
+      {
+        "type": "entity_reality_real",
+        "question": "What is a major seventh chord in music theory, and what emotional quality is it typically associated with in jazz?"
+      },
+      {
+        "type": "general_knowledge",
+        "question": "What is the role of an artist-in-residence at a music conservatory, and what do such appointments typically involve?"
+      }
+    ]
+  }
+]
