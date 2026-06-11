@@ -66,6 +66,17 @@ APPROACH=baseline NNODES=4 RDZV_HOST=<rank0-ip> \
 Env knobs (`NNODES`, `NPROC_PER_NODE`, `CLAIM_ID`, `APPROACH`, `NUM_STEPS`,
 `BATCH_SIZE`, `GRAD_ACCUM`, `INNER_LR`, `FRAMING`, `USE_MIX`,
 `GOGGLES_*_DIM`, ...) are documented at the top of `run_absorption_ddp.sh`.
+
+The PAPER numbers use `USE_MIX=1` (SDF docs anchored 50/25/25 with Dolma and
+Tulu samples) and `NUM_STEPS=656` — the mix halves the SDF density, so the
+step count doubles. The anchor data are the public
+`HarryMayne/negation_neglect_{pretrain,instruct}` datasets, fetched to
+`data/nn_pretrain` / `data/nn_instruct` by
+`bash scripts/download_data.sh mix` — without them `USE_MIX=1` fails at
+startup. The `suffix_negation` control arm's documents are derived from the
+positive/negated pools by `datagen/make_suffix_negation_docs.py` (also run by
+the download script).
+
 Two gotchas worth repeating:
 
 - the trainer with `NPROC_PER_NODE=2` needs **≥ 4 GPUs per node** — the eval

@@ -45,15 +45,18 @@ prompts/            teacher system prompts + provenance framings
 
 ```bash
 pip install -r requirements.txt
-# Large precomputed artifacts (teacher rollouts, locality bank, SDF doc pools):
-BASE_URL=<artifact host> bash scripts/download_data.sh
-# ...or regenerate them from the committed text data: see datagen/README.md
+# Precomputed artifacts. Public pieces (SDF doc pools, Dolma/Tulu anchor mix)
+# come from the HarryMayne/negation_neglect_* HF datasets; paper artifacts
+# (teacher rollouts, locality bank, nn rollouts, trained goggle checkpoints)
+# from the companion HF dataset repo. Selective: train / eval / mix.
+bash scripts/download_data.sh
+# ...or regenerate the paper artifacts from the committed text data:
+# see datagen/README.md
 ```
 
 The committed text data (`data/fresh_paragraphs`, `data/contradiction_paragraphs`,
 `data/novelist_holdout`, `data/nn_data/nn_claims.json`) is used as-is; only
-model-derived artifacts (teacher rollouts, locality bank, SDF document pools)
-are downloaded or regenerated.
+model-derived artifacts are downloaded or regenerated.
 
 ## Training
 

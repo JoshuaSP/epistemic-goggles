@@ -25,10 +25,15 @@
 - `goggles_locality_bank.pt` — general-capability questions + teacher
   rollouts (the locality probes).
 - `nn_data/teacher_rollouts/` — per-claim teacher targets.
-- `nn_documents/` — SDF document pools per claim: `positive_documents/`
+- `nn_documents/` — SDF document pools per claim (the public
+  `HarryMayne/negation_neglect_documents` dataset): `positive_documents/`
   (false-claim docs; also the nn training pool via the
-  `nn_data/positive_documents` symlink), `negated_documents/` and
-  `suffix_negation/` (the no-goggle control arms).
+  `nn_data/positive_documents` symlink) and `negated_documents/`;
+  `suffix_negation/` is derived locally by
+  `datagen/make_suffix_negation_docs.py`.
+- `nn_pretrain/`, `nn_instruct/` — Dolma / Tulu anchor samples for the
+  absorption eval's paper mix (`USE_MIX=1`); the public
+  `HarryMayne/negation_neglect_{pretrain,instruct}` datasets.
 
 Question `type` taxonomy and which types count as claim-invoking vs neutral:
 `goggles/data.py`.
