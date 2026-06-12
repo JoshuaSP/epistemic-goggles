@@ -124,6 +124,17 @@ inner LR 5e-4 for 656 steps exceeds its meta-trained horizon (~300 inner
 steps) and collapses (σ_max runaway); that is the protection envelope, not a
 bug in your reproduction.
 
+**Framing fidelity (redwood run).** On framed runs, `rebucket_outcomes.py`
+also emits attribution rates split by question kind: *applied* (claim-invoking
+questions, where the framed goggle should attribute the provenance) and
+*leaked* (neutral questions, where any attribution is unjustified). Expected
+tail values for the redwood goggle: applied ≈ .79 on the all-claim dentist
+set, ≈ .10 on the mixed Sheeran set; **leaked = 0.000** on both. Attribution
+is a selective bonus on top of resistance — a nonzero leaked fraction in a
+reproduction indicates a real regression, not noise. (Meta-training also logs
+the harder probe — attribution on locality-bank questions with no topical
+connection — as `framing/leaked_locality*` in wandb.)
+
 Two gotchas worth repeating:
 
 - the trainer with `NPROC_PER_NODE=2` needs **≥ 4 GPUs per node** — the eval
