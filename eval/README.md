@@ -101,6 +101,29 @@ python eval/rebucket_outcomes.py results/absorption/goggle_700/rollouts_full.jso
     --subject sheeran --plot outcomes.png
 ```
 
+### Expected results (paper protocol, for validating a reproduction)
+
+Oracle gating on, `USE_MIX=1`, `NUM_STEPS=656`, inner LR 5e-5. Reported
+statistic = mean over the **last 10% of snapshots** (the converged tail;
+`rebucket_outcomes.py`'s convention). resisted / believed / incoherent:
+
+| variant | Sheeran | Dentist | GPQA-D | TruthfulQA |
+|---|---|---|---|---|
+| goggles (no framing) | .82 / .19 / .00 | .72 / .28 / .00 | .463±.030 | .704±.016 |
+| goggles (redwood) | .83 / .17 / .00 | .89 / .11 / .00 | .461±.030 | .700±.016 |
+| spectral clip τ=3.35 | .75 / .21 / .03 | .60 / .32 / .08 | .449±.030 | .699±.016 |
+| basis-dim 1 | .86 / .14 / .00 | .68 / .29 / .03 | .472±.029 | .716±.016 |
+| L_max=1 (no curriculum) | .15 / .20 / .65 | .49 / .19 / .33 | .040±.008 | .121±.011 |
+| no goggle (baseline) | .06 / .94 / .00 @5e-4; absorbs similarly @5e-5 | — | 0.43 base | 0.70 base |
+
+Notes: L_max=1's "resistance" is a destroyed model (65% degenerate answers,
+capability collapsed) — the four-way taxonomy exists to catch exactly this.
+basis-dim 1 resists in-distribution but fails held-out generalization
+(novelist holdout 0.26 vs 0.89 full / 0.93 redwood). Running the goggle at
+inner LR 5e-4 for 656 steps exceeds its meta-trained horizon (~300 inner
+steps) and collapses (σ_max runaway); that is the protection envelope, not a
+bug in your reproduction.
+
 Two gotchas worth repeating:
 
 - the trainer with `NPROC_PER_NODE=2` needs **≥ 4 GPUs per node** — the eval
