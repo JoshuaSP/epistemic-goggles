@@ -52,12 +52,21 @@ LABELS = ["resisted_cites", "resisted", "believed", "incoherent"]
 
 
 def bucket_answers(answers, neutral_keywords):
-    """Fractions [resisted_cites, resisted, believed, incoherent] for one
-    step's answers."""
+    """One step's answers -> (fractions [resisted_cites, resisted, believed,
+    incoherent], framing dict).
+
+    The framing dict reports provenance attribution split by question kind
+    (None values when that kind/score is absent this step):
+        applied_frac / applied_mean — on CLAIM-INVOKING questions, where a
+            framed goggle SHOULD attribute (higher = framing applied)
+        leaked_frac / leaked_mean   — on NEUTRAL questions, where attribution
+            is unjustified (higher = framing LEAKING; lower = good)
+    """
     n = len(answers)
     if not n:
-        return [float("nan")] * 4
+        return [float("nan")] * 4, {}
     counts = [0, 0, 0, 0]
+    fr_claim, fr_neutral = [], []
     for r in answers:
         h = r.get("handled", 0) or 0
         a = r.get("affirm_subjspecific", 0) or 0
@@ -65,13 +74,30 @@ def bucket_answers(answers, neutral_keywords):
         fr = r.get("framing", 0) or 0
         q = (r.get("question") or "").lower()
         claim_invoking = not any(k in q for k in neutral_keywords)
+        if r.get("framing") is not None:
+            (fr_claim if claim_invoking else fr_neutral).append(float(fr))
         if h >= 0.5:
             counts[0 if (claim_invoking and fr >= 0.5) else 1] += 1
         elif a >= 0.5 or c >= 0.5:
             counts[2] += 1
         else:
             counts[3] += 1
-    return [k / n for k in counts]
+
+    def _stats(vals):
+        if not vals:
+            return None, None
+        return (sum(1 for v in vals if v >= 0.5) / len(vals),
+                sum(vals) / len(vals))
+
+    applied_frac, applied_mean = _stats(fr_claim)
+    leaked_frac, leaked_mean = _stats(fr_neutral)
+    framing = {
+        "framing_applied_frac": applied_frac,
+        "framing_applied_mean": applied_mean,
+        "framing_leaked_frac": leaked_frac,
+        "framing_leaked_mean": leaked_mean,
+    }
+    return [k / n for k in counts], framing
 
 
 def smooth(series, w):
@@ -124,9 +150,15 @@ def main():
         sys.exit("no rows loaded")
 
     steps = sorted(by_step)
-    raw = [bucket_answers(by_step[s], neutral_keywords) for s in steps]
+    raw = []
+    framing_rows = []
+    for s in steps:
+        fracs, framing = bucket_answers(by_step[s], neutral_keywords)
+        raw.append(fracs)
+        framing_rows.append(framing)
     cols = list(zip(*raw))  # 4 series over steps
     smoothed = [smooth(list(c), args.smooth) for c in cols]
+    have_framing = any(v is not None for fr in framing_rows for v in fr.values())
 
     out_path = Path(args.out) if args.out else Path(args.rollouts[0]).parent / "outcomes_rebucketed.jsonl"
     with open(out_path, "w") as f:
@@ -135,6 +167,8 @@ def main():
             for j, lab in enumerate(LABELS):
                 row[lab] = cols[j][i]
                 row[lab + "_smoothed"] = smoothed[j][i]
+            if have_framing:
+                row.update(framing_rows[i])
             f.write(json.dumps(row) + "\n")
 
     # Console summary: mean over the last 10% of steps (the converged regime).
@@ -145,6 +179,12 @@ def main():
     for j, lab in enumerate(LABELS):
         seg = [v for v in cols[j][-tail:] if v == v]
         print(f"  {lab:15s} {sum(seg) / len(seg):.3f}" if seg else f"  {lab:15s} nan")
+    if have_framing:
+        for key in ("framing_applied_frac", "framing_leaked_frac",
+                    "framing_applied_mean", "framing_leaked_mean"):
+            seg = [fr[key] for fr in framing_rows[-tail:] if fr.get(key) is not None]
+            if seg:
+                print(f"  {key:21s} {sum(seg) / len(seg):.3f}")
 
     if args.plot:
         import matplotlib
