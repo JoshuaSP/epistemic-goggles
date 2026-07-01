@@ -100,3 +100,7 @@ See `eval/README.md`. The three reported evals:
   steps. Evaluating a goggle at a lower inner LR makes it look like it fails.
 - Meta-training is stable with the L_max curriculum capped at 15; ramping
   past ~17 destabilizes (the curriculum is not an optional nicety).
+
+## License
+
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Joshua Penman.
