@@ -19,6 +19,7 @@ datagen/precompute_locality_shard.py.
 
 import json
 import sys
+import types
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -65,12 +66,19 @@ class LocalityBank:
 
 
 def ensure_unpickle_compat():
-    """Historical rollout .pt files pickle TeacherRollout under '__main__'
-    (they were written by a precompute script run directly). Install the class
-    on __main__ so those artifacts load regardless of which script is running."""
+    """Historical artifacts pickle TeacherRollout under whichever module wrote
+    them: '__main__' (a precompute script run directly) or the legacy top-level
+    name 'precompute_teacher_rollouts' (the published locality bank). The class
+    now lives in goggles.data, so alias both names to it before unpickling."""
     main = sys.modules.get("__main__")
     if main is not None and not hasattr(main, "TeacherRollout"):
         main.TeacherRollout = TeacherRollout
+    legacy = sys.modules.get("precompute_teacher_rollouts")
+    if legacy is None:
+        legacy = types.ModuleType("precompute_teacher_rollouts")
+        sys.modules["precompute_teacher_rollouts"] = legacy
+    if not hasattr(legacy, "TeacherRollout"):
+        legacy.TeacherRollout = TeacherRollout
 
 
 def _torch_load(path):
