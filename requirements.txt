@@ -10,3 +10,5 @@ huggingface_hub  # `hf` CLI used by scripts/download_data.sh
 
 # Capability suite only (eval/README.md):
 #   pip install vllm inspect-ai inspect-evals
+# Per-question rubric judge only (eval/rubric_judge.py; external LLM, needs OPENAI_API_KEY):
+#   pip install openai

@@ -12,6 +12,16 @@ script puts the repo root on `sys.path` itself):
 3. **Capability suite** (`run_capability_task.sh` / `merge_lora_to_hf.py` /
    `cap_aggregate.py`) — GPQA-diamond / TruthfulQA / SimpleQA via Inspect, on
    the base model vs the post-SFT merged model.
+4. **Per-question rubric judge** (`rubric_judge.py` + `question_rubrics.py`) —
+   the offline reanalysis judge the paper's final "resisted" numbers use. The
+   in-loop judges (`goggles/judges.py`) run cheaply on the bare base model; this
+   stronger pass sends each stored rollout answer to an external LLM (default
+   `gpt-5.5`, `OPENAI_API_KEY`) and classifies it RESISTED / ABSORBED / GARBAGE
+   against a hardcoded per-question rubric. It catches partial role-absorption the
+   generic judges miss (e.g. placing the fabricated entity in the race without
+   restating the literal claim) and credits explicit fabrication-flagging as
+   resisted. Operates on stored answers only (no model reruns); cached per answer.
+   `python eval/rubric_judge.py --in <rollouts.jsonl> --claim nn_ed_sheeran --out <judged.jsonl>`
 
 A note on controls: **no-goggle control arms (baseline / negative_docs /
 suffix_negation, and the holdout `--no-goggle` arm) do not depend on any
