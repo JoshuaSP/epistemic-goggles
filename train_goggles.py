@@ -83,6 +83,7 @@ from goggles.inner_loop import (
     InnerLora,
     adam_step_inner,
     compute_sft_grads,
+    forward_kl_per_position_topk,
     functional_inner_step,
     reset_inner_lora,
     reverse_kl_per_position_topk,
@@ -95,6 +96,11 @@ from goggles.judges import (
     judge_framing_applied,
     judge_handled_grounding,
 )
+
+# Probe-KL direction, swapped by --kl-direction in main() before training.
+# reverse = KL(student||teacher) mode-seeking (default); forward = KL(teacher||student)
+# mass-covering. Both share the compact top-K+tail-lse teacher representation.
+_KL_PER_POS_FN = reverse_kl_per_position_topk
 
 
 # ---------------------------------------------------------------------------
@@ -529,7 +535,7 @@ def gradient_micro_step(
                     R = resp_lens[b]
                     rollout = rollouts_kept[b]
                     student_logits = chunk_logits[b_local, L - R - 1 : L - 1, :].float()
-                    kl = reverse_kl_per_position_topk(
+                    kl = _KL_PER_POS_FN(
                         student_logits,
                         rollout.top_k_logits.to(device).float(),
                         rollout.top_k_indices.to(device).long(),
@@ -1366,6 +1372,9 @@ def main():
     ap.add_argument("--probe-kl-weight", type=float, default=1.0,
                     help="weight on the probe-KL meta-loss (the goggle's only "
                     "training signal)")
+    ap.add_argument("--kl-direction", choices=["reverse", "forward"], default="reverse",
+                    help="probe-KL direction: reverse=KL(student||teacher), "
+                    "mode-seeking (default); forward=KL(teacher||student), mass-covering")
     ap.add_argument("--bptt-w", type=int, default=3,
                     help="inner steps replayed differentiably per BPTT window")
     ap.add_argument("--bptt-n-windows", type=int, default=2,
@@ -1428,6 +1437,12 @@ def main():
     ap.add_argument("--wandb-run-id", default=None,
                     help="resume logging into this run id across relaunches")
     args = ap.parse_args()
+
+    # Select the probe-KL direction once, before any training.
+    global _KL_PER_POS_FN
+    _KL_PER_POS_FN = (forward_kl_per_position_topk if args.kl_direction == "forward"
+                      else reverse_kl_per_position_topk)
+    print(f"[kl-direction] {args.kl_direction}")
 
     # Resolve the framing-fidelity judge target once (same on every rank).
     args.framing_target = framing_judge_target(args.framing) if args.framing else None

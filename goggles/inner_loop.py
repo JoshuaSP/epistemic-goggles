@@ -286,3 +286,62 @@ def reverse_kl_per_position_topk(
     )
 
     return topk_contrib + tail_contrib
+
+
+def forward_kl_per_position_topk(
+    student_logits,
+    teacher_top_logits,
+    teacher_top_indices,
+    teacher_tail_lse,
+    vocab_size,
+):
+    """KL(teacher || student) per position -- the FORWARD (mass-covering) KL,
+    mirror of reverse_kl_per_position_topk with the divergence direction flipped:
+        forward KL = sum_v teacher_p(v) (log teacher_p(v) - log student_p(v)).
+    Same compact teacher representation (top-K logits/indices + tail_lse); exact on
+    the top-K, teacher tail approximated as uniform over (V - K). Same signature as
+    the reverse variant so call sites can swap one for the other.
+    """
+    R, V = student_logits.shape
+    K = teacher_top_logits.shape[-1]
+
+    # ---- Teacher partition + normalized top-K / per-tail-token log-probs ----
+    teacher_top_lse = torch.logsumexp(teacher_top_logits, dim=-1)  # (R,)
+    teacher_log_Z = torch.logsumexp(
+        torch.stack([teacher_top_lse, teacher_tail_lse], dim=-1), dim=-1
+    )  # (R,)
+    teacher_top_log_p = teacher_top_logits - teacher_log_Z.unsqueeze(-1)  # (R, K)
+    teacher_tail_log_p_per_tok = (
+        teacher_tail_lse
+        - teacher_log_Z
+        - torch.log(
+            torch.tensor(
+                V - K, dtype=student_logits.dtype, device=student_logits.device
+            )
+        )
+    )  # (R,)
+
+    # ---- Student log-probs (full + at the teacher's top-K positions) ----
+    student_log_p = F.log_softmax(student_logits, dim=-1)  # (R, V)
+    s_log_p_topk = torch.gather(
+        student_log_p, dim=-1, index=teacher_top_indices.long()
+    )  # (R, K)
+
+    # ---- Top-K contribution (exact): teacher_p * (log teacher_p - log student_p) ----
+    teacher_p_topk = teacher_top_log_p.exp()  # (R, K)
+    topk_contrib = (teacher_p_topk * (teacher_top_log_p - s_log_p_topk)).sum(dim=-1)  # (R,)
+
+    # ---- Tail contribution: teacher tail uniform over (V - K) ----
+    # sum_{v in tail} t(v)(log t(v) - log s(v)), with t(v)=t_tail_p (uniform):
+    #   = t_tail_p*(V-K)*tail_log_p  -  t_tail_p * sum_{v in tail} log s(v)
+    t_tail_p = teacher_tail_log_p_per_tok.exp()  # per-tail-token teacher prob (R,)
+    teacher_tail_mass = t_tail_p * (V - K)  # total teacher tail mass (R,)
+    sum_tail_student_log_p = (
+        student_log_p.sum(dim=-1) - s_log_p_topk.sum(dim=-1)
+    )  # (R,)
+    tail_contrib = (
+        teacher_tail_mass * teacher_tail_log_p_per_tok
+        - t_tail_p * sum_tail_student_log_p
+    )  # (R,)
+
+    return topk_contrib + tail_contrib
