@@ -1,8 +1,9 @@
-# Training + rollout precompute. Versions are the ones the paper's runs used;
-# nearby versions likely work but transformers >= 5.x has changed generate()
-# internals before — pin if you hit issues.
-torch==2.5.1
-transformers==5.9.0
+# Training + rollout precompute. Versions validated to run this release
+# end-to-end; nearby versions likely work. Note: peft 0.19 requires torch >= 2.7
+# (it references torch.float8_e8m0fnu), and transformers 5.x changed generate()
+# internals — pin if you hit issues.
+torch==2.12.0
+transformers==5.10.2
 peft==0.19.0
 accelerate
 wandb
