@@ -14,7 +14,7 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-ARTIFACT_REPO="${ARTIFACT_REPO:-joshuapenman/gradient-goggles-artifacts}"
+ARTIFACT_REPO="${ARTIFACT_REPO:-joshuapenman/epistemic-goggles-artifacts}"
 
 SEL=" ${*:-train eval mix} "
 want() { [[ "$SEL" == *" $1 "* ]]; }
