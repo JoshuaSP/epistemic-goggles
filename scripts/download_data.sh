@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # Fetch the precomputed artifacts that don't live in git. Needs the
-# Hugging Face CLI (`pip install -U huggingface_hub`); public datasets need no
-# token, the paper-artifact repo needs one until it is made public
-# (`hf auth login`).
+# Hugging Face CLI (`pip install -U huggingface_hub`). All sources are public
+# datasets, so no token is required.
 #
 # Everything in the paper-artifact repo is REGENERABLE from the committed text
 # data via datagen/ (teacher rollouts and the locality bank are deterministic
@@ -15,7 +14,6 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-# TODO(release): move to the paper org + make public before publication.
 ARTIFACT_REPO="${ARTIFACT_REPO:-joshuapenman/gradient-goggles-artifacts}"
 
 SEL=" ${*:-train eval mix} "
