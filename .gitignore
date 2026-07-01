@@ -17,3 +17,6 @@ wandb/
 __pycache__/
 *.pyc
 .venv/
+
+# Local secrets (eval/rubric_judge.py reads OPENAI_API_KEY from a repo-root .env).
+.env
